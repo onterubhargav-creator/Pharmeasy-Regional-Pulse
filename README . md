@@ -1,0 +1,21 @@
+# Pharmeasy-Regional-Pulse
+
+## How to run end-to-end (3 commands)
+1. pip install -r requirements.txt
+2. python clean_data.py && python build_db.py
+3. streamlit run app.py
+
+## Pipeline
+dataset generation -> cleaning (2159->2100, 59 dup removed, 16->9 regions, 142 missing imputed) -> metrics (SQL LEFT JOIN 2101 vs INNER 2100 delta Kurnool) -> report/review (Guntur +122.19%) -> dashboard
+
+## 4-Artifact Cover Note
+1. Data Cleaning: orders_clean.csv 2100 rows validated, schema check
+2. SQL Metrics: pharmeasy.db with region x month MoM growth, flagged 7 of 9 regions
+3. Report Gate: memo.md 7 fields, risk tags LOW/MEDIUM/HIGH, audit_log.jsonl 3 decisions approve/edit/reject
+4. Dashboard: app.py 3-level Overview KPI distinct order_id, Category 6 cats, Detail table, 3 charts trend/bar/pie
+
+## Acceptance Criteria
+- April->May flags: Hyderabad, Warangal, Visakhapatnam, Guntur, Tirupati, Karimnagar, Bengaluru
+- May->June flags: Hyderabad, Warangal, Vijayawada, Visakhapatnam, Guntur, Tirupati, Karimnagar
+- Nellore never flagged stable
+- Guntur April->May +122.19% largest

@@ -1,0 +1,2160 @@
+order_id,region,category,product,sales_inr,profit_inr,order_date
+ORD00057,hyderabad,Vitamins,Vitamin-D3,1048,,2025-04-14
+ORD00195,Vijayawada,Respiratory,Salbutamol-Inhaler,1184,200.84,2025-04-19
+ORD01833,Vijayawada,Diabetes,Metformin-500mg,936,173.38,2025-06-05
+ORD00234,Vijayawada,Vitamins,Vitamin-D3,1096,206.52,2025-04-15
+ORD00573,Bengaluru,Vitamins,Vitamin-D3,973,239.86,2025-04-26
+ORD01211,Guntur,Respiratory,Salbutamol-Inhaler,1335,,2025-05-18
+ORD02047,Guntur,Cardiac,Amlodipine-5mg,986,173.55,2025-06-22
+ORD00868,Warangal,Antibiotics,Amoxicillin-500,890,138.05,2025-05-04
+ORD00638,Nellore,Diabetes,Metformin-500mg,1120,221.9,2025-04-12
+ORD00174,Warangal,Vitamins,Vitamin-D3,763,,2025-04-10
+ORD01651,hyderabad,,Vitamin-D3,1404,322.07,2025-06-26
+ORD01098,Visakhapatnam,Antibiotics,Amoxicillin-500,1126,292.52,2025-05-27
+ORD01519,Nellore,Cardiac,Amlodipine-5mg,1175,273.82,2025-05-15
+ORD02485,Nellore,Cardiac,Amlodipine-5mg,1034,216.09,2025-06-11
+ORD00299,Visakhapatnam,Antibiotics,Amoxicillin-500,1119,278.68,2025-04-17
+ORD02053,Guntur,Cardiac,Amlodipine-5mg,1443,273.37,2025-06-02
+ORD00913,Warangal,Cardiac,Amlodipine-5mg,1156,186.52,2025-05-03
+ORD01835,Vijayawada,Vitamins,Vitamin-D3,1022,211.57,2025-06-04
+ORD00388,Guntur,Vitamins,Vitamin-D3,1064,220.65,2025-04-21
+ORD01015,Visakhapatnam,Vitamins,Vitamin-D3,1135,262.96,2025-05-17
+ORD02345,Bengaluru,Cardiac,Amlodipine-5mg,955,188.97,2025-06-10
+ORD01107,Visakhapatnam,Cardiac,Amlodipine-5mg,1030,233.45,2025-05-27
+ORD02417,nellore,Respiratory,Salbutamol-Inhaler,1331,,2025-06-21
+ORD01012,Visakhapatnam,Pain Relief,Paracetamol-650,699,147.66,2025-05-27
+ORD00260,Vijayawada,Diabetes,Metformin-500mg,1152,294.63,2025-04-06
+ORD00179,Warangal,Respiratory,Salbutamol-Inhaler,1403,313.74,2025-04-01
+ORD00211,Vijayawada,Vitamins,Vitamin-D3,1030,186.52,2025-04-07
+ORD01129,Guntur,,Amoxicillin-500,1087,185.86,2025-05-23
+ORD00045,hyderabad,Respiratory,Salbutamol-Inhaler,847,227.05,2025-04-01
+ORD02419,Nellore,Antibiotics,Amoxicillin-500,909,216.72,2025-06-21
+ORD02016,Guntur,Vitamins,Vitamin-D3,1147,195.7,2025-06-04
+ORD01101,Visakhapatnam,Pain Relief,Paracetamol-650,1176,244.61,2025-05-17
+ORD00603,Bengaluru,Antibiotics,Amoxicillin-500,821,136.83,2025-04-07
+ORD00197,Vijayawada,Respiratory,Salbutamol-Inhaler,1354,353.65,2025-04-18
+ORD00867,Warangal,Respiratory,Salbutamol-Inhaler,502,80.55,2025-05-06
+ORD00071,Hyderabad,Pain Relief,Paracetamol-650,1263,267.39,2025-04-25
+ORD00545,Bengaluru,Antibiotics,Amoxicillin-500,1298,336.19,2025-04-04
+ORD01424,Bangalore,Antibiotics,Amoxicillin-500,784,211.07,2025-05-11
+ORD00891,Warangal,Diabetes,Metformin-500mg,1267,333.33,2025-05-16
+ORD01936,Visakhapatnam,Cardiac,Amlodipine-5mg,797,219.72,2025-06-27
+ORD01115,Visakhapatnam,Antibiotics,Amoxicillin-500,1086,289.52,2025-05-07
+ORD00602,bangalore,,Paracetamol-650,1118,261.4,2025-04-24
+ORD00908,Warangal,Vitamins,Vitamin-D3,937,148.71,2025-05-08
+ORD01784,Warangal,Diabetes,Metformin-500mg,910,205.5,2025-06-24
+ORD01993,Visakhapatnam,Cardiac,Amlodipine-5mg,1025,155.54,2025-06-05
+ORD01400,Bangalore,Cardiac,Amlodipine-5mg,1166,212.04,2025-05-24
+ORD02282,Karimnagar,Antibiotics,Amoxicillin-500,800,,2025-06-13
+ORD00773,Hyderabad,Vitamins,Vitamin-D3,990,239.39,2025-05-24
+ORD00252,Vijayawada,Antibiotics,Amoxicillin-500,762,167.15,2025-04-05
+ORD02425,Nellore,Pain Relief,Paracetamol-650,1046,287.41,2025-06-21
+ORD01599,hyderabad,Respiratory,Salbutamol-Inhaler,1016,267.18,2025-06-21
+ORD01058,Visakhapatnam,Cardiac,Amlodipine-5mg,1080,217.45,2025-05-22
+ORD00945,Vijayawada,Cardiac,Amlodipine-5mg,906,173.9,2025-05-09
+ORD02067,Guntur,Cardiac,Amlodipine-5mg,670,129.49,2025-06-28
+ORD00433,Tirupati,Diabetes,Metformin-500mg,972,,2025-04-18
+ORD02343,Bengaluru,Pain Relief,Paracetamol-650,1293,317.77,2025-06-21
+ORD02230,Karimnagar,Respiratory,Salbutamol-Inhaler,956,244.77,2025-06-03
+ORD01232,Tirupati,Diabetes,Metformin-500mg,1138,296.0,2025-05-22
+ORD00509,Karimnagar,Vitamins,Vitamin-D3,926,217.88,2025-04-17
+ORD01002,Vijayawada,Diabetes,Metformin-500mg,905,206.32,2025-05-24
+ORD01186,Guntur,,Vitamin-D3,658,161.98,2025-05-27
+ORD01985,Visakhapatnam,Cardiac,Amlodipine-5mg,570,89.35,2025-06-14
+ORD00388,Guntur,Vitamins,Vitamin-D3,1064,220.65,2025-04-21
+ORD00756,Hyderabad,Diabetes,Metformin-500mg,621,,2025-05-18
+ORD02060,Guntur,Cardiac,Amlodipine-5mg,960,225.94,2025-06-24
+ORD02407,Bengaluru,Antibiotics,Amoxicillin-500,903,182.24,2025-06-02
+ORD01079,Visakhapatnam,Cardiac,Amlodipine-5mg,1347,308.81,2025-05-17
+ORD01489,Bangalore,Cardiac,Amlodipine-5mg,1064,161.04,2025-05-08
+ORD01514,nellore,Diabetes,Metformin-500mg,1238,310.47,2025-05-18
+ORD02003,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1008,159.43,2025-06-27
+ORD00597,Bengaluru,Antibiotics,Amoxicillin-500,920,173.65,2025-04-21
+ORD00074,Hyderabad,Cardiac,Amlodipine-5mg,1362,,2025-04-27
+ORD01989,Visakhapatnam,Pain Relief,Paracetamol-650,820,214.0,2025-06-12
+ORD01874,Vijayawada,Diabetes,Metformin-500mg,1227,,2025-06-04
+ORD00680,nellore,Respiratory,Salbutamol-Inhaler,1265,291.4,2025-04-10
+ORD01704,Hyderabad,Respiratory,Salbutamol-Inhaler,1131,209.9,2025-06-23
+ORD01568,Nellore,Vitamins,Vitamin-D3,904,139.12,2025-05-25
+ORD00720,Hyderabad,Diabetes,Metformin-500mg,1175,260.26,2025-05-20
+ORD01872,Vijayawada,Pain Relief,Paracetamol-650,988,249.19,2025-06-27
+ORD00810,Hyderabad,Pain Relief,Paracetamol-650,1391,218.38,2025-05-19
+ORD01613,Hyderabad,Vitamins,Vitamin-D3,1198,192.11,2025-06-16
+ORD01051,Visakhapatnam,Vitamins,Vitamin-D3,837,173.14,2025-05-05
+ORD00880,Warangal,,Vitamin-D3,760,174.51,2025-05-01
+ORD00044,Hyderabad,Respiratory,Salbutamol-Inhaler,1281,239.07,2025-04-28
+ORD00437,Tirupati,Respiratory,Salbutamol-Inhaler,679,153.11,2025-04-19
+ORD01732,Warangal,Respiratory,Salbutamol-Inhaler,561,112.16,2025-06-22
+ORD00663,nellore,Vitamins,Vitamin-D3,1299,258.92,2025-04-18
+ORD00917,Vijayawada,Antibiotics,Amoxicillin-500,877,170.63,2025-05-23
+ORD00621,Bengaluru,Respiratory,Salbutamol-Inhaler,704,166.1,2025-04-22
+ORD00355,Visakhapatnam,Cardiac,Amlodipine-5mg,1079,203.9,2025-04-24
+ORD00650,nellore,Respiratory,Salbutamol-Inhaler,1057,205.26,2025-04-19
+ORD01965,Visakhapatnam,Vitamins,Vitamin-D3,747,132.05,2025-06-28
+ORD00890,Warangal,Pain Relief,Paracetamol-650,1040,182.87,2025-05-11
+ORD01654,Hyderabad,Vitamins,Vitamin-D3,800,143.85,2025-06-07
+ORD01382,Karimnagar,Diabetes,Metformin-500mg,988,148.36,2025-05-12
+ORD00247,Vijayawada,Pain Relief,Paracetamol-650,1318,287.77,2025-04-11
+ORD01445,Bengaluru,Antibiotics,Amoxicillin-500,518,100.31,2025-05-18
+ORD01511,nellore,Diabetes,Metformin-500mg,1291,265.47,2025-05-25
+ORD00255,Vijayawada,Antibiotics,Amoxicillin-500,752,161.49,2025-04-16
+ORD01026,Visakhapatnam,Diabetes,Metformin-500mg,1220,321.21,2025-05-13
+ORD01738,Warangal,Pain Relief,Paracetamol-650,1005,220.22,2025-06-11
+ORD02000,Visakhapatnam,Vitamins,Vitamin-D3,1268,315.75,2025-06-08
+ORD02017,Guntur,Antibiotics,Amoxicillin-500,1117,272.79,2025-06-16
+ORD02323,Bengaluru,Pain Relief,Paracetamol-650,1014,203.42,2025-06-18
+ORD01755,Warangal,Pain Relief,Paracetamol-650,1154,252.95,2025-06-22
+ORD01390,Bengaluru,Antibiotics,Amoxicillin-500,1093,224.69,2025-05-05
+ORD00600,Bengaluru,Pain Relief,Paracetamol-650,1155,309.23,2025-04-20
+ORD00368,Guntur,Cardiac,Amlodipine-5mg,969,177.94,2025-04-19
+ORD00528,Karimnagar,Diabetes,Metformin-500mg,994,,2025-04-17
+ORD00176,Warangal,Antibiotics,Amoxicillin-500,1086,214.79,2025-04-28
+ORD02058,Guntur,Cardiac,Amlodipine-5mg,1012,244.27,2025-06-03
+ORD01224,Guntur,Vitamins,Vitamin-D3,1054,231.57,2025-05-04
+ORD02366,Bangalore,Cardiac,Amlodipine-5mg,996,278.68,2025-06-22
+ORD02203,Tirupati,,Amoxicillin-500,1121,280.32,2025-06-19
+ORD00171,Warangal,Pain Relief,Paracetamol-650,739,140.88,2025-04-22
+ORD02095,Guntur,Diabetes,Metformin-500mg,1091,244.55,2025-06-12
+ORD00423,Tirupati,Respiratory,Salbutamol-Inhaler,1051,264.37,2025-04-01
+ORD01476,Bengaluru,Diabetes,Metformin-500mg,1126,299.1,2025-05-20
+ORD01274,Tirupati,Antibiotics,Amoxicillin-500,614,153.27,2025-05-23
+ORD01337,Karimnagar,Vitamins,Vitamin-D3,1063,208.33,2025-05-07
+ORD00446,Tirupati,Diabetes,Metformin-500mg,848,141.61,2025-04-21
+ORD00283,Visakhapatnam,Cardiac,Amlodipine-5mg,801,145.4,2025-04-02
+ORD01038,Visakhapatnam,,Amoxicillin-500,1225,217.57,2025-05-06
+ORD01118,Guntur,Antibiotics,Amoxicillin-500,1240,237.16,2025-05-06
+ORD02241,Karimnagar,,Amoxicillin-500,1101,191.99,2025-06-22
+ORD00394,Guntur,Cardiac,Amlodipine-5mg,929,259.21,2025-04-08
+ORD02070,Guntur,Pain Relief,Paracetamol-650,1308,345.96,2025-06-19
+ORD00808,hyderabad,Antibiotics,Amoxicillin-500,1128,215.9,2025-05-06
+ORD00569,Bengaluru,Pain Relief,Paracetamol-650,585,141.75,2025-04-28
+ORD01284,Tirupati,Respiratory,Salbutamol-Inhaler,879,149.3,2025-05-08
+ORD01827,Vijayawada,Cardiac,Amlodipine-5mg,1115,233.06,2025-06-01
+ORD01269,Tirupati,Vitamins,Vitamin-D3,901,228.48,2025-05-28
+ORD01727,Warangal,Vitamins,Vitamin-D3,849,154.14,2025-06-05
+ORD00638,Nellore,Diabetes,Metformin-500mg,1120,221.9,2025-04-12
+ORD02091,Guntur,Pain Relief,Paracetamol-650,1034,249.3,2025-06-24
+ORD00189,Vijayawada,Pain Relief,Paracetamol-650,1221,197.14,2025-04-17
+ORD02130,Guntur,Vitamins,Vitamin-D3,1224,232.69,2025-06-07
+ORD00094,Hyderabad,Respiratory,Salbutamol-Inhaler,897,199.36,2025-04-14
+ORD01622,Hyderabad,Vitamins,Vitamin-D3,849,176.99,2025-06-05
+ORD00565,Bengaluru,Respiratory,Salbutamol-Inhaler,1215,203.32,2025-04-10
+ORD01973,Visakhapatnam,Cardiac,Amlodipine-5mg,1455,382.71,2025-06-12
+ORD01352,Karimnagar,Respiratory,Salbutamol-Inhaler,862,166.76,2025-05-05
+ORD00135,Warangal,Cardiac,Amlodipine-5mg,1029,192.79,2025-04-25
+ORD01423,Bengaluru,Vitamins,Vitamin-D3,1425,393.75,2025-05-14
+ORD02163,Tirupati,,Salbutamol-Inhaler,1069,246.76,2025-06-04
+ORD00290,Visakhapatnam,Antibiotics,Amoxicillin-500,980,209.92,2025-04-07
+ORD00651,Nellore,Respiratory,Salbutamol-Inhaler,821,183.26,2025-04-15
+ORD02082,Guntur,Cardiac,Amlodipine-5mg,1129,310.66,2025-06-03
+ORD01404,Bengaluru,Respiratory,Salbutamol-Inhaler,1002,270.03,2025-05-06
+ORD00987,Vijayawada,Pain Relief,Paracetamol-650,1099,301.71,2025-05-09
+ORD01981,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1457,386.46,2025-06-05
+ORD00747,Hyderabad,Vitamins,Vitamin-D3,577,124.7,2025-05-20
+ORD02281,Karimnagar,Vitamins,Vitamin-D3,550,112.88,2025-06-09
+ORD00706,Hyderabad,Antibiotics,Amoxicillin-500,825,198.51,2025-05-24
+ORD00519,Karimnagar,Respiratory,Salbutamol-Inhaler,654,110.92,2025-04-15
+ORD01584,hyderabad,Cardiac,Amlodipine-5mg,775,136.76,2025-06-07
+ORD00783,Hyderabad,Pain Relief,Paracetamol-650,999,154.5,2025-05-27
+ORD01856,Vijayawada,Pain Relief,Paracetamol-650,1178,,2025-06-21
+ORD00555,Bengaluru,Diabetes,Metformin-500mg,875,170.02,2025-04-11
+ORD00671,Nellore,Respiratory,Salbutamol-Inhaler,569,104.41,2025-04-20
+ORD00462,Tirupati,Respiratory,Salbutamol-Inhaler,998,157.43,2025-04-28
+ORD01114,Visakhapatnam,Cardiac,Amlodipine-5mg,750,,2025-05-19
+ORD01600,Hyderabad,Cardiac,Amlodipine-5mg,840,151.41,2025-06-15
+ORD01737,Warangal,Pain Relief,Paracetamol-650,657,159.36,2025-06-06
+ORD00325,Visakhapatnam,Antibiotics,Amoxicillin-500,929,195.66,2025-04-16
+ORD02228,Karimnagar,Respiratory,Salbutamol-Inhaler,860,142.39,2025-06-08
+ORD01701,Hyderabad,Vitamins,Vitamin-D3,1226,333.8,2025-06-03
+ORD01733,Warangal,Pain Relief,Paracetamol-650,1507,308.67,2025-06-15
+ORD00857,Warangal,Respiratory,Salbutamol-Inhaler,540,125.84,2025-05-22
+ORD00213,Vijayawada,Pain Relief,Paracetamol-650,791,135.31,2025-04-02
+ORD00970,Vijayawada,Respiratory,Salbutamol-Inhaler,578,,2025-05-24
+ORD01692,Hyderabad,Diabetes,Metformin-500mg,1173,318.25,2025-06-07
+ORD01656,Hyderabad,Cardiac,Amlodipine-5mg,528,89.97,2025-06-08
+ORD01757,Warangal,Vitamins,Vitamin-D3,1203,,2025-06-20
+ORD01913,Visakhapatnam,Antibiotics,Amoxicillin-500,1078,218.76,2025-06-28
+ORD00219,Vijayawada,Vitamins,Vitamin-D3,728,194.93,2025-04-24
+ORD00622,Bengaluru,Pain Relief,Paracetamol-650,779,165.36,2025-04-08
+ORD00169,Warangal,Antibiotics,Amoxicillin-500,784,179.31,2025-04-25
+ORD01363,Karimnagar,Antibiotics,Amoxicillin-500,864,218.41,2025-05-10
+ORD00212,Vijayawada,Respiratory,Salbutamol-Inhaler,857,204.12,2025-04-25
+ORD00728,Hyderabad,Respiratory,Salbutamol-Inhaler,1363,344.94,2025-05-19
+ORD01917,Visakhapatnam,Pain Relief,Paracetamol-650,567,113.61,2025-06-11
+ORD01623,Hyderabad,Vitamins,Vitamin-D3,1138,306.26,2025-06-19
+ORD00568,Bengaluru,Antibiotics,Amoxicillin-500,1306,288.0,2025-04-18
+ORD02226,Karimnagar,Vitamins,Vitamin-D3,1010,261.47,2025-06-27
+ORD02219,Karimnagar,Diabetes,Metformin-500mg,858,130.73,2025-06-03
+ORD00322,Visakhapatnam,Diabetes,Metformin-500mg,916,233.22,2025-04-07
+ORD02045,Guntur,Pain Relief,Paracetamol-650,1077,246.62,2025-06-04
+ORD00950,Vijayawada,Diabetes,Metformin-500mg,743,200.64,2025-05-27
+ORD01084,Visakhapatnam,Diabetes,Metformin-500mg,1201,203.82,2025-05-26
+ORD01166,Guntur,Respiratory,Salbutamol-Inhaler,1016,259.02,2025-05-01
+ORD00112,Warangal,Respiratory,Salbutamol-Inhaler,796,164.84,2025-04-09
+ORD00652,Nellore,,Vitamin-D3,511,107.26,2025-04-03
+ORD01272,Tirupati,Pain Relief,Paracetamol-650,1334,332.99,2025-05-22
+ORD02375,Bengaluru,Pain Relief,Paracetamol-650,1282,236.1,2025-06-03
+ORD00479,Karimnagar,Diabetes,Metformin-500mg,1079,173.34,2025-04-16
+ORD00618,Bengaluru,Antibiotics,Amoxicillin-500,666,156.47,2025-04-08
+ORD00240,Vijayawada,Respiratory,Salbutamol-Inhaler,939,171.32,2025-04-18
+ORD00508,Karimnagar,Antibiotics,Amoxicillin-500,987,184.32,2025-04-09
+ORD01106,Visakhapatnam,Antibiotics,Amoxicillin-500,1363,231.61,2025-05-16
+ORD01615,Hyderabad,Antibiotics,Amoxicillin-500,1013,240.72,2025-06-11
+ORD02273,Karimnagar,Vitamins,Vitamin-D3,1173,325.5,2025-06-27
+ORD01562,Nellore,Vitamins,Vitamin-D3,746,163.12,2025-05-17
+ORD02207,Karimnagar,Vitamins,Vitamin-D3,1226,,2025-06-08
+ORD01996,Visakhapatnam,Vitamins,Vitamin-D3,1070,292.84,2025-06-13
+ORD01171,Guntur,Diabetes,Metformin-500mg,868,149.54,2025-05-14
+ORD02263,Karimnagar,Pain Relief,Paracetamol-650,874,158.92,2025-06-18
+ORD01605,Hyderabad,Antibiotics,Amoxicillin-500,1042,211.59,2025-06-20
+ORD02143,Tirupati,Diabetes,Metformin-500mg,1196,268.43,2025-06-24
+ORD01386,Karimnagar,Respiratory,Salbutamol-Inhaler,1163,265.11,2025-05-10
+ORD01399,Bengaluru,Vitamins,Vitamin-D3,1211,256.72,2025-05-05
+ORD01761,Warangal,Diabetes,Metformin-500mg,1071,296.94,2025-06-20
+ORD01551,Nellore,Vitamins,Vitamin-D3,937,252.15,2025-05-22
+ORD01967,Visakhapatnam,Pain Relief,Paracetamol-650,885,177.95,2025-06-27
+ORD01456,Bengaluru,Diabetes,Metformin-500mg,934,254.16,2025-05-11
+ORD01875,Vijayawada,Antibiotics,Amoxicillin-500,970,224.76,2025-06-04
+ORD01468,Bengaluru,,Paracetamol-650,835,233.25,2025-05-09
+ORD01777,Warangal,Diabetes,Metformin-500mg,1204,271.35,2025-06-22
+ORD02099,Guntur,Diabetes,Metformin-500mg,941,199.92,2025-06-07
+ORD02463,nellore,Diabetes,Metformin-500mg,1308,361.49,2025-06-28
+ORD01152,Guntur,Cardiac,Amlodipine-5mg,725,144.32,2025-05-02
+ORD01150,Guntur,Diabetes,Metformin-500mg,1018,279.59,2025-05-08
+ORD01659,hyderabad,Cardiac,Amlodipine-5mg,988,266.23,2025-06-20
+ORD01745,Warangal,,Vitamin-D3,1122,174.23,2025-06-24
+ORD00496,Karimnagar,Vitamins,Vitamin-D3,1233,251.75,2025-04-27
+ORD01006,Vijayawada,,Paracetamol-650,1197,290.92,2025-05-20
+ORD02245,Karimnagar,Vitamins,Vitamin-D3,1093,,2025-06-08
+ORD02194,Tirupati,Antibiotics,Amoxicillin-500,758,185.57,2025-06-21
+ORD02116,Guntur,Antibiotics,Amoxicillin-500,1299,224.13,2025-06-07
+ORD01090,Visakhapatnam,Antibiotics,Amoxicillin-500,945,254.83,2025-05-18
+ORD02287,Karimnagar,Antibiotics,Amoxicillin-500,831,182.72,2025-06-06
+ORD01135,Guntur,Vitamins,Vitamin-D3,855,227.46,2025-05-27
+ORD00415,Tirupati,Respiratory,Salbutamol-Inhaler,1097,287.31,2025-04-25
+ORD01415,Bengaluru,Diabetes,Metformin-500mg,969,224.2,2025-05-22
+ORD01100,Visakhapatnam,Respiratory,Salbutamol-Inhaler,953,199.23,2025-05-02
+ORD01317,Karimnagar,Vitamins,Vitamin-D3,845,187.35,2025-05-09
+ORD01678,Hyderabad,Vitamins,Vitamin-D3,975,170.04,2025-06-02
+ORD01918,Visakhapatnam,Diabetes,Metformin-500mg,786,127.7,2025-06-16
+ORD01334,Karimnagar,Cardiac,Amlodipine-5mg,1008,164.48,2025-05-05
+ORD01666,Hyderabad,Diabetes,Metformin-500mg,1316,211.75,2025-06-27
+ORD01621,hyderabad,Respiratory,Salbutamol-Inhaler,767,214.18,2025-06-14
+ORD00052,Hyderabad,Vitamins,Vitamin-D3,969,247.48,2025-04-28
+ORD01831,Vijayawada,Diabetes,Metformin-500mg,1040,159.55,2025-06-18
+ORD02235,Karimnagar,Vitamins,Vitamin-D3,585,,2025-06-14
+ORD02178,Tirupati,,Amlodipine-5mg,794,199.09,2025-06-14
+ORD01670,Hyderabad,Antibiotics,Amoxicillin-500,758,198.31,2025-06-23
+ORD01057,Visakhapatnam,Diabetes,Metformin-500mg,1021,283.52,2025-05-01
+ORD01180,Guntur,Diabetes,Metformin-500mg,1132,307.47,2025-05-03
+ORD00737,Hyderabad,Antibiotics,Amoxicillin-500,1001,251.23,2025-05-22
+ORD01286,Tirupati,,Vitamin-D3,552,148.27,2025-05-14
+ORD00097,Hyderabad,Antibiotics,Amoxicillin-500,625,138.47,2025-04-08
+ORD01707,Hyderabad,Vitamins,Vitamin-D3,1160,276.68,2025-06-24
+ORD02019,Guntur,Diabetes,Metformin-500mg,1371,318.62,2025-06-11
+ORD01381,Karimnagar,Vitamins,Vitamin-D3,960,149.56,2025-05-14
+ORD00408,Tirupati,,Metformin-500mg,907,211.7,2025-04-20
+ORD01387,Karimnagar,Antibiotics,Amoxicillin-500,1076,175.94,2025-05-26
+ORD00742,Hyderabad,Cardiac,Amlodipine-5mg,1163,220.58,2025-05-07
+ORD00533,Karimnagar,Vitamins,Vitamin-D3,1245,203.73,2025-04-04
+ORD01487,Bengaluru,Respiratory,Salbutamol-Inhaler,795,151.62,2025-05-15
+ORD01208,Guntur,Antibiotics,Amoxicillin-500,832,137.91,2025-05-25
+ORD01897,Visakhapatnam,Cardiac,Amlodipine-5mg,1236,326.31,2025-06-18
+ORD01744,Warangal,Pain Relief,Paracetamol-650,1085,288.67,2025-06-27
+ORD00999,Vijayawada,Respiratory,Salbutamol-Inhaler,680,181.61,2025-05-03
+ORD01791,Vijayawada,Antibiotics,Amoxicillin-500,1238,271.76,2025-06-02
+ORD01091,Visakhapatnam,Antibiotics,Amoxicillin-500,1071,257.76,2025-05-07
+ORD00790,Hyderabad,Diabetes,Metformin-500mg,1164,295.59,2025-05-18
+ORD00522,Karimnagar,Pain Relief,Paracetamol-650,1063,267.96,2025-04-14
+ORD00860,Warangal,Antibiotics,Amoxicillin-500,996,200.24,2025-05-14
+ORD01781,Warangal,Diabetes,Metformin-500mg,1109,198.21,2025-06-23
+ORD01037,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1337,231.95,2025-05-22
+ORD01356,Karimnagar,Antibiotics,Amoxicillin-500,771,177.69,2025-05-18
+ORD00451,Tirupati,Antibiotics,Amoxicillin-500,889,,2025-04-09
+ORD02424,Nellore,Pain Relief,Paracetamol-650,1061,224.78,2025-06-14
+ORD00436,Tirupati,Diabetes,Metformin-500mg,1229,298.05,2025-04-23
+ORD01986,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1035,160.69,2025-06-03
+ORD00031,Hyderabad,Pain Relief,Paracetamol-650,1140,,2025-04-03
+ORD00730,Hyderabad,Respiratory,Salbutamol-Inhaler,904,176.49,2025-05-28
+ORD00839,Warangal,Antibiotics,Amoxicillin-500,1040,225.31,2025-05-26
+ORD02124,Guntur,Pain Relief,Paracetamol-650,872,,2025-06-11
+ORD02482,Nellore,Pain Relief,Paracetamol-650,1151,191.92,2025-06-12
+ORD00319,Visakhapatnam,Vitamins,Vitamin-D3,1137,179.07,2025-04-13
+ORD02037,Guntur,Respiratory,Salbutamol-Inhaler,1006,222.19,2025-06-05
+ORD02267,Karimnagar,Diabetes,Metformin-500mg,1022,187.37,2025-06-21
+ORD01988,Visakhapatnam,,Metformin-500mg,973,260.36,2025-06-23
+ORD02162,Tirupati,Cardiac,Amlodipine-5mg,1427,,2025-06-13
+ORD01657,Hyderabad,Cardiac,Amlodipine-5mg,985,248.15,2025-06-09
+ORD02306,Bengaluru,Antibiotics,Amoxicillin-500,1330,233.02,2025-06-13
+ORD00297,Visakhapatnam,Vitamins,Vitamin-D3,1329,250.32,2025-04-05
+ORD00238,Vijayawada,Vitamins,Vitamin-D3,967,191.1,2025-04-22
+ORD00110,Warangal,Antibiotics,Amoxicillin-500,1158,273.23,2025-04-21
+ORD02395,Bengaluru,Cardiac,Amlodipine-5mg,1114,249.34,2025-06-18
+ORD01502,nellore,Pain Relief,Paracetamol-650,924,161.07,2025-05-18
+ORD02122,Guntur,Respiratory,Salbutamol-Inhaler,1066,176.45,2025-06-02
+ORD01539,Nellore,Vitamins,Vitamin-D3,1109,295.39,2025-05-24
+ORD00253,Vijayawada,Diabetes,Metformin-500mg,826,188.88,2025-04-01
+ORD01794,Vijayawada,Cardiac,Amlodipine-5mg,892,219.97,2025-06-05
+ORD01792,Vijayawada,Pain Relief,Paracetamol-650,1110,248.28,2025-06-23
+ORD01134,Guntur,Pain Relief,Paracetamol-650,1030,228.92,2025-05-03
+ORD01949,Visakhapatnam,Pain Relief,Paracetamol-650,1119,289.04,2025-06-08
+ORD01178,Guntur,Pain Relief,Paracetamol-650,1001,185.07,2025-05-02
+ORD00648,Nellore,Antibiotics,Amoxicillin-500,821,220.81,2025-04-20
+ORD02008,Visakhapatnam,Vitamins,Vitamin-D3,1007,197.25,2025-06-28
+ORD01176,Guntur,Antibiotics,Amoxicillin-500,577,91.42,2025-05-17
+ORD02051,Guntur,Antibiotics,Amoxicillin-500,1015,215.61,2025-06-08
+ORD00411,Tirupati,Respiratory,Salbutamol-Inhaler,1038,242.69,2025-04-10
+ORD00991,Vijayawada,Vitamins,Vitamin-D3,876,188.25,2025-05-09
+ORD01568,Nellore,Vitamins,Vitamin-D3,904,139.12,2025-05-25
+ORD01780,Warangal,Pain Relief,Paracetamol-650,800,154.39,2025-06-02
+ORD02465,Nellore,Pain Relief,Paracetamol-650,634,168.03,2025-06-12
+ORD01911,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1314,319.0,2025-06-13
+ORD01958,Visakhapatnam,,Vitamin-D3,1203,185.95,2025-06-16
+ORD01414,Bengaluru,Antibiotics,Amoxicillin-500,842,,2025-05-06
+ORD02472,Nellore,,Amlodipine-5mg,1046,240.13,2025-06-16
+ORD01034,Visakhapatnam,Vitamins,Vitamin-D3,979,,2025-05-06
+ORD01104,Visakhapatnam,Antibiotics,Amoxicillin-500,795,,2025-05-06
+ORD00421,Tirupati,Cardiac,Amlodipine-5mg,1088,249.8,2025-04-23
+ORD00749,Hyderabad,Cardiac,Amlodipine-5mg,1438,,2025-05-22
+ORD01762,Warangal,Respiratory,Salbutamol-Inhaler,500,95.76,2025-06-21
+ORD01035,Visakhapatnam,,Amlodipine-5mg,884,186.28,2025-05-23
+ORD01437,Bengaluru,Vitamins,Vitamin-D3,594,133.14,2025-05-07
+ORD00101,Warangal,Respiratory,Salbutamol-Inhaler,1064,200.01,2025-04-04
+ORD01252,Tirupati,Respiratory,Salbutamol-Inhaler,838,214.4,2025-05-23
+ORD00451,Tirupati,Antibiotics,Amoxicillin-500,889,,2025-04-09
+ORD00262,Vijayawada,,Metformin-500mg,994,176.9,2025-04-27
+ORD00369,Guntur,Diabetes,Metformin-500mg,812,203.33,2025-04-01
+ORD00499,Karimnagar,Cardiac,Amlodipine-5mg,1000,269.34,2025-04-17
+ORD00480,Karimnagar,Vitamins,Vitamin-D3,1146,211.38,2025-04-13
+ORD02038,Guntur,Antibiotics,Amoxicillin-500,770,197.87,2025-06-28
+ORD00180,Warangal,Cardiac,Amlodipine-5mg,1015,250.7,2025-04-12
+ORD01394,Bengaluru,Antibiotics,Amoxicillin-500,946,237.41,2025-05-12
+ORD01766,Warangal,Cardiac,Amlodipine-5mg,715,164.77,2025-06-01
+ORD00799,Hyderabad,Vitamins,Vitamin-D3,1197,221.8,2025-05-10
+ORD01058,Visakhapatnam,Cardiac,Amlodipine-5mg,1080,217.45,2025-05-22
+ORD02158,Tirupati,Diabetes,Metformin-500mg,1205,329.21,2025-06-02
+ORD02358,Bengaluru,Pain Relief,Paracetamol-650,789,209.36,2025-06-14
+ORD02327,bangalore,Pain Relief,Paracetamol-650,990,274.5,2025-06-20
+ORD00292,Visakhapatnam,Antibiotics,Amoxicillin-500,1283,304.93,2025-04-13
+ORD00142,Warangal,Respiratory,Salbutamol-Inhaler,1386,311.47,2025-04-22
+ORD00465,Tirupati,Diabetes,Metformin-500mg,931,247.32,2025-04-27
+ORD01768,Warangal,Vitamins,Vitamin-D3,932,186.97,2025-06-15
+ORD01136,Guntur,Pain Relief,Paracetamol-650,797,205.28,2025-05-23
+ORD02119,Guntur,,Amlodipine-5mg,996,254.68,2025-06-09
+ORD00529,Karimnagar,Diabetes,Metformin-500mg,1225,309.9,2025-04-20
+ORD00479,Karimnagar,Diabetes,Metformin-500mg,1079,173.34,2025-04-16
+ORD01682,Hyderabad,Vitamins,Vitamin-D3,535,95.3,2025-06-17
+ORD02300,Karimnagar,Vitamins,Vitamin-D3,1150,179.83,2025-06-24
+ORD01884,Vijayawada,Antibiotics,Amoxicillin-500,924,200.94,2025-06-19
+ORD00889,Warangal,Diabetes,Metformin-500mg,1026,222.58,2025-05-11
+ORD01603,Hyderabad,Respiratory,Salbutamol-Inhaler,1184,195.02,2025-06-27
+ORD00248,Vijayawada,Vitamins,Vitamin-D3,999,159.48,2025-04-27
+ORD02141,Tirupati,Vitamins,Vitamin-D3,859,187.51,2025-06-14
+ORD00765,Hyderabad,Cardiac,Amlodipine-5mg,709,172.73,2025-05-18
+ORD01547,nellore,,Paracetamol-650,1148,258.84,2025-05-05
+ORD01059,Visakhapatnam,Vitamins,Vitamin-D3,816,188.01,2025-05-23
+ORD02410,Bengaluru,Vitamins,Vitamin-D3,1198,233.06,2025-06-13
+ORD01350,Karimnagar,,Vitamin-D3,1031,,2025-05-02
+ORD02129,Guntur,Pain Relief,Paracetamol-650,1045,179.25,2025-06-08
+ORD00030,Hyderabad,Antibiotics,Amoxicillin-500,990,206.24,2025-04-03
+ORD00531,Karimnagar,Cardiac,Amlodipine-5mg,830,183.55,2025-04-21
+ORD01407,Bengaluru,,Paracetamol-650,714,144.7,2025-05-14
+ORD00791,Hyderabad,,Vitamin-D3,1067,255.76,2025-05-18
+ORD02299,Karimnagar,Diabetes,Metformin-500mg,790,142.72,2025-06-12
+ORD01928,Visakhapatnam,,Paracetamol-650,587,160.09,2025-06-05
+ORD02084,Guntur,Cardiac,Amlodipine-5mg,1383,265.5,2025-06-20
+ORD00487,Karimnagar,Cardiac,Amlodipine-5mg,500,103.3,2025-04-09
+ORD00158,Warangal,Respiratory,Salbutamol-Inhaler,685,111.6,2025-04-12
+ORD01860,Vijayawada,Pain Relief,Paracetamol-650,712,178.26,2025-06-25
+ORD02174,Tirupati,Pain Relief,Paracetamol-650,840,155.72,2025-06-13
+ORD00614,Bengaluru,Diabetes,Metformin-500mg,691,169.76,2025-04-16
+ORD00606,Bengaluru,Vitamins,Vitamin-D3,851,198.55,2025-04-11
+ORD01567,Nellore,Antibiotics,Amoxicillin-500,1217,245.71,2025-05-09
+ORD00333,Visakhapatnam,Vitamins,Vitamin-D3,1036,156.63,2025-04-22
+ORD00924,Vijayawada,Cardiac,Amlodipine-5mg,525,106.36,2025-05-11
+ORD01855,Vijayawada,Diabetes,Metformin-500mg,914,154.36,2025-06-26
+ORD02180,Tirupati,Pain Relief,Paracetamol-650,1288,291.73,2025-06-20
+ORD00904,Warangal,Vitamins,Vitamin-D3,1024,153.78,2025-05-17
+ORD02046,Guntur,Vitamins,Vitamin-D3,1118,209.18,2025-06-13
+ORD01406,Bengaluru,Diabetes,Metformin-500mg,962,247.16,2025-05-23
+ORD00354,Visakhapatnam,Diabetes,Metformin-500mg,1179,281.89,2025-04-05
+ORD00464,Tirupati,Diabetes,Metformin-500mg,952,233.44,2025-04-11
+ORD00209,Vijayawada,Pain Relief,Paracetamol-650,1071,257.11,2025-04-02
+ORD01045,Visakhapatnam,Diabetes,Metformin-500mg,1023,206.5,2025-05-10
+ORD00444,Tirupati,,Salbutamol-Inhaler,847,155.7,2025-04-15
+ORD01282,Tirupati,Antibiotics,Amoxicillin-500,904,173.22,2025-05-28
+ORD01395,Bengaluru,Cardiac,Amlodipine-5mg,1116,219.98,2025-05-12
+ORD02020,Guntur,Antibiotics,Amoxicillin-500,772,195.47,2025-06-26
+ORD01492,Bengaluru,Respiratory,Salbutamol-Inhaler,840,161.96,2025-05-06
+ORD01267,Tirupati,Cardiac,Amlodipine-5mg,730,198.85,2025-05-04
+ORD01099,Visakhapatnam,Vitamins,Vitamin-D3,903,179.78,2025-05-07
+ORD02027,Guntur,,Vitamin-D3,1177,269.13,2025-06-17
+ORD02333,Bengaluru,Respiratory,Salbutamol-Inhaler,1288,336.74,2025-06-24
+ORD01196,Guntur,,Salbutamol-Inhaler,977,158.39,2025-05-16
+ORD02460,Nellore,,Amlodipine-5mg,801,,2025-06-08
+ORD01722,Warangal,Antibiotics,Amoxicillin-500,951,167.19,2025-06-11
+ORD00200,Vijayawada,Diabetes,Metformin-500mg,1017,157.72,2025-04-20
+ORD00230,Vijayawada,Vitamins,Vitamin-D3,885,154.74,2025-04-11
+ORD02123,Guntur,Cardiac,Amlodipine-5mg,1097,242.77,2025-06-22
+ORD01804,Vijayawada,Diabetes,Metformin-500mg,705,123.49,2025-06-11
+ORD00694,Nellore,Respiratory,Salbutamol-Inhaler,1004,211.12,2025-04-05
+ORD01611,Hyderabad,Antibiotics,Amoxicillin-500,826,144.84,2025-06-26
+ORD01756,Warangal,Antibiotics,Amoxicillin-500,821,226.44,2025-06-07
+ORD00701,nellore,Antibiotics,Amoxicillin-500,1257,190.01,2025-04-25
+ORD00316,Visakhapatnam,Antibiotics,Amoxicillin-500,1407,371.96,2025-04-16
+ORD01682,Hyderabad,Vitamins,Vitamin-D3,535,95.3,2025-06-17
+ORD02205,Tirupati,Pain Relief,Paracetamol-650,563,89.05,2025-06-20
+ORD01005,Vijayawada,Cardiac,Amlodipine-5mg,919,219.42,2025-05-12
+ORD00070,Hyderabad,Pain Relief,Paracetamol-650,949,217.93,2025-04-18
+ORD00708,Hyderabad,Respiratory,Salbutamol-Inhaler,1372,302.4,2025-05-24
+ORD01262,Tirupati,,Salbutamol-Inhaler,510,134.39,2025-05-13
+ORD00136,Warangal,Vitamins,Vitamin-D3,1302,314.44,2025-04-02
+ORD00813,Hyderabad,Vitamins,Vitamin-D3,783,187.12,2025-05-08
+ORD01671,Hyderabad,Cardiac,Amlodipine-5mg,761,130.19,2025-06-04
+ORD01197,Guntur,Cardiac,Amlodipine-5mg,1029,283.17,2025-05-03
+ORD02052,Guntur,Cardiac,Amlodipine-5mg,552,127.03,2025-06-28
+ORD00696,Nellore,Cardiac,Amlodipine-5mg,1198,198.69,2025-04-15
+ORD00232,Vijayawada,Pain Relief,Paracetamol-650,1135,272.36,2025-04-03
+ORD01460,Bengaluru,Antibiotics,Amoxicillin-500,1007,201.11,2025-05-21
+ORD02319,bangalore,Pain Relief,Paracetamol-650,955,243.31,2025-06-24
+ORD00431,Tirupati,Respiratory,Salbutamol-Inhaler,1025,165.26,2025-04-26
+ORD00928,Vijayawada,Diabetes,Metformin-500mg,1153,239.8,2025-05-17
+ORD00434,Tirupati,,Salbutamol-Inhaler,749,174.27,2025-04-25
+ORD00566,Bengaluru,Vitamins,Vitamin-D3,959,212.14,2025-04-07
+ORD00612,Bengaluru,Antibiotics,Amoxicillin-500,811,175.46,2025-04-28
+ORD02029,Guntur,Respiratory,Salbutamol-Inhaler,997,152.83,2025-06-15
+ORD01540,Nellore,Cardiac,Amlodipine-5mg,980,,2025-05-05
+ORD02442,Nellore,Respiratory,Salbutamol-Inhaler,1028,182.15,2025-06-06
+ORD02248,Karimnagar,Diabetes,Metformin-500mg,1007,170.29,2025-06-14
+ORD00280,Visakhapatnam,Vitamins,Vitamin-D3,690,128.03,2025-04-12
+ORD00619,Bengaluru,Antibiotics,Amoxicillin-500,693,,2025-04-05
+ORD01304,Tirupati,Cardiac,Amlodipine-5mg,1059,193.04,2025-05-19
+ORD01577,Hyderabad,Cardiac,Amlodipine-5mg,1006,152.21,2025-06-18
+ORD00486,Karimnagar,Pain Relief,Paracetamol-650,994,171.44,2025-04-05
+ORD01962,Visakhapatnam,Diabetes,Metformin-500mg,963,190.53,2025-06-23
+ORD02210,Karimnagar,Vitamins,Vitamin-D3,852,215.08,2025-06-19
+ORD00323,Visakhapatnam,Respiratory,Salbutamol-Inhaler,856,151.97,2025-04-25
+ORD02316,Bengaluru,Respiratory,Salbutamol-Inhaler,983,189.82,2025-06-02
+ORD02283,Karimnagar,Respiratory,Salbutamol-Inhaler,828,224.01,2025-06-02
+ORD00510,Karimnagar,Diabetes,Metformin-500mg,1143,305.13,2025-04-22
+ORD02428,Nellore,,Vitamin-D3,1176,304.04,2025-06-08
+ORD01028,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1127,315.08,2025-05-24
+ORD00258,Vijayawada,Respiratory,Salbutamol-Inhaler,1085,300.33,2025-04-08
+ORD00409,Tirupati,Vitamins,Vitamin-D3,1095,194.58,2025-04-15
+ORD02312,Bengaluru,Cardiac,Amlodipine-5mg,909,158.4,2025-06-18
+ORD00441,Tirupati,Respiratory,Salbutamol-Inhaler,793,218.39,2025-04-04
+ORD00077,Hyderabad,Vitamins,Vitamin-D3,739,,2025-04-11
+ORD02061,Guntur,Pain Relief,Paracetamol-650,1051,249.36,2025-06-26
+ORD01823,Vijayawada,Antibiotics,Amoxicillin-500,1131,,2025-06-03
+ORD01841,Vijayawada,,Paracetamol-650,1522,372.66,2025-06-06
+ORD01676,Hyderabad,Respiratory,Salbutamol-Inhaler,669,180.98,2025-06-17
+ORD02169,Tirupati,Diabetes,Metformin-500mg,1077,,2025-06-15
+ORD01011,Visakhapatnam,,Paracetamol-650,722,180.27,2025-05-27
+ORD02097,Guntur,Diabetes,Metformin-500mg,1055,260.65,2025-06-01
+ORD01916,Visakhapatnam,Diabetes,Metformin-500mg,1088,167.37,2025-06-04
+ORD00150,Warangal,Vitamins,Vitamin-D3,818,199.71,2025-04-12
+ORD01652,Hyderabad,Pain Relief,Paracetamol-650,1335,215.91,2025-06-18
+ORD02049,Guntur,Diabetes,Metformin-500mg,623,113.89,2025-06-06
+ORD01764,Warangal,Pain Relief,Paracetamol-650,1237,,2025-06-27
+ORD01201,Guntur,Diabetes,Metformin-500mg,623,141.03,2025-05-01
+ORD00882,Warangal,Pain Relief,Paracetamol-650,1078,258.73,2025-05-14
+ORD00481,Karimnagar,Respiratory,Salbutamol-Inhaler,1023,211.93,2025-04-05
+ORD01561,Nellore,Respiratory,Salbutamol-Inhaler,1042,273.4,2025-05-24
+ORD02388,Bengaluru,Diabetes,Metformin-500mg,602,132.84,2025-06-19
+ORD00644,Nellore,Diabetes,Metformin-500mg,914,213.18,2025-04-26
+ORD00439,Tirupati,Respiratory,Salbutamol-Inhaler,1178,304.1,2025-04-07
+ORD00458,Tirupati,Antibiotics,Amoxicillin-500,739,141.4,2025-04-23
+ORD00164,WARANGAL,Diabetes,Metformin-500mg,1255,231.54,2025-04-16
+ORD00403,Guntur,Respiratory,Salbutamol-Inhaler,1157,,2025-04-21
+ORD01125,Guntur,Antibiotics,Amoxicillin-500,930,216.37,2025-05-06
+ORD02320,Bengaluru,Cardiac,Amlodipine-5mg,643,141.95,2025-06-21
+ORD01442,Bengaluru,Diabetes,Metformin-500mg,865,177.0,2025-05-12
+ORD00167,Warangal,Pain Relief,Paracetamol-650,914,221.75,2025-04-05
+ORD02353,Bengaluru,,Metformin-500mg,1040,232.24,2025-06-01
+ORD01747,Warangal,Pain Relief,Paracetamol-650,905,223.61,2025-06-14
+ORD00583,Bengaluru,Respiratory,Salbutamol-Inhaler,1024,197.78,2025-04-17
+ORD00483,Karimnagar,Antibiotics,Amoxicillin-500,1009,202.13,2025-04-16
+ORD00050,Hyderabad,Vitamins,Vitamin-D3,918,156.14,2025-04-26
+ORD00068,Hyderabad,Pain Relief,Paracetamol-650,1066,190.23,2025-04-18
+ORD02073,Guntur,Vitamins,Vitamin-D3,1064,208.17,2025-06-21
+ORD01430,Bengaluru,Antibiotics,Amoxicillin-500,1322,281.87,2025-05-02
+ORD01534,nellore,Pain Relief,Paracetamol-650,1149,185.56,2025-05-12
+ORD00049,hyderabad,Cardiac,Amlodipine-5mg,1110,202.51,2025-04-20
+ORD01921,Visakhapatnam,Cardiac,Amlodipine-5mg,1260,275.67,2025-06-19
+ORD00743,Hyderabad,Diabetes,Metformin-500mg,680,150.51,2025-05-22
+ORD00932,Vijayawada,Pain Relief,Paracetamol-650,1196,315.34,2025-05-15
+ORD02253,Karimnagar,Cardiac,Amlodipine-5mg,668,105.87,2025-06-07
+ORD00125,Warangal,Pain Relief,Paracetamol-650,813,219.38,2025-04-09
+ORD00837,WARANGAL,Respiratory,Salbutamol-Inhaler,921,244.7,2025-05-22
+ORD01085,Visakhapatnam,Pain Relief,Paracetamol-650,826,173.16,2025-05-01
+ORD00472,Tirupati,Pain Relief,Paracetamol-650,1095,289.77,2025-04-26
+ORD02315,Bengaluru,Antibiotics,Amoxicillin-500,1042,186.9,2025-06-06
+ORD01069,Visakhapatnam,Vitamins,Vitamin-D3,824,125.83,2025-05-08
+ORD01674,Hyderabad,Antibiotics,Amoxicillin-500,852,163.51,2025-06-10
+ORD00026,Hyderabad,Respiratory,Salbutamol-Inhaler,1033,164.47,2025-04-05
+ORD02437,Nellore,Diabetes,Metformin-500mg,1194,184.34,2025-06-06
+ORD02108,Guntur,Vitamins,Vitamin-D3,1220,310.96,2025-06-11
+ORD01573,Hyderabad,Pain Relief,Paracetamol-650,654,,2025-06-26
+ORD01994,Visakhapatnam,Antibiotics,Amoxicillin-500,985,227.93,2025-06-26
+ORD01645,Hyderabad,Respiratory,Salbutamol-Inhaler,809,147.37,2025-06-22
+ORD01235,Tirupati,Diabetes,Metformin-500mg,1094,242.16,2025-05-14
+ORD01750,Warangal,Diabetes,Metformin-500mg,949,176.51,2025-06-22
+ORD00862,WARANGAL,Respiratory,Salbutamol-Inhaler,937,235.23,2025-05-02
+ORD02457,Nellore,Pain Relief,Paracetamol-650,1243,261.27,2025-06-13
+ORD01194,Guntur,Antibiotics,Amoxicillin-500,958,222.14,2025-05-13
+ORD00362,Guntur,Diabetes,Metformin-500mg,862,178.43,2025-04-26
+ORD02154,Tirupati,Respiratory,Salbutamol-Inhaler,956,157.76,2025-06-01
+ORD02211,Karimnagar,Diabetes,Metformin-500mg,755,189.78,2025-06-24
+ORD02036,Guntur,Vitamins,Vitamin-D3,691,124.76,2025-06-14
+ORD01914,Visakhapatnam,Cardiac,Amlodipine-5mg,778,214.9,2025-06-03
+ORD00841,Warangal,Vitamins,Vitamin-D3,879,137.75,2025-05-10
+ORD00523,Karimnagar,Pain Relief,Paracetamol-650,794,119.58,2025-04-11
+ORD01200,Guntur,Diabetes,Metformin-500mg,1080,180.24,2025-05-16
+ORD01339,Karimnagar,Diabetes,Metformin-500mg,755,207.44,2025-05-16
+ORD01614,Hyderabad,Antibiotics,Amoxicillin-500,945,170.05,2025-06-05
+ORD02233,Karimnagar,Respiratory,Salbutamol-Inhaler,962,,2025-06-10
+ORD01345,Karimnagar,Diabetes,Metformin-500mg,893,188.96,2025-05-20
+ORD00757,Hyderabad,Vitamins,Vitamin-D3,1128,298.19,2025-05-14
+ORD00241,Vijayawada,Cardiac,Amlodipine-5mg,988,205.52,2025-04-16
+ORD00979,Vijayawada,Respiratory,Salbutamol-Inhaler,1253,208.83,2025-05-25
+ORD01380,Karimnagar,Diabetes,Metformin-500mg,902,171.34,2025-05-09
+ORD01879,Vijayawada,Diabetes,Metformin-500mg,920,225.52,2025-06-28
+ORD01718,Warangal,Cardiac,Amlodipine-5mg,1383,286.38,2025-06-24
+ORD00351,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1068,220.04,2025-04-03
+ORD02458,nellore,Respiratory,Salbutamol-Inhaler,1235,224.93,2025-06-26
+ORD01525,Nellore,Diabetes,Metformin-500mg,947,148.6,2025-05-01
+ORD02480,Nellore,Diabetes,Metformin-500mg,1124,183.28,2025-06-21
+ORD01175,Guntur,Diabetes,Metformin-500mg,1312,347.89,2025-05-22
+ORD01943,Visakhapatnam,Vitamins,Vitamin-D3,1184,179.17,2025-06-07
+ORD01289,Tirupati,Vitamins,Vitamin-D3,1063,255.62,2025-05-24
+ORD02284,Karimnagar,Diabetes,Metformin-500mg,1180,290.06,2025-06-13
+ORD00820,Hyderabad,Antibiotics,Amoxicillin-500,1055,253.45,2025-05-23
+ORD02094,Guntur,Pain Relief,Paracetamol-650,956,151.72,2025-06-08
+ORD01193,Guntur,Vitamins,Vitamin-D3,827,126.55,2025-05-11
+ORD01553,Nellore,Vitamins,Vitamin-D3,778,,2025-05-28
+ORD00874,Warangal,,Amlodipine-5mg,854,155.04,2025-05-10
+ORD02223,Karimnagar,Antibiotics,Amoxicillin-500,1003,279.93,2025-06-16
+ORD01361,Karimnagar,Pain Relief,Paracetamol-650,753,163.22,2025-05-25
+ORD02288,Karimnagar,Cardiac,Amlodipine-5mg,945,194.3,2025-06-08
+ORD01898,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1153,232.42,2025-06-27
+ORD02317,Bangalore,Vitamins,Vitamin-D3,983,235.22,2025-06-07
+ORD01463,Bengaluru,Cardiac,Amlodipine-5mg,832,135.99,2025-05-10
+ORD01595,Hyderabad,Antibiotics,Amoxicillin-500,975,,2025-06-10
+ORD00124,Warangal,Respiratory,Salbutamol-Inhaler,1378,297.86,2025-04-08
+ORD01712,Warangal,Diabetes,Metformin-500mg,739,206.32,2025-06-10
+ORD02247,Karimnagar,Antibiotics,Amoxicillin-500,1143,187.91,2025-06-15
+ORD00407,Tirupati,Cardiac,Amlodipine-5mg,988,188.45,2025-04-25
+ORD00870,Warangal,Vitamins,Vitamin-D3,785,219.43,2025-05-21
+ORD00611,Bengaluru,Vitamins,Vitamin-D3,1030,184.4,2025-04-15
+ORD01318,Karimnagar,Cardiac,Amlodipine-5mg,682,163.18,2025-05-19
+ORD00498,Karimnagar,Vitamins,Vitamin-D3,662,142.91,2025-04-07
+ORD02297,Karimnagar,,Paracetamol-650,770,162.28,2025-06-08
+ORD00343,Visakhapatnam,Cardiac,Amlodipine-5mg,1258,311.72,2025-04-06
+ORD01808,Vijayawada,Respiratory,Salbutamol-Inhaler,714,141.52,2025-06-11
+ORD00300,Visakhapatnam,Pain Relief,Paracetamol-650,645,141.04,2025-04-27
+ORD00658,nellore,Cardiac,Amlodipine-5mg,595,98.52,2025-04-18
+ORD02438,Nellore,Vitamins,Vitamin-D3,1016,165.66,2025-06-13
+ORD00679,nellore,Cardiac,Amlodipine-5mg,1387,293.37,2025-04-04
+ORD01534,nellore,Pain Relief,Paracetamol-650,1149,185.56,2025-05-12
+ORD01227,Guntur,Respiratory,Salbutamol-Inhaler,1438,299.62,2025-05-23
+ORD00221,Vijayawada,Pain Relief,Paracetamol-650,820,129.7,2025-04-21
+ORD00582,Bengaluru,Antibiotics,Amoxicillin-500,1335,212.08,2025-04-03
+ORD01946,Visakhapatnam,Respiratory,Salbutamol-Inhaler,935,160.59,2025-06-23
+ORD01772,Warangal,,Metformin-500mg,969,,2025-06-22
+ORD00085,Hyderabad,Cardiac,Amlodipine-5mg,1020,194.24,2025-04-13
+ORD01088,Visakhapatnam,Vitamins,Vitamin-D3,1082,274.7,2025-05-22
+ORD00267,Vijayawada,Diabetes,Metformin-500mg,1075,231.14,2025-04-17
+ORD00903,Warangal,Pain Relief,Paracetamol-650,893,215.58,2025-05-23
+ORD00291,Visakhapatnam,,Amlodipine-5mg,842,197.26,2025-04-10
+ORD01984,Visakhapatnam,Pain Relief,Paracetamol-650,530,147.83,2025-06-17
+ORD00669,Nellore,Pain Relief,Paracetamol-650,920,,2025-04-27
+ORD00417,Tirupati,Diabetes,Metformin-500mg,1068,269.79,2025-04-14
+ORD00473,Tirupati,Antibiotics,Amoxicillin-500,822,140.68,2025-04-04
+ORD01260,Tirupati,Respiratory,Salbutamol-Inhaler,700,189.82,2025-05-12
+ORD02100,Guntur,Cardiac,Amlodipine-5mg,1141,196.72,2025-06-03
+ORD02468,Nellore,Diabetes,Metformin-500mg,1273,343.62,2025-06-19
+ORD02331,Bengaluru,Diabetes,Metformin-500mg,1013,174.42,2025-06-17
+ORD00875,Warangal,Cardiac,Amlodipine-5mg,882,200.07,2025-05-26
+ORD02006,Visakhapatnam,Antibiotics,Amoxicillin-500,1148,211.37,2025-06-16
+ORD01024,Visakhapatnam,Vitamins,Vitamin-D3,1229,292.54,2025-05-10
+ORD00279,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1041,249.56,2025-04-26
+ORD02064,Guntur,Respiratory,Salbutamol-Inhaler,681,160.46,2025-06-24
+ORD00962,Vijayawada,Cardiac,Amlodipine-5mg,1073,206.72,2025-05-22
+ORD02087,Guntur,Vitamins,Vitamin-D3,980,161.99,2025-06-28
+ORD00019,Hyderabad,Vitamins,Vitamin-D3,914,209.46,2025-04-25
+ORD01287,Tirupati,Vitamins,Vitamin-D3,823,165.32,2025-05-23
+ORD02378,Bengaluru,Cardiac,Amlodipine-5mg,1164,232.08,2025-06-22
+ORD01305,Tirupati,Pain Relief,Paracetamol-650,924,257.04,2025-05-04
+ORD01000,Vijayawada,Pain Relief,Paracetamol-650,764,208.27,2025-05-24
+ORD01074,Visakhapatnam,Pain Relief,Paracetamol-650,1328,362.01,2025-05-01
+ORD01294,Tirupati,Vitamins,Vitamin-D3,858,211.82,2025-05-03
+ORD00830,Warangal,Antibiotics,Amoxicillin-500,1178,235.6,2025-05-28
+ORD00768,Hyderabad,Vitamins,Vitamin-D3,895,246.25,2025-05-25
+ORD01565,Nellore,Antibiotics,Amoxicillin-500,961,246.76,2025-05-12
+ORD02398,Bengaluru,Vitamins,Vitamin-D3,609,149.12,2025-06-20
+ORD02182,Tirupati,Cardiac,Amlodipine-5mg,1235,209.34,2025-06-26
+ORD01438,Bengaluru,Cardiac,Amlodipine-5mg,1174,286.4,2025-05-27
+ORD00220,Vijayawada,Antibiotics,Amoxicillin-500,1053,230.2,2025-04-08
+ORD00681,nellore,Pain Relief,Paracetamol-650,925,239.58,2025-04-16
+ORD02033,Guntur,Vitamins,Vitamin-D3,972,200.67,2025-06-25
+ORD00304,Visakhapatnam,Pain Relief,Paracetamol-650,1152,,2025-04-12
+ORD01813,Vijayawada,Cardiac,Amlodipine-5mg,1013,215.12,2025-06-02
+ORD01508,Nellore,Vitamins,Vitamin-D3,1412,261.04,2025-05-10
+ORD00977,Vijayawada,Pain Relief,Paracetamol-650,841,188.71,2025-05-13
+ORD00655,Nellore,Vitamins,Vitamin-D3,1034,280.3,2025-04-09
+ORD00345,Visakhapatnam,Pain Relief,Paracetamol-650,1003,279.34,2025-04-02
+ORD00846,Warangal,Pain Relief,Paracetamol-650,860,155.6,2025-05-24
+ORD02335,Bengaluru,Pain Relief,Paracetamol-650,533,131.48,2025-06-14
+ORD00963,Vijayawada,Pain Relief,Paracetamol-650,1036,288.05,2025-05-26
+ORD00788,Hyderabad,Antibiotics,Amoxicillin-500,1266,282.5,2025-05-06
+ORD01955,Visakhapatnam,Antibiotics,Amoxicillin-500,1141,218.25,2025-06-20
+ORD01019,Visakhapatnam,Antibiotics,Amoxicillin-500,1079,291.33,2025-05-15
+ORD00633,Nellore,Vitamins,Vitamin-D3,1318,296.41,2025-04-28
+ORD01103,Visakhapatnam,Pain Relief,Paracetamol-650,978,167.4,2025-05-23
+ORD01951,Visakhapatnam,Vitamins,Vitamin-D3,1321,230.6,2025-06-05
+ORD02189,Tirupati,Vitamins,Vitamin-D3,960,186.26,2025-06-17
+ORD00193,Vijayawada,Diabetes,Metformin-500mg,1018,176.14,2025-04-25
+ORD00175,Warangal,Antibiotics,Amoxicillin-500,964,208.19,2025-04-12
+ORD00840,WARANGAL,Respiratory,Salbutamol-Inhaler,778,145.95,2025-05-02
+ORD01254,Tirupati,Pain Relief,Paracetamol-650,1011,174.08,2025-05-06
+ORD02157,Tirupati,Pain Relief,Paracetamol-650,999,242.43,2025-06-02
+ORD02351,Bengaluru,Respiratory,Salbutamol-Inhaler,1239,235.72,2025-06-06
+ORD01848,Vijayawada,Cardiac,Amlodipine-5mg,685,104.08,2025-06-04
+ORD00129,WARANGAL,Diabetes,Metformin-500mg,868,217.71,2025-04-13
+ORD00341,Visakhapatnam,Cardiac,Amlodipine-5mg,1054,252.96,2025-04-22
+ORD01751,Warangal,Respiratory,Salbutamol-Inhaler,980,149.38,2025-06-20
+ORD02149,Tirupati,Respiratory,Salbutamol-Inhaler,857,155.93,2025-06-21
+ORD01055,Visakhapatnam,Vitamins,Vitamin-D3,659,171.06,2025-05-19
+ORD00308,Visakhapatnam,Respiratory,Salbutamol-Inhaler,681,112.65,2025-04-08
+ORD00384,Guntur,Pain Relief,Paracetamol-650,1354,372.75,2025-04-14
+ORD02330,Bengaluru,Respiratory,Salbutamol-Inhaler,1076,192.99,2025-06-19
+ORD02363,Bengaluru,Cardiac,Amlodipine-5mg,1003,185.27,2025-06-10
+ORD02012,Guntur,Respiratory,Salbutamol-Inhaler,940,165.17,2025-06-28
+ORD00178,Warangal,Vitamins,Vitamin-D3,941,173.87,2025-04-11
+ORD00427,Tirupati,Cardiac,Amlodipine-5mg,1019,158.94,2025-04-28
+ORD00863,Warangal,,Vitamin-D3,911,175.71,2025-05-25
+ORD02110,Guntur,Vitamins,Vitamin-D3,826,188.89,2025-06-03
+ORD00811,Hyderabad,Vitamins,Vitamin-D3,1159,266.71,2025-05-22
+ORD02080,Guntur,Pain Relief,Paracetamol-650,1121,214.73,2025-06-18
+ORD00185,Vijayawada,Respiratory,Salbutamol-Inhaler,975,209.29,2025-04-08
+ORD01164,Guntur,Antibiotics,Amoxicillin-500,732,138.31,2025-05-02
+ORD02064,Guntur,Respiratory,Salbutamol-Inhaler,681,160.46,2025-06-24
+ORD02373,Bengaluru,Cardiac,Amlodipine-5mg,921,242.61,2025-06-02
+ORD00766,Hyderabad,,Amoxicillin-500,765,178.54,2025-05-15
+ORD01056,Visakhapatnam,Vitamins,Vitamin-D3,1083,226.51,2025-05-28
+ORD00835,Warangal,Respiratory,Salbutamol-Inhaler,787,155.59,2025-05-04
+ORD02416,Nellore,Antibiotics,Amoxicillin-500,994,177.74,2025-06-22
+ORD00490,Karimnagar,Pain Relief,Paracetamol-650,1142,188.0,2025-04-04
+ORD02469,Nellore,Respiratory,Salbutamol-Inhaler,1067,275.9,2025-06-28
+ORD02186,Tirupati,Diabetes,Metformin-500mg,891,225.1,2025-06-09
+ORD02329,Bengaluru,Cardiac,Amlodipine-5mg,976,162.03,2025-06-18
+ORD00762,Hyderabad,Diabetes,Metformin-500mg,1288,220.62,2025-05-09
+ORD01961,Visakhapatnam,Pain Relief,Paracetamol-650,821,138.56,2025-06-09
+ORD01545,nellore,Antibiotics,Amoxicillin-500,1073,201.33,2025-05-13
+ORD01703,Hyderabad,Cardiac,Amlodipine-5mg,978,210.96,2025-06-01
+ORD00119,Warangal,Cardiac,Amlodipine-5mg,1199,260.06,2025-04-14
+ORD01620,Hyderabad,Respiratory,Salbutamol-Inhaler,1018,169.57,2025-06-11
+ORD00282,Visakhapatnam,Diabetes,Metformin-500mg,1159,204.3,2025-04-05
+ORD02231,Karimnagar,,Amoxicillin-500,850,209.12,2025-06-06
+ORD01191,Guntur,Antibiotics,Amoxicillin-500,1107,291.79,2025-05-22
+ORD01915,Visakhapatnam,Antibiotics,Amoxicillin-500,1198,204.81,2025-06-06
+ORD02381,Bengaluru,Antibiotics,Amoxicillin-500,955,192.36,2025-06-09
+ORD00760,Hyderabad,,Metformin-500mg,1105,251.42,2025-05-25
+ORD00966,Vijayawada,,Vitamin-D3,1153,311.64,2025-05-11
+ORD01749,Warangal,Diabetes,Metformin-500mg,988,221.84,2025-06-23
+ORD00367,Guntur,Antibiotics,Amoxicillin-500,1299,262.33,2025-04-01
+ORD01411,Bangalore,,Amoxicillin-500,1232,192.5,2025-05-10
+ORD00556,Bengaluru,Antibiotics,Amoxicillin-500,817,204.06,2025-04-15
+ORD01300,Tirupati,Cardiac,Amlodipine-5mg,1345,292.48,2025-05-04
+ORD02294,Karimnagar,Respiratory,Salbutamol-Inhaler,949,189.11,2025-06-03
+ORD00818,Hyderabad,Pain Relief,Paracetamol-650,1176,266.68,2025-05-16
+ORD01338,Karimnagar,Cardiac,Amlodipine-5mg,899,157.0,2025-05-02
+ORD00204,Vijayawada,Respiratory,Salbutamol-Inhaler,585,161.34,2025-04-03
+ORD02251,Karimnagar,Pain Relief,Paracetamol-650,1019,214.26,2025-06-07
+ORD00121,Warangal,Cardiac,Amlodipine-5mg,1072,290.08,2025-04-21
+ORD00284,Visakhapatnam,Cardiac,Amlodipine-5mg,823,167.67,2025-04-01
+ORD00576,Bengaluru,Pain Relief,Paracetamol-650,1234,318.25,2025-04-25
+ORD01358,Karimnagar,Antibiotics,Amoxicillin-500,1086,300.57,2025-05-14
+ORD01448,Bangalore,Cardiac,Amlodipine-5mg,769,124.31,2025-05-20
+ORD00276,Visakhapatnam,Antibiotics,Amoxicillin-500,555,106.7,2025-04-06
+ORD01042,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1186,327.42,2025-05-24
+ORD02467,Nellore,Respiratory,Salbutamol-Inhaler,1124,226.22,2025-06-10
+ORD00361,Guntur,Diabetes,Metformin-500mg,789,188.27,2025-04-23
+ORD01478,Bengaluru,Cardiac,Amlodipine-5mg,927,164.98,2025-05-01
+ORD00842,Warangal,Pain Relief,Paracetamol-650,1020,163.94,2025-05-05
+ORD02021,Guntur,Vitamins,Vitamin-D3,607,146.93,2025-06-19
+ORD00630,Bangalore,Antibiotics,Amoxicillin-500,1054,227.07,2025-04-18
+ORD01609,Hyderabad,Cardiac,Amlodipine-5mg,1484,414.04,2025-06-24
+ORD01581,Hyderabad,Antibiotics,Amoxicillin-500,1085,277.48,2025-06-10
+ORD00287,Visakhapatnam,Diabetes,Metformin-500mg,687,186.7,2025-04-06
+ORD00933,Vijayawada,Respiratory,Salbutamol-Inhaler,1172,312.58,2025-05-20
+ORD00782,Hyderabad,Respiratory,Salbutamol-Inhaler,871,199.84,2025-05-06
+ORD00980,Vijayawada,Vitamins,Vitamin-D3,1106,214.97,2025-05-02
+ORD01072,Visakhapatnam,Vitamins,Vitamin-D3,913,224.14,2025-05-20
+ORD00424,Tirupati,,Salbutamol-Inhaler,1090,277.87,2025-04-19
+ORD01886,Vijayawada,,Paracetamol-650,931,238.32,2025-06-15
+ORD01602,Hyderabad,Vitamins,Vitamin-D3,1231,,2025-06-08
+ORD01717,Warangal,Respiratory,Salbutamol-Inhaler,783,136.5,2025-06-25
+ORD01653,Hyderabad,Cardiac,Amlodipine-5mg,863,170.07,2025-06-28
+ORD00066,Hyderabad,Cardiac,Amlodipine-5mg,873,182.64,2025-04-13
+ORD01715,Warangal,Diabetes,Metformin-500mg,786,150.9,2025-06-11
+ORD01552,Nellore,Diabetes,Metformin-500mg,1192,268.06,2025-05-05
+ORD00946,Vijayawada,Vitamins,Vitamin-D3,934,224.85,2025-05-05
+ORD01065,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1284,311.63,2025-05-20
+ORD00231,Vijayawada,Respiratory,Salbutamol-Inhaler,1135,301.49,2025-04-06
+ORD01642,Hyderabad,Vitamins,Vitamin-D3,1104,249.4,2025-06-06
+ORD00787,Hyderabad,Vitamins,Vitamin-D3,936,178.91,2025-05-05
+ORD01238,Tirupati,Pain Relief,Paracetamol-650,1256,250.07,2025-05-14
+ORD01379,Karimnagar,Cardiac,Amlodipine-5mg,643,167.73,2025-05-15
+ORD01376,Karimnagar,,Amoxicillin-500,1102,184.97,2025-05-13
+ORD00802,Hyderabad,Antibiotics,Amoxicillin-500,1015,193.2,2025-05-17
+ORD00809,Hyderabad,Cardiac,Amlodipine-5mg,841,185.25,2025-05-04
+ORD01124,Guntur,Antibiotics,Amoxicillin-500,1230,292.45,2025-05-10
+ORD00375,Guntur,Diabetes,Metformin-500mg,864,132.88,2025-04-13
+ORD02225,Karimnagar,Cardiac,Amlodipine-5mg,988,193.85,2025-06-14
+ORD01592,Hyderabad,Antibiotics,Amoxicillin-500,854,179.56,2025-06-06
+ORD01293,Tirupati,Vitamins,Vitamin-D3,981,162.3,2025-05-06
+ORD00298,Visakhapatnam,Pain Relief,Paracetamol-650,1299,321.12,2025-04-16
+ORD00599,Bengaluru,Antibiotics,Amoxicillin-500,801,129.01,2025-04-07
+ORD01536,Nellore,Antibiotics,Amoxicillin-500,706,148.14,2025-05-04
+ORD00100,Hyderabad,Diabetes,Metformin-500mg,1305,246.01,2025-04-05
+ORD00904,Warangal,Vitamins,Vitamin-D3,1024,153.78,2025-05-17
+ORD01273,Tirupati,Cardiac,Amlodipine-5mg,776,180.31,2025-05-08
+ORD01291,Tirupati,Pain Relief,Paracetamol-650,1209,313.63,2025-05-06
+ORD00530,Karimnagar,Cardiac,Amlodipine-5mg,1220,,2025-04-23
+ORD01290,Tirupati,Diabetes,Metformin-500mg,1100,270.15,2025-05-05
+ORD01538,Nellore,Vitamins,Vitamin-D3,794,171.83,2025-05-18
+ORD01261,Tirupati,Vitamins,Vitamin-D3,1608,411.95,2025-05-02
+ORD00637,Nellore,Antibiotics,Amoxicillin-500,893,212.96,2025-04-16
+ORD02242,Karimnagar,Pain Relief,Paracetamol-650,670,117.26,2025-06-19
+ORD00186,Vijayawada,Antibiotics,Amoxicillin-500,1098,244.45,2025-04-24
+ORD01448,Bangalore,Cardiac,Amlodipine-5mg,769,124.31,2025-05-20
+ORD01730,Warangal,Diabetes,Metformin-500mg,1058,264.31,2025-06-20
+ORD01458,Bengaluru,Vitamins,Vitamin-D3,1124,302.54,2025-05-03
+ORD01378,Karimnagar,Diabetes,Metformin-500mg,1021,,2025-05-26
+ORD02190,Tirupati,Respiratory,Salbutamol-Inhaler,1199,225.62,2025-06-08
+ORD00512,Karimnagar,Vitamins,Vitamin-D3,710,109.76,2025-04-24
+ORD02077,Guntur,Diabetes,Metformin-500mg,1141,181.73,2025-06-12
+ORD01187,Guntur,Respiratory,Salbutamol-Inhaler,1042,211.26,2025-05-17
+ORD01454,Bengaluru,Antibiotics,Amoxicillin-500,986,253.01,2025-05-14
+ORD02126,Guntur,Respiratory,Salbutamol-Inhaler,843,218.59,2025-06-08
+ORD00608,bangalore,Respiratory,Salbutamol-Inhaler,1043,272.88,2025-04-21
+ORD01095,Visakhapatnam,Respiratory,Salbutamol-Inhaler,915,150.39,2025-05-04
+ORD01888,Vijayawada,Cardiac,Amlodipine-5mg,897,159.74,2025-06-10
+ORD00152,Warangal,Pain Relief,Paracetamol-650,967,248.44,2025-04-01
+ORD01624,Hyderabad,Antibiotics,Amoxicillin-500,1311,259.69,2025-06-17
+ORD00938,Vijayawada,Cardiac,Amlodipine-5mg,852,144.86,2025-05-04
+ORD02213,Karimnagar,Vitamins,Vitamin-D3,1011,164.72,2025-06-10
+ORD02043,Guntur,Respiratory,Salbutamol-Inhaler,925,183.02,2025-06-18
+ORD01518,Nellore,Cardiac,Amlodipine-5mg,962,174.86,2025-05-24
+ORD02322,Bengaluru,Cardiac,Amlodipine-5mg,1138,277.71,2025-06-17
+ORD00024,Hyderabad,Vitamins,Vitamin-D3,1064,211.25,2025-04-03
+ORD00159,Warangal,Cardiac,Amlodipine-5mg,895,148.46,2025-04-21
+ORD01576,Hyderabad,Cardiac,Amlodipine-5mg,1109,295.69,2025-06-14
+ORD00332,Visakhapatnam,Cardiac,Amlodipine-5mg,1032,281.61,2025-04-27
+ORD01462,Bengaluru,Pain Relief,Paracetamol-650,1271,317.94,2025-05-21
+ORD01317,Karimnagar,Vitamins,Vitamin-D3,845,187.35,2025-05-09
+ORD01790,Vijayawada,,Metformin-500mg,1118,275.45,2025-06-11
+ORD00445,Tirupati,Antibiotics,Amoxicillin-500,998,,2025-04-27
+ORD02065,Guntur,Vitamins,Vitamin-D3,934,188.88,2025-06-27
+ORD01500,Nellore,,Amoxicillin-500,680,119.95,2025-05-22
+ORD01627,Hyderabad,Diabetes,Metformin-500mg,1056,288.14,2025-06-09
+ORD00643,Nellore,Pain Relief,Paracetamol-650,1183,,2025-04-25
+ORD01299,Tirupati,Antibiotics,Amoxicillin-500,1153,175.91,2025-05-16
+ORD00312,Visakhapatnam,Cardiac,Amlodipine-5mg,1059,240.62,2025-04-08
+ORD00352,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1051,233.37,2025-04-01
+ORD00549,Bengaluru,Vitamins,Vitamin-D3,928,,2025-04-06
+ORD01413,Bengaluru,Vitamins,Vitamin-D3,920,245.22,2025-05-01
+ORD01392,Bengaluru,Respiratory,Salbutamol-Inhaler,817,137.23,2025-05-18
+ORD01178,Guntur,Pain Relief,Paracetamol-650,1001,185.07,2025-05-02
+ORD00307,Visakhapatnam,Pain Relief,Paracetamol-650,1297,257.89,2025-04-21
+ORD00288,Visakhapatnam,Cardiac,Amlodipine-5mg,929,259.78,2025-04-28
+ORD00695,Nellore,Cardiac,Amlodipine-5mg,979,215.98,2025-04-13
+ORD01308,Tirupati,Antibiotics,Amoxicillin-500,934,171.06,2025-05-03
+ORD00631,Nellore,Cardiac,Amlodipine-5mg,1275,,2025-04-17
+ORD02132,Guntur,Pain Relief,Paracetamol-650,1054,161.26,2025-06-14
+ORD01890,Vijayawada,Respiratory,Salbutamol-Inhaler,697,144.96,2025-06-25
+ORD01033,Visakhapatnam,Respiratory,Salbutamol-Inhaler,788,135.1,2025-05-18
+ORD01726,Warangal,Respiratory,Salbutamol-Inhaler,1135,184.99,2025-06-16
+ORD01449,Bangalore,Antibiotics,Amoxicillin-500,1179,265.94,2025-05-25
+ORD01326,Karimnagar,Vitamins,Vitamin-D3,933,140.83,2025-05-24
+ORD00822,WARANGAL,Pain Relief,Paracetamol-650,915,145.53,2025-05-02
+ORD01658,Hyderabad,Cardiac,Amlodipine-5mg,1101,176.1,2025-06-01
+ORD00858,Warangal,Respiratory,Salbutamol-Inhaler,1096,,2025-05-13
+ORD01436,Bengaluru,Diabetes,Metformin-500mg,866,169.22,2025-05-06
+ORD01475,Bengaluru,Antibiotics,Amoxicillin-500,1156,203.41,2025-05-15
+ORD01363,Karimnagar,Antibiotics,Amoxicillin-500,864,218.41,2025-05-10
+ORD01205,Guntur,Diabetes,Metformin-500mg,891,205.2,2025-05-23
+ORD00014,Hyderabad,Respiratory,Salbutamol-Inhaler,1149,205.11,2025-04-02
+ORD01729,Warangal,Antibiotics,Amoxicillin-500,948,202.38,2025-06-20
+ORD01469,Bengaluru,Cardiac,Amlodipine-5mg,1020,156.05,2025-05-04
+ORD00515,Karimnagar,Vitamins,Vitamin-D3,980,244.2,2025-04-03
+ORD00410,Tirupati,Diabetes,Metformin-500mg,1159,186.91,2025-04-14
+ORD00943,Vijayawada,Vitamins,Vitamin-D3,1084,201.02,2025-05-10
+ORD00314,Visakhapatnam,Diabetes,Metformin-500mg,1059,271.16,2025-04-22
+ORD01952,Visakhapatnam,Respiratory,Salbutamol-Inhaler,867,226.92,2025-06-21
+ORD00912,Warangal,Antibiotics,Amoxicillin-500,1157,308.84,2025-05-23
+ORD00803,Hyderabad,Vitamins,Vitamin-D3,1135,175.64,2025-05-10
+ORD00942,Vijayawada,Antibiotics,Amoxicillin-500,1065,162.18,2025-05-15
+ORD00974,Vijayawada,Cardiac,Amlodipine-5mg,1287,352.43,2025-05-15
+ORD00383,Guntur,Diabetes,Metformin-500mg,1147,264.41,2025-04-07
+ORD01147,Guntur,Pain Relief,Paracetamol-650,1028,230.62,2025-05-03
+ORD01693,Hyderabad,Cardiac,Amlodipine-5mg,847,,2025-06-09
+ORD01753,Warangal,Antibiotics,Amoxicillin-500,934,240.51,2025-06-13
+ORD00931,Vijayawada,,Salbutamol-Inhaler,749,153.99,2025-05-10
+ORD02475,Nellore,Pain Relief,Paracetamol-650,724,121.74,2025-06-04
+ORD01092,Visakhapatnam,Respiratory,Salbutamol-Inhaler,719,115.73,2025-05-05
+ORD00264,Vijayawada,Pain Relief,Paracetamol-650,854,168.73,2025-04-18
+ORD01923,Visakhapatnam,Antibiotics,Amoxicillin-500,1043,274.7,2025-06-15
+ORD02204,Tirupati,Antibiotics,Amoxicillin-500,943,177.02,2025-06-01
+ORD01802,Vijayawada,Pain Relief,Paracetamol-650,1260,190.07,2025-06-06
+ORD00416,Tirupati,,Paracetamol-650,957,,2025-04-09
+ORD00223,Vijayawada,Diabetes,Metformin-500mg,883,209.15,2025-04-18
+ORD00359,Guntur,Respiratory,Salbutamol-Inhaler,1088,208.34,2025-04-26
+ORD01226,Guntur,Vitamins,Vitamin-D3,1252,311.78,2025-05-03
+ORD00930,Vijayawada,Pain Relief,Paracetamol-650,668,117.09,2025-05-22
+ORD00009,hyderabad,Diabetes,Metformin-500mg,850,203.03,2025-04-06
+ORD01081,Visakhapatnam,Vitamins,Vitamin-D3,779,191.04,2025-05-28
+ORD00317,Visakhapatnam,Cardiac,Amlodipine-5mg,1469,348.56,2025-04-05
+ORD00305,Visakhapatnam,,Vitamin-D3,1590,431.68,2025-04-25
+ORD00428,Tirupati,Cardiac,Amlodipine-5mg,975,216.33,2025-04-11
+ORD00106,Warangal,Respiratory,Salbutamol-Inhaler,728,190.61,2025-04-20
+ORD01555,Nellore,Diabetes,Metformin-500mg,1365,334.76,2025-05-13
+ORD00122,Warangal,Antibiotics,Amoxicillin-500,1241,,2025-04-14
+ORD00901,Warangal,Vitamins,Vitamin-D3,944,157.89,2025-05-16
+ORD01619,Hyderabad,Pain Relief,Paracetamol-650,1119,178.47,2025-06-14
+ORD01990,Visakhapatnam,Vitamins,Vitamin-D3,1318,242.52,2025-06-15
+ORD01377,Karimnagar,Cardiac,Amlodipine-5mg,1025,264.42,2025-05-09
+ORD01851,Vijayawada,Respiratory,Salbutamol-Inhaler,1294,210.32,2025-06-05
+ORD01509,Nellore,Vitamins,Vitamin-D3,734,119.09,2025-05-10
+ORD00116,Warangal,Diabetes,Metformin-500mg,763,213.34,2025-04-16
+ORD01360,Karimnagar,Respiratory,Salbutamol-Inhaler,1026,159.96,2025-05-24
+ORD00745,Hyderabad,Respiratory,Salbutamol-Inhaler,1094,,2025-05-22
+ORD01450,Bangalore,Pain Relief,Paracetamol-650,1130,250.53,2025-05-26
+ORD01625,Hyderabad,Vitamins,Vitamin-D3,590,95.93,2025-06-17
+ORD02382,Bengaluru,Respiratory,Salbutamol-Inhaler,1104,308.39,2025-06-04
+ORD01001,Vijayawada,Antibiotics,Amoxicillin-500,1227,316.28,2025-05-03
+ORD01302,Tirupati,Respiratory,Salbutamol-Inhaler,915,151.89,2025-05-09
+ORD00673,Nellore,Respiratory,Salbutamol-Inhaler,891,223.39,2025-04-15
+ORD02354,Bengaluru,Antibiotics,Amoxicillin-500,794,167.92,2025-06-01
+ORD01054,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1030,,2025-05-24
+ORD01710,Warangal,Respiratory,Salbutamol-Inhaler,1207,195.55,2025-06-17
+ORD00310,Visakhapatnam,Diabetes,Metformin-500mg,500,104.94,2025-04-25
+ORD00592,Bengaluru,Respiratory,Salbutamol-Inhaler,884,196.74,2025-04-13
+ORD00463,Tirupati,Respiratory,Salbutamol-Inhaler,1187,323.4,2025-04-05
+ORD01992,Visakhapatnam,,Amlodipine-5mg,1158,210.28,2025-06-08
+ORD00046,Hyderabad,Respiratory,Salbutamol-Inhaler,994,248.74,2025-04-18
+ORD02014,Guntur,,Vitamin-D3,1133,178.75,2025-06-16
+ORD01464,Bangalore,Respiratory,Salbutamol-Inhaler,801,213.31,2025-05-07
+ORD00553,Bangalore,,Salbutamol-Inhaler,1172,275.35,2025-04-27
+ORD00088,Hyderabad,,Salbutamol-Inhaler,839,183.96,2025-04-01
+ORD00691,Nellore,Respiratory,Salbutamol-Inhaler,1169,244.16,2025-04-05
+ORD01763,Warangal,Vitamins,Vitamin-D3,906,182.09,2025-06-27
+ORD01633,Hyderabad,Antibiotics,Amoxicillin-500,1154,310.82,2025-06-14
+ORD02461,Nellore,Vitamins,Vitamin-D3,1194,260.9,2025-06-27
+ORD01685,Hyderabad,,Amlodipine-5mg,1249,210.62,2025-06-02
+ORD01214,Guntur,Vitamins,Vitamin-D3,1033,257.49,2025-05-07
+ORD00801,Hyderabad,Cardiac,Amlodipine-5mg,957,203.6,2025-05-24
+ORD02106,Guntur,Antibiotics,Amoxicillin-500,770,,2025-06-03
+ORD00301,Visakhapatnam,Antibiotics,Amoxicillin-500,1110,243.94,2025-04-22
+ORD01111,Visakhapatnam,Vitamins,Vitamin-D3,838,198.09,2025-05-18
+ORD00544,Bengaluru,Pain Relief,Paracetamol-650,1201,305.41,2025-04-12
+ORD01836,Vijayawada,Cardiac,Amlodipine-5mg,1067,294.49,2025-06-06
+ORD02262,Karimnagar,Vitamins,Vitamin-D3,1306,264.14,2025-06-04
+ORD00495,Karimnagar,Vitamins,Vitamin-D3,1328,222.4,2025-04-09
+ORD00366,Guntur,Cardiac,Amlodipine-5mg,1026,256.46,2025-04-02
+ORD02305,Bengaluru,Cardiac,Amlodipine-5mg,981,269.85,2025-06-08
+ORD01617,Hyderabad,Vitamins,Vitamin-D3,1097,190.21,2025-06-25
+ORD00274,Visakhapatnam,Diabetes,Metformin-500mg,737,112.36,2025-04-14
+ORD00789,Hyderabad ,Antibiotics,Amoxicillin-500,1017,178.14,2025-05-28
+ORD00072,Hyderabad,Antibiotics,Amoxicillin-500,801,170.61,2025-04-08
+ORD01296,Tirupati,Cardiac,Amlodipine-5mg,787,,2025-05-19
+ORD01889,Vijayawada,Pain Relief,Paracetamol-650,1110,289.07,2025-06-08
+ORD00064,hyderabad,Vitamins,Vitamin-D3,890,153.13,2025-04-03
+ORD00395,Guntur,Diabetes,Metformin-500mg,909,226.33,2025-04-09
+ORD01335,Karimnagar,Pain Relief,Paracetamol-650,1164,198.15,2025-05-10
+ORD00344,Visakhapatnam,Antibiotics,Amoxicillin-500,936,169.66,2025-04-11
+ORD01570,Nellore,Pain Relief,Paracetamol-650,1196,190.74,2025-05-25
+ORD02370,bangalore,Vitamins,Vitamin-D3,1203,244.75,2025-06-09
+ORD00501,Karimnagar,Diabetes,Metformin-500mg,1219,270.22,2025-04-27
+ORD01743,Warangal,Vitamins,Vitamin-D3,1332,242.85,2025-06-16
+ORD02187,Tirupati,Antibiotics,Amoxicillin-500,904,144.02,2025-06-28
+ORD00678,Nellore,Vitamins,Vitamin-D3,757,138.31,2025-04-13
+ORD01076,Visakhapatnam,Respiratory,Salbutamol-Inhaler,873,179.82,2025-05-09
+ORD01969,Visakhapatnam,Pain Relief,Paracetamol-650,1204,328.23,2025-06-09
+ORD02146,Tirupati,Pain Relief,Paracetamol-650,954,211.74,2025-06-06
+ORD01593,Hyderabad,Pain Relief,Paracetamol-650,500,90.48,2025-06-09
+ORD00273,Visakhapatnam,,Vitamin-D3,719,121.66,2025-04-04
+ORD01018,Visakhapatnam,Respiratory,Salbutamol-Inhaler,832,211.28,2025-05-13
+ORD00206,Vijayawada,Cardiac,Amlodipine-5mg,896,176.64,2025-04-16
+ORD00734,Hyderabad ,Respiratory,Salbutamol-Inhaler,500,126.11,2025-05-02
+ORD00153,Warangal,,Amoxicillin-500,1191,320.36,2025-04-23
+ORD02006,Visakhapatnam,Antibiotics,Amoxicillin-500,1148,211.37,2025-06-16
+ORD00558,Bengaluru,Antibiotics,Amoxicillin-500,1168,231.97,2025-04-24
+ORD00378,Guntur,Pain Relief,Paracetamol-650,1241,271.29,2025-04-19
+ORD01477,Bangalore,Vitamins,Vitamin-D3,1237,249.6,2025-05-08
+ORD00536,Bengaluru,Diabetes,Metformin-500mg,839,126.15,2025-04-22
+ORD02311,Bengaluru,Respiratory,Salbutamol-Inhaler,1272,216.71,2025-06-28
+ORD02423,Nellore,Respiratory,Salbutamol-Inhaler,837,161.21,2025-06-27
+ORD00927,Vijayawada,Vitamins,Vitamin-D3,1179,,2025-05-20
+ORD00199,Vijayawada,Antibiotics,Amoxicillin-500,886,140.03,2025-04-21
+ORD00562,Bengaluru,Antibiotics,Amoxicillin-500,1294,317.95,2025-04-17
+ORD00686,Nellore,Vitamins,Vitamin-D3,1115,,2025-04-14
+ORD01941,Visakhapatnam,Pain Relief,Paracetamol-650,1096,283.77,2025-06-09
+ORD00591,Bengaluru,Cardiac,Amlodipine-5mg,997,,2025-04-26
+ORD00520,Karimnagar,Diabetes,Metformin-500mg,1210,231.27,2025-04-21
+ORD00309,Visakhapatnam,Cardiac,Amlodipine-5mg,1021,214.6,2025-04-08
+ORD00605,Bengaluru,Antibiotics,Amoxicillin-500,668,183.45,2025-04-23
+ORD02340,Bengaluru,Vitamins,Vitamin-D3,891,231.81,2025-06-20
+ORD02443,Nellore,,Vitamin-D3,651,160.03,2025-06-05
+ORD00060,Hyderabad,Vitamins,Vitamin-D3,1200,320.41,2025-04-23
+ORD00584,Bengaluru,Pain Relief,Paracetamol-650,1136,,2025-04-22
+ORD00941,Vijayawada,Antibiotics,Amoxicillin-500,862,206.16,2025-05-24
+ORD00208,Vijayawada,Vitamins,Vitamin-D3,1107,293.22,2025-04-20
+ORD00492,Karimnagar,Cardiac,Amlodipine-5mg,695,119.81,2025-04-13
+ORD00953,Vijayawada,Diabetes,Metformin-500mg,1060,254.19,2025-05-25
+ORD00786,Hyderabad,Vitamins,Vitamin-D3,861,238.77,2025-05-20
+ORD02486,Nellore,Antibiotics,Amoxicillin-500,866,171.18,2025-06-01
+ORD02476,Nellore,Diabetes,Metformin-500mg,1190,319.79,2025-06-22
+ORD00793,Hyderabad,Cardiac,Amlodipine-5mg,1064,274.93,2025-05-02
+ORD00832,Warangal,Cardiac,Amlodipine-5mg,1021,171.36,2025-05-23
+ORD00163,Warangal,Diabetes,Metformin-500mg,1309,218.78,2025-04-01
+ORD02415,Nellore,Vitamins,Vitamin-D3,1241,333.6,2025-06-13
+ORD00527,Karimnagar,Respiratory,Salbutamol-Inhaler,1232,304.94,2025-04-01
+ORD00892,WARANGAL,Cardiac,Amlodipine-5mg,1189,315.99,2025-05-15
+ORD01117,Guntur,Antibiotics,Amoxicillin-500,885,189.29,2025-05-01
+ORD00257,Vijayawada,Diabetes,Metformin-500mg,786,138.75,2025-04-24
+ORD00507,Karimnagar,Pain Relief,Paracetamol-650,979,274.05,2025-04-20
+ORD02041,Guntur,Vitamins,Vitamin-D3,985,245.78,2025-06-18
+ORD02164,Tirupati,Pain Relief,Paracetamol-650,790,196.4,2025-06-18
+ORD02274,Karimnagar,Diabetes,Metformin-500mg,1287,232.24,2025-06-05
+ORD02209,Karimnagar,Cardiac,Amlodipine-5mg,1056,270.2,2025-06-24
+ORD01838,Vijayawada,Antibiotics,Amoxicillin-500,1166,229.45,2025-06-01
+ORD01971,Visakhapatnam,Diabetes,Metformin-500mg,1109,201.77,2025-06-20
+ORD01746,Warangal,Vitamins,Vitamin-D3,773,197.6,2025-06-10
+ORD00021,hyderabad,Respiratory,Salbutamol-Inhaler,1009,,2025-04-25
+ORD01466,Bengaluru,Pain Relief,Paracetamol-650,1214,322.51,2025-05-10
+ORD00440,Tirupati,Diabetes,Metformin-500mg,910,228.77,2025-04-15
+ORD01138,Guntur,Respiratory,Salbutamol-Inhaler,1135,198.51,2025-05-08
+ORD00382,Guntur,Vitamins,Vitamin-D3,1153,310.72,2025-04-10
+ORD01408,Bangalore,Diabetes,Metformin-500mg,1044,193.23,2025-05-01
+ORD01499,nellore,Pain Relief,Paracetamol-650,784,128.37,2025-05-20
+ORD00539,Bengaluru,Cardiac,Amlodipine-5mg,1113,264.87,2025-04-02
+ORD00965,Vijayawada,Cardiac,Amlodipine-5mg,810,192.74,2025-05-04
+ORD01270,Tirupati,Pain Relief,Paracetamol-650,1003,172.36,2025-05-08
+ORD00084,Hyderabad,Vitamins,Vitamin-D3,763,139.87,2025-04-23
+ORD01162,Guntur,Respiratory,Salbutamol-Inhaler,844,148.04,2025-05-11
+ORD01351,Karimnagar,Vitamins,Vitamin-D3,995,210.31,2025-05-16
+ORD02068,Guntur,Vitamins,Vitamin-D3,754,129.2,2025-06-27
+ORD00884,Warangal,Respiratory,Salbutamol-Inhaler,895,174.72,2025-05-04
+ORD01279,Tirupati,Respiratory,Salbutamol-Inhaler,1145,190.55,2025-05-01
+ORD01724,Warangal,Vitamins,Vitamin-D3,977,165.28,2025-06-08
+ORD01935,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1267,,2025-06-01
+ORD00887,Warangal,Pain Relief,Paracetamol-650,1133,176.3,2025-05-11
+ORD00271,Visakhapatnam,,Paracetamol-650,691,168.81,2025-04-21
+ORD01160,Guntur,Diabetes,Metformin-500mg,1198,202.66,2025-05-01
+ORD01195,Guntur,Diabetes,Metformin-500mg,1068,213.85,2025-05-21
+ORD02104,Guntur,Respiratory,Salbutamol-Inhaler,1191,239.15,2025-06-05
+ORD02310,Bengaluru,Respiratory,Salbutamol-Inhaler,772,,2025-06-13
+ORD01668,Hyderabad,Respiratory,Salbutamol-Inhaler,930,222.8,2025-06-07
+ORD01491,Bengaluru,Cardiac,Amlodipine-5mg,1372,252.12,2025-05-03
+ORD02098,Guntur,Cardiac,Amlodipine-5mg,1167,254.63,2025-06-26
+ORD00430,Tirupati,,Metformin-500mg,1160,207.66,2025-04-15
+ORD01229,Tirupati,Pain Relief,Paracetamol-650,1019,160.79,2025-05-07
+ORD02239,Karimnagar,Vitamins,Vitamin-D3,1194,181.71,2025-06-27
+ORD02250,Karimnagar,Diabetes,Metformin-500mg,749,197.06,2025-06-09
+ORD00459,Tirupati,Vitamins,Vitamin-D3,845,142.36,2025-04-16
+ORD01371,Karimnagar,Vitamins,Vitamin-D3,831,212.89,2025-05-26
+ORD00928,Vijayawada,Diabetes,Metformin-500mg,1153,239.8,2025-05-17
+ORD00079,Hyderabad,Antibiotics,Amoxicillin-500,574,130.27,2025-04-28
+ORD02478,Nellore,Respiratory,Salbutamol-Inhaler,856,192.04,2025-06-22
+ORD01265,Tirupati,Diabetes,Metformin-500mg,1294,352.55,2025-05-26
+ORD00033,Hyderabad,Diabetes,Metformin-500mg,578,106.63,2025-04-24
+ORD00907,Warangal,Respiratory,Salbutamol-Inhaler,1073,211.95,2025-05-18
+ORD01314,Karimnagar,Pain Relief,Paracetamol-650,1232,337.24,2025-05-10
+ORD01383,Karimnagar,Vitamins,Vitamin-D3,896,214.12,2025-05-16
+ORD02290,Karimnagar,,Vitamin-D3,821,152.64,2025-06-25
+ORD00381,Guntur,Vitamins,Vitamin-D3,1125,255.98,2025-04-18
+ORD01512,Nellore,Cardiac,Amlodipine-5mg,933,212.0,2025-05-08
+ORD00227,Vijayawada,Antibiotics,Amoxicillin-500,848,218.74,2025-04-06
+ORD01821,Vijayawada,Vitamins,Vitamin-D3,990,268.54,2025-06-26
+ORD01245,Tirupati,,Vitamin-D3,823,191.39,2025-05-14
+ORD00716,Hyderabad,,Amlodipine-5mg,932,239.59,2025-05-10
+ORD01388,Bengaluru,Vitamins,Vitamin-D3,833,211.44,2025-05-25
+ORD00687,Nellore,Respiratory,Salbutamol-Inhaler,707,156.44,2025-04-08
+ORD02176,Tirupati,Diabetes,Metformin-500mg,952,200.27,2025-06-12
+ORD01579,Hyderabad,Cardiac,Amlodipine-5mg,1201,224.27,2025-06-10
+ORD00306,Visakhapatnam,Diabetes,Metformin-500mg,1250,311.95,2025-04-13
+ORD00210,Vijayawada,Pain Relief,Paracetamol-650,1104,217.88,2025-04-25
+ORD02218,Karimnagar,Respiratory,Salbutamol-Inhaler,983,247.83,2025-06-26
+ORD01741,Warangal,Respiratory,Salbutamol-Inhaler,1007,189.82,2025-06-12
+ORD00633,Nellore,Vitamins,Vitamin-D3,1318,296.41,2025-04-28
+ORD01400,Bangalore,Cardiac,Amlodipine-5mg,1166,212.04,2025-05-24
+ORD02018,Guntur,Cardiac,Amlodipine-5mg,1123,171.04,2025-06-23
+ORD02396,Bengaluru,Antibiotics,Amoxicillin-500,992,217.7,2025-06-18
+ORD01190,Guntur,Diabetes,Metformin-500mg,868,178.58,2025-05-28
+ORD01583,Hyderabad,Respiratory,Salbutamol-Inhaler,923,144.93,2025-06-09
+ORD01212,Guntur,Vitamins,Vitamin-D3,1294,234.86,2025-05-27
+ORD01030,Visakhapatnam,Cardiac,Amlodipine-5mg,1009,227.49,2025-05-15
+ORD00192,Vijayawada,Vitamins,Vitamin-D3,993,254.16,2025-04-20
+ORD01264,Tirupati,Respiratory,Salbutamol-Inhaler,613,127.96,2025-05-22
+ORD01126,Guntur,Diabetes,Metformin-500mg,1046,229.99,2025-05-01
+ORD00253,Vijayawada,Diabetes,Metformin-500mg,826,188.88,2025-04-01
+ORD00484,Karimnagar,Antibiotics,Amoxicillin-500,1070,283.14,2025-04-23
+ORD02432,Nellore,Respiratory,Salbutamol-Inhaler,970,213.76,2025-06-26
+ORD00916,Warangal,,Vitamin-D3,1029,157.22,2025-05-27
+ORD01522,Nellore,Pain Relief,Paracetamol-650,948,240.22,2025-05-04
+ORD00278,Visakhapatnam,Respiratory,Salbutamol-Inhaler,903,207.07,2025-04-08
+ORD00989,Vijayawada,Vitamins,Vitamin-D3,1111,209.97,2025-05-09
+ORD02137,Tirupati,Cardiac,Amlodipine-5mg,861,171.79,2025-06-03
+ORD00222,Vijayawada,Antibiotics,Amoxicillin-500,785,,2025-04-12
+ORD02013,Guntur,Antibiotics,Amoxicillin-500,982,224.77,2025-06-16
+ORD00572,Bengaluru,Respiratory,Salbutamol-Inhaler,1316,232.3,2025-04-20
+ORD00412,Tirupati,Vitamins,Vitamin-D3,854,131.08,2025-04-20
+ORD01455,Bengaluru,,Metformin-500mg,815,187.54,2025-05-14
+ORD00994,Vijayawada,Pain Relief,Paracetamol-650,830,168.77,2025-05-28
+ORD01062,Visakhapatnam,Vitamins,Vitamin-D3,879,229.92,2025-05-05
+ORD01698,Hyderabad,,Amlodipine-5mg,1011,206.79,2025-06-02
+ORD00586,Bengaluru,Pain Relief,Paracetamol-650,1145,308.09,2025-04-10
+ORD02249,Karimnagar,Pain Relief,Paracetamol-650,841,174.63,2025-06-12
+ORD02357,Bengaluru,Diabetes,Metformin-500mg,863,,2025-06-12
+ORD01948,Visakhapatnam,Cardiac,Amlodipine-5mg,1168,259.43,2025-06-16
+ORD01643,Hyderabad,Respiratory,Salbutamol-Inhaler,1220,288.94,2025-06-18
+ORD01473,Bengaluru,Vitamins,Vitamin-D3,964,217.74,2025-05-24
+ORD00675,nellore,Vitamins,Vitamin-D3,844,226.12,2025-04-10
+ORD01230,Tirupati,Vitamins,Vitamin-D3,727,112.63,2025-05-24
+ORD00856,Warangal,Cardiac,Amlodipine-5mg,889,232.33,2025-05-09
+ORD00448,Tirupati,Diabetes,Metformin-500mg,923,149.49,2025-04-15
+ORD01094,Visakhapatnam,Cardiac,Amlodipine-5mg,993,152.55,2025-05-25
+ORD02177,Tirupati,Pain Relief,Paracetamol-650,993,191.71,2025-06-22
+ORD02456,Nellore,Antibiotics,Amoxicillin-500,973,254.19,2025-06-09
+ORD02271,Karimnagar,Pain Relief,Paracetamol-650,1062,216.15,2025-06-19
+ORD00295,Visakhapatnam,,Amoxicillin-500,994,233.57,2025-04-10
+ORD00589,Bengaluru,Antibiotics,Amoxicillin-500,1073,254.46,2025-04-04
+ORD01557,Nellore,Pain Relief,Paracetamol-650,1025,265.77,2025-05-13
+ORD01322,Karimnagar,Respiratory,Salbutamol-Inhaler,928,188.24,2025-05-24
+ORD01049,Visakhapatnam,,Paracetamol-650,1105,228.11,2025-05-15
+ORD01789,Vijayawada,Pain Relief,Paracetamol-650,576,154.26,2025-06-17
+ORD00426,Tirupati,Cardiac,Amlodipine-5mg,1102,293.41,2025-04-01
+ORD00535,Karimnagar,Respiratory,Salbutamol-Inhaler,951,147.52,2025-04-11
+ORD01353,Karimnagar,Respiratory,Salbutamol-Inhaler,766,188.88,2025-05-09
+ORD02125,Guntur,Antibiotics,Amoxicillin-500,973,176.39,2025-06-18
+ORD01048,Visakhapatnam,Pain Relief,Paracetamol-650,840,222.69,2025-05-25
+ORD01826,Vijayawada,Respiratory,Salbutamol-Inhaler,904,190.33,2025-06-11
+ORD01331,Karimnagar,Respiratory,Salbutamol-Inhaler,998,231.59,2025-05-21
+ORD01323,Karimnagar,Diabetes,Metformin-500mg,1113,175.26,2025-05-28
+ORD01558,Nellore,Diabetes,Metformin-500mg,729,203.07,2025-05-15
+ORD02258,Karimnagar,Diabetes,Metformin-500mg,1296,345.83,2025-06-18
+ORD01812,Vijayawada,Vitamins,Vitamin-D3,841,147.96,2025-06-04
+ORD00557,Bengaluru,Cardiac,Amlodipine-5mg,1240,186.35,2025-04-18
+ORD01919,Visakhapatnam,Cardiac,Amlodipine-5mg,1088,195.26,2025-06-25
+ORD01188,Guntur,Diabetes,Metformin-500mg,800,210.01,2025-05-08
+ORD02275,Karimnagar,Respiratory,Salbutamol-Inhaler,717,128.58,2025-06-12
+ORD00571,Bengaluru,Cardiac,Amlodipine-5mg,1103,188.53,2025-04-23
+ORD00353,Visakhapatnam,Respiratory,Salbutamol-Inhaler,702,171.45,2025-04-17
+ORD00092,Hyderabad,Pain Relief,Paracetamol-650,1081,196.42,2025-04-01
+ORD02150,Tirupati,Antibiotics,Amoxicillin-500,930,230.72,2025-06-17
+ORD01933,Visakhapatnam,Pain Relief,Paracetamol-650,930,142.38,2025-06-26
+ORD02152,Tirupati,Respiratory,Salbutamol-Inhaler,822,207.33,2025-06-09
+ORD01976,Visakhapatnam,Diabetes,Metformin-500mg,817,218.23,2025-06-20
+ORD02127,Guntur,Diabetes,Metformin-500mg,1133,199.87,2025-06-24
+ORD00349,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1093,175.61,2025-04-24
+ORD02259,Karimnagar,Antibiotics,Amoxicillin-500,597,,2025-06-01
+ORD02360,bangalore,Pain Relief,Paracetamol-650,1072,252.91,2025-06-14
+ORD01303,Tirupati,Cardiac,Amlodipine-5mg,1096,206.94,2025-05-22
+ORD01566,Nellore,Cardiac,Amlodipine-5mg,992,261.31,2025-05-08
+ORD02418,Nellore,Pain Relief,Paracetamol-650,1250,271.83,2025-06-01
+ORD02404,Bengaluru,Vitamins,Vitamin-D3,1437,339.53,2025-06-18
+ORD02113,Guntur,Antibiotics,Amoxicillin-500,1199,209.75,2025-06-20
+ORD00454,Tirupati,,Amoxicillin-500,500,95.9,2025-04-01
+ORD00914,Warangal,Cardiac,Amlodipine-5mg,1384,237.24,2025-05-17
+ORD02413,Nellore,Diabetes,Metformin-500mg,1098,301.8,2025-06-06
+ORD00038,Hyderabad,Antibiotics,Amoxicillin-500,1270,283.82,2025-04-11
+ORD00975,Vijayawada,Respiratory,Salbutamol-Inhaler,1135,175.56,2025-05-23
+ORD02252,Karimnagar,Pain Relief,Paracetamol-650,1009,165.83,2025-06-25
+ORD01785,Vijayawada,Antibiotics,Amoxicillin-500,774,133.25,2025-06-11
+ORD00040,Hyderabad,Pain Relief,Paracetamol-650,1105,254.98,2025-04-17
+ORD00510,Karimnagar,Diabetes,Metformin-500mg,1143,305.13,2025-04-22
+ORD00170,Warangal,Antibiotics,Amoxicillin-500,958,233.47,2025-04-11
+ORD01847,Vijayawada,Vitamins,Vitamin-D3,1314,205.04,2025-06-06
+ORD02466,Nellore,Vitamins,Vitamin-D3,712,126.29,2025-06-17
+ORD01375,Karimnagar,Antibiotics,Amoxicillin-500,1042,214.06,2025-05-24
+ORD00635,Nellore,Vitamins,Vitamin-D3,1064,175.9,2025-04-12
+ORD01689,Hyderabad,Respiratory,Salbutamol-Inhaler,907,202.14,2025-06-18
+ORD00580,Bengaluru,,Amlodipine-5mg,963,163.69,2025-04-20
+ORD01601,Hyderabad,Antibiotics,Amoxicillin-500,895,160.77,2025-06-01
+ORD00893,Warangal,,Vitamin-D3,1064,196.9,2025-05-09
+ORD00781,Hyderabad,Vitamins,Vitamin-D3,760,146.71,2025-05-22
+ORD00160,WARANGAL,Vitamins,Vitamin-D3,1077,245.16,2025-04-19
+ORD01128,Guntur,Antibiotics,Amoxicillin-500,932,170.2,2025-05-07
+ORD01420,Bengaluru,Respiratory,Salbutamol-Inhaler,1055,233.29,2025-05-04
+ORD00062,Hyderabad,Respiratory,Salbutamol-Inhaler,956,193.87,2025-04-26
+ORD00850,Warangal,Cardiac,Amlodipine-5mg,1034,278.46,2025-05-21
+ORD01610,hyderabad,Pain Relief,Paracetamol-650,859,189.04,2025-06-22
+ORD02459,Nellore,Pain Relief,Paracetamol-650,761,132.0,2025-06-15
+ORD01044,Visakhapatnam,Cardiac,Amlodipine-5mg,804,198.34,2025-05-09
+ORD01405,Bengaluru,Respiratory,Salbutamol-Inhaler,1243,,2025-05-13
+ORD01179,Guntur,Diabetes,Metformin-500mg,1025,268.77,2025-05-19
+ORD01071,Visakhapatnam,Vitamins,Vitamin-D3,943,177.42,2025-05-22
+ORD00054,Hyderabad,Diabetes,Metformin-500mg,889,136.08,2025-04-25
+ORD01612,Hyderabad,Respiratory,Salbutamol-Inhaler,977,175.88,2025-06-15
+ORD00506,Karimnagar,Respiratory,Salbutamol-Inhaler,1361,285.36,2025-04-20
+ORD00753,Hyderabad,Antibiotics,Amoxicillin-500,1266,292.85,2025-05-10
+ORD02002,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1242,305.04,2025-06-09
+ORD02393,Bengaluru,Vitamins,Vitamin-D3,1139,285.94,2025-06-09
+ORD01451,Bengaluru,,Paracetamol-650,685,165.43,2025-05-08
+ORD01859,Vijayawada,Cardiac,Amlodipine-5mg,996,216.02,2025-06-11
+ORD02093,Guntur,,Vitamin-D3,699,162.54,2025-06-23
+ORD00772,Hyderabad,Pain Relief,Paracetamol-650,1155,186.79,2025-05-06
+ORD02387,Bengaluru,Diabetes,Metformin-500mg,1024,184.43,2025-06-17
+ORD02280,Karimnagar,Antibiotics,Amoxicillin-500,1369,380.55,2025-06-18
+ORD01086,Visakhapatnam,Pain Relief,Paracetamol-650,1108,187.17,2025-05-25
+ORD01881,Vijayawada,Respiratory,Salbutamol-Inhaler,1185,317.12,2025-06-09
+ORD01242,Tirupati,Cardiac,Amlodipine-5mg,1260,191.1,2025-05-14
+ORD02078,Guntur,Vitamins,Vitamin-D3,1324,267.96,2025-06-07
+ORD01221,Guntur,Antibiotics,Amoxicillin-500,832,149.94,2025-05-11
+ORD01222,Guntur,,Amlodipine-5mg,1129,226.47,2025-05-21
+ORD01243,Tirupati,Pain Relief,Paracetamol-650,1198,255.94,2025-05-02
+ORD00964,Vijayawada,,Paracetamol-650,1208,328.67,2025-05-22
+ORD01209,Guntur,Respiratory,Salbutamol-Inhaler,898,158.91,2025-05-24
+ORD00399,Guntur,Cardiac,Amlodipine-5mg,1057,291.58,2025-04-10
+ORD00585,Bengaluru,Respiratory,Salbutamol-Inhaler,591,135.8,2025-04-11
+ORD00949,Vijayawada,Antibiotics,Amoxicillin-500,1185,285.93,2025-05-04
+ORD00705,Nellore,Cardiac,Amlodipine-5mg,929,155.62,2025-04-10
+ORD00432,Tirupati,Respiratory,Salbutamol-Inhaler,829,204.05,2025-04-25
+ORD00293,Visakhapatnam,Pain Relief,Paracetamol-650,915,216.86,2025-04-08
+ORD02144,Tirupati,Diabetes,Metformin-500mg,801,150.16,2025-06-01
+ORD01506,Nellore,Cardiac,Amlodipine-5mg,1147,204.79,2025-05-18
+ORD01591,Hyderabad,Vitamins,Vitamin-D3,1301,331.71,2025-06-10
+ORD00003,Hyderabad,Diabetes,Metformin-500mg,934,191.04,2025-04-25
+ORD00577,Bengaluru,Antibiotics,Amoxicillin-500,739,185.41,2025-04-22
+ORD01867,Vijayawada,Diabetes,Metformin-500mg,742,133.12,2025-06-20
+ORD00340,Visakhapatnam,Pain Relief,Paracetamol-650,1108,259.09,2025-04-17
+ORD02175,Tirupati,Cardiac,Amlodipine-5mg,1164,305.21,2025-06-08
+ORD00926,Vijayawada,Antibiotics,Amoxicillin-500,1013,239.77,2025-05-11
+ORD00266,Vijayawada,Diabetes,Metformin-500mg,1105,305.82,2025-04-12
+ORD00377,Guntur,Antibiotics,Amoxicillin-500,1325,230.95,2025-04-28
+ORD00272,Visakhapatnam,Antibiotics,Amoxicillin-500,820,184.58,2025-04-21
+ORD00697,Nellore,Diabetes,Metformin-500mg,995,208.86,2025-04-16
+ORD02114,Guntur,Pain Relief,Paracetamol-650,1507,357.25,2025-06-26
+ORD00245,Vijayawada,,Salbutamol-Inhaler,898,158.16,2025-04-12
+ORD01594,Hyderabad,Cardiac,Amlodipine-5mg,1127,315.39,2025-06-02
+ORD00477,Karimnagar,Antibiotics,Amoxicillin-500,984,177.99,2025-04-14
+ORD01768,Warangal,Vitamins,Vitamin-D3,932,186.97,2025-06-15
+ORD01248,Tirupati,Antibiotics,Amoxicillin-500,1059,238.47,2025-05-03
+ORD01341,Karimnagar,Vitamins,Vitamin-D3,1341,268.94,2025-05-12
+ORD02074,Guntur,Vitamins,Vitamin-D3,876,183.06,2025-06-01
+ORD01357,Karimnagar,Vitamins,Vitamin-D3,1059,216.43,2025-05-28
+ORD00251,Vijayawada,Antibiotics,Amoxicillin-500,1305,238.27,2025-04-10
+ORD00414,Tirupati,Cardiac,Amlodipine-5mg,1184,214.71,2025-04-01
+ORD01809,Vijayawada,,Paracetamol-650,913,227.47,2025-06-21
+ORD02355,Bengaluru,Vitamins,Vitamin-D3,692,131.64,2025-06-08
+ORD00311,Visakhapatnam,Cardiac,Amlodipine-5mg,1287,295.93,2025-04-03
+ORD00894,Warangal,Diabetes,Metformin-500mg,1177,193.55,2025-05-08
+ORD01132,Guntur,Pain Relief,Paracetamol-650,989,183.45,2025-05-20
+ORD02471,Nellore,Vitamins,Vitamin-D3,984,186.33,2025-06-07
+ORD00016,Hyderabad,Antibiotics,Amoxicillin-500,1096,200.22,2025-04-04
+ORD00722,Hyderabad,Pain Relief,Paracetamol-650,824,212.1,2025-05-13
+ORD02473,Nellore,Cardiac,Amlodipine-5mg,1076,,2025-06-05
+ORD00982,Vijayawada,Cardiac,Amlodipine-5mg,1151,253.21,2025-05-09
+ORD02148,Tirupati,Pain Relief,Paracetamol-650,829,138.89,2025-06-20
+ORD02055,Guntur,Respiratory,Salbutamol-Inhaler,967,241.9,2025-06-26
+ORD00364,Guntur,Cardiac,Amlodipine-5mg,903,188.17,2025-04-28
+ORD01452,Bengaluru,Antibiotics,Amoxicillin-500,1196,223.49,2025-05-26
+ORD00183,Vijayawada,Respiratory,Salbutamol-Inhaler,1051,204.81,2025-04-08
+ORD00986,Vijayawada,Cardiac,Amlodipine-5mg,1239,,2025-05-19
+ORD01447,Bengaluru,Pain Relief,Paracetamol-650,795,216.18,2025-05-27
+ORD01663,Hyderabad,Cardiac,Amlodipine-5mg,1322,361.82,2025-06-19
+ORD01217,Guntur,Antibiotics,Amoxicillin-500,1343,335.38,2025-05-03
+ORD01122,Guntur,Antibiotics,Amoxicillin-500,903,163.21,2025-05-09
+ORD00188,Vijayawada,Pain Relief,Paracetamol-650,1086,203.77,2025-04-20
+ORD00620,bangalore,Pain Relief,Paracetamol-650,1205,206.69,2025-04-06
+ORD01174,Guntur,,Amoxicillin-500,1192,224.39,2025-05-28
+ORD00615,Bengaluru,Diabetes,Metformin-500mg,1177,183.1,2025-04-16
+ORD01564,nellore,Cardiac,Amlodipine-5mg,1340,300.15,2025-05-02
+ORD00995,Vijayawada,Pain Relief,Paracetamol-650,987,168.65,2025-05-05
+ORD00935,Vijayawada,Cardiac,Amlodipine-5mg,1250,248.56,2025-05-23
+ORD00372,Guntur,Vitamins,Vitamin-D3,1149,239.93,2025-04-28
+ORD01396,Bengaluru,Respiratory,Salbutamol-Inhaler,1377,358.49,2025-05-05
+ORD00594,Bengaluru,Cardiac,Amlodipine-5mg,844,209.54,2025-04-17
+ORD00727,Hyderabad,Diabetes,Metformin-500mg,1038,168.1,2025-05-24
+ORD01922,Visakhapatnam,Antibiotics,Amoxicillin-500,1458,289.75,2025-06-06
+ORD00688,Nellore,Diabetes,Metformin-500mg,795,193.14,2025-04-03
+ORD01731,Warangal,,Amoxicillin-500,1014,237.2,2025-06-03
+ORD00137,WARANGAL,Respiratory,Salbutamol-Inhaler,1047,208.07,2025-04-06
+ORD00629,Bengaluru,Vitamins,Vitamin-D3,900,,2025-04-26
+ORD00335,Visakhapatnam,Cardiac,Amlodipine-5mg,1318,289.49,2025-04-14
+ORD02079,Guntur,,Salbutamol-Inhaler,763,161.91,2025-06-02
+ORD01876,Vijayawada,Antibiotics,Amoxicillin-500,1092,269.26,2025-06-24
+ORD01110,Visakhapatnam,Diabetes,Metformin-500mg,1206,260.04,2025-05-28
+ORD01256,Tirupati,Diabetes,Metformin-500mg,936,171.96,2025-05-20
+ORD01862,Vijayawada,Cardiac,Amlodipine-5mg,1356,224.6,2025-06-15
+ORD00711,Hyderabad,,Salbutamol-Inhaler,851,138.3,2025-05-06
+ORD01040,Visakhapatnam,Cardiac,Amlodipine-5mg,929,186.95,2025-05-05
+ORD01365,Karimnagar,Diabetes,Metformin-500mg,925,252.03,2025-05-02
+ORD01507,Nellore,Cardiac,Amlodipine-5mg,936,225.52,2025-05-27
+ORD02346,Bangalore,Antibiotics,Amoxicillin-500,966,167.73,2025-06-06
+ORD01113,Visakhapatnam,Diabetes,Metformin-500mg,932,236.26,2025-05-18
+ORD00466,Tirupati,Diabetes,Metformin-500mg,752,149.79,2025-04-01
+ORD01419,Bengaluru,Antibiotics,Amoxicillin-500,1105,255.93,2025-05-28
+ORD01453,Bengaluru,Pain Relief,Paracetamol-650,994,266.57,2025-05-27
+ORD01934,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1040,,2025-06-03
+ORD01105,Visakhapatnam,Antibiotics,Amoxicillin-500,665,151.76,2025-05-02
+ORD01850,Vijayawada,Respiratory,Salbutamol-Inhaler,1052,222.93,2025-06-18
+ORD00339,Visakhapatnam,Cardiac,Amlodipine-5mg,1162,257.79,2025-04-28
+ORD01513,Nellore,Pain Relief,Paracetamol-650,1289,288.41,2025-05-06
+ORD02135,Guntur,Diabetes,Metformin-500mg,1042,193.44,2025-06-16
+ORD01845,Vijayawada,Diabetes,Metformin-500mg,703,177.33,2025-06-27
+ORD01223,Guntur,Antibiotics,Amoxicillin-500,949,169.31,2025-05-04
+ORD02167,Tirupati,Cardiac,Amlodipine-5mg,883,157.73,2025-06-19
+ORD00817,Hyderabad,Cardiac,Amlodipine-5mg,737,120.8,2025-05-15
+ORD01068,Visakhapatnam,Antibiotics,Amoxicillin-500,807,154.19,2025-05-20
+ORD00275,Visakhapatnam,,Amoxicillin-500,1070,281.91,2025-04-07
+ORD02166,Tirupati,Pain Relief,Paracetamol-650,764,187.25,2025-06-07
+ORD00866,Warangal,Respiratory,Salbutamol-Inhaler,1194,284.93,2025-05-03
+ORD00102,Warangal,Cardiac,Amlodipine-5mg,1018,228.67,2025-04-02
+ORD01607,Hyderabad,Diabetes,Metformin-500mg,1085,272.89,2025-06-07
+ORD00108,Warangal,Cardiac,Amlodipine-5mg,1198,204.08,2025-04-02
+ORD00573,Bengaluru,Vitamins,Vitamin-D3,973,239.86,2025-04-26
+ORD01546,Nellore,Vitamins,Vitamin-D3,1221,310.11,2025-05-10
+ORD01421,Bengaluru,Pain Relief,Paracetamol-650,820,140.21,2025-05-06
+ORD01940,Visakhapatnam,Cardiac,Amlodipine-5mg,1014,271.32,2025-06-06
+ORD01428,Bengaluru,Pain Relief,Paracetamol-650,1116,235.37,2025-05-06
+ORD02336,Bengaluru,Cardiac,Amlodipine-5mg,1231,,2025-06-07
+ORD01271,Tirupati,Diabetes,Metformin-500mg,1087,,2025-05-11
+ORD01563,Nellore,Respiratory,Salbutamol-Inhaler,736,192.06,2025-05-28
+ORD00713,Hyderabad,Pain Relief,Paracetamol-650,866,208.85,2025-05-03
+ORD00073,Hyderabad,Respiratory,Salbutamol-Inhaler,782,125.49,2025-04-07
+ORD01877,Vijayawada,Respiratory,Salbutamol-Inhaler,1354,210.31,2025-06-14
+ORD02452,Nellore,Vitamins,Vitamin-D3,1024,,2025-06-06
+ORD00482,Karimnagar,Vitamins,Vitamin-D3,1055,249.79,2025-04-25
+ORD01736,WARANGAL,Pain Relief,Paracetamol-650,1099,225.21,2025-06-20
+ORD01481,Bengaluru,Antibiotics,Amoxicillin-500,1346,319.37,2025-05-14
+ORD01172,Guntur,Vitamins,Vitamin-D3,1141,180.85,2025-05-13
+ORD02081,Guntur,Cardiac,Amlodipine-5mg,768,203.12,2025-06-13
+ORD02391,Bengaluru,Pain Relief,Paracetamol-650,642,168.08,2025-06-22
+ORD00406,Tirupati,Cardiac,Amlodipine-5mg,1078,300.18,2025-04-13
+ORD00758,Hyderabad,Pain Relief,Paracetamol-650,1118,211.79,2025-05-24
+ORD01422,Bengaluru,Vitamins,Vitamin-D3,1433,358.75,2025-05-15
+ORD01690,Hyderabad,Pain Relief,Paracetamol-650,628,147.44,2025-06-25
+ORD01362,Karimnagar,Pain Relief,Paracetamol-650,1007,203.53,2025-05-07
+ORD02347,Bengaluru,Pain Relief,Paracetamol-650,1017,235.02,2025-06-13
+ORD00744,Hyderabad,Cardiac,Amlodipine-5mg,904,179.86,2025-05-02
+ORD00807,Hyderabad,Respiratory,Salbutamol-Inhaler,1094,166.27,2025-05-12
+ORD02356,Bengaluru,Respiratory,Salbutamol-Inhaler,1124,266.52,2025-06-17
+ORD01667,Hyderabad,Antibiotics,Amoxicillin-500,1004,215.0,2025-06-02
+ORD01979,Visakhapatnam,Pain Relief,Paracetamol-650,917,139.93,2025-06-19
+ORD01495,Nellore,Respiratory,Salbutamol-Inhaler,1035,167.6,2025-05-27
+ORD00149,Warangal,Respiratory,Salbutamol-Inhaler,996,164.31,2025-04-28
+ORD02040,Guntur,Diabetes,Metformin-500mg,1072,293.19,2025-06-13
+ORD01709,Warangal,Respiratory,Salbutamol-Inhaler,681,126.3,2025-06-15
+ORD00693,Nellore,Vitamins,Vitamin-D3,1086,164.98,2025-04-16
+ORD00819,Hyderabad,Pain Relief,Paracetamol-650,1125,270.26,2025-05-11
+ORD01832,Vijayawada,Respiratory,Salbutamol-Inhaler,1128,309.19,2025-06-07
+ORD01504,Nellore,Cardiac,Amlodipine-5mg,1112,173.9,2025-05-07
+ORD01787,Vijayawada,Pain Relief,Paracetamol-650,1199,182.07,2025-06-08
+ORD00702,Nellore,Cardiac,Amlodipine-5mg,1240,226.09,2025-04-25
+ORD02257,Karimnagar,,Amlodipine-5mg,964,244.79,2025-06-04
+ORD00922,Vijayawada,Respiratory,Salbutamol-Inhaler,940,211.21,2025-05-23
+ORD00906,Warangal,Cardiac,Amlodipine-5mg,1320,304.47,2025-05-22
+ORD00455,Tirupati,Respiratory,Salbutamol-Inhaler,1576,344.87,2025-04-04
+ORD01548,Nellore,,Paracetamol-650,1139,301.51,2025-05-17
+ORD01870,Vijayawada,Cardiac,Amlodipine-5mg,692,126.41,2025-06-20
+ORD02448,Nellore,Diabetes,Metformin-500mg,874,174.15,2025-06-20
+ORD00168,Warangal,Cardiac,Amlodipine-5mg,1042,173.39,2025-04-13
+ORD00731,Hyderabad,Diabetes,Metformin-500mg,994,,2025-05-17
+ORD01646,Hyderabad,Cardiac,Amlodipine-5mg,1105,215.68,2025-06-27
+ORD00027,Hyderabad,Vitamins,Vitamin-D3,1239,261.98,2025-04-04
+ORD02117,Guntur,Antibiotics,Amoxicillin-500,1099,191.01,2025-06-16
+ORD01588,Hyderabad,,Paracetamol-650,1143,198.85,2025-06-18
+ORD00998,Vijayawada,Diabetes,Metformin-500mg,960,,2025-05-03
+ORD01177,Guntur,Respiratory,Salbutamol-Inhaler,776,148.87,2025-05-16
+ORD01041,Visakhapatnam,Cardiac,Amlodipine-5mg,1331,313.77,2025-05-01
+ORD01691,Hyderabad,Vitamins,Vitamin-D3,880,202.58,2025-06-12
+ORD01310,Karimnagar,Vitamins,Vitamin-D3,574,134.27,2025-05-17
+ORD02341,Bengaluru,Diabetes,Metformin-500mg,1382,259.47,2025-06-18
+ORD00042,Hyderabad,Vitamins,Vitamin-D3,1137,215.27,2025-04-22
+ORD02421,Nellore,Cardiac,Amlodipine-5mg,1244,213.25,2025-06-08
+ORD02372,Bengaluru,Vitamins,Vitamin-D3,872,176.51,2025-06-12
+ORD01778,Warangal,Respiratory,Salbutamol-Inhaler,731,123.14,2025-06-11
+ORD01503,Nellore,Cardiac,Amlodipine-5mg,918,185.07,2025-05-12
+ORD01311,Karimnagar,Antibiotics,Amoxicillin-500,1190,227.44,2025-05-08
+ORD00610,Bangalore,Antibiotics,Amoxicillin-500,582,103.4,2025-04-16
+ORD01133,Guntur,,Salbutamol-Inhaler,1305,,2025-05-06
+ORD00029,Hyderabad,Vitamins,Vitamin-D3,1090,220.55,2025-04-07
+ORD00442,Tirupati,Cardiac,Amlodipine-5mg,1137,193.85,2025-04-02
+ORD01412,Bengaluru,Pain Relief,Paracetamol-650,983,211.37,2025-05-05
+ORD01863,Vijayawada,Pain Relief,Paracetamol-650,555,152.97,2025-06-17
+ORD00494,Karimnagar,Respiratory,Salbutamol-Inhaler,1250,320.33,2025-04-23
+ORD01259,Tirupati,Cardiac,Amlodipine-5mg,826,128.39,2025-05-17
+ORD01963,Visakhapatnam,Antibiotics,Amoxicillin-500,1362,226.44,2025-06-14
+ORD00237,Vijayawada,,Metformin-500mg,1106,,2025-04-25
+ORD00552,Bengaluru,Cardiac,Amlodipine-5mg,1529,320.6,2025-04-15
+ORD00521,Karimnagar,Diabetes,Metformin-500mg,973,203.13,2025-04-06
+ORD02371,Bengaluru,,Amlodipine-5mg,1176,267.95,2025-06-05
+ORD01233,Tirupati,Diabetes,Metformin-500mg,1105,197.7,2025-05-21
+ORD01139,Guntur,Diabetes,Metformin-500mg,1519,235.12,2025-05-01
+ORD00721,Hyderabad,Pain Relief,Paracetamol-650,1394,308.79,2025-05-21
+ORD01990,Visakhapatnam,Vitamins,Vitamin-D3,1318,242.52,2025-06-15
+ORD01938,Visakhapatnam,Cardiac,Amlodipine-5mg,771,161.48,2025-06-23
+ORD00059,Hyderabad,Vitamins,Vitamin-D3,1069,292.22,2025-04-04
+ORD00632,Nellore,Pain Relief,Paracetamol-650,791,142.25,2025-04-19
+ORD01182,Guntur,Pain Relief,Paracetamol-650,1063,215.96,2025-05-06
+ORD01714,Warangal,Respiratory,Salbutamol-Inhaler,1454,259.35,2025-06-21
+ORD00593,Bengaluru,Pain Relief,Paracetamol-650,854,129.98,2025-04-20
+ORD02222,Karimnagar,Antibiotics,Amoxicillin-500,986,247.35,2025-06-16
+ORD00940,Vijayawada,Respiratory,Salbutamol-Inhaler,862,184.55,2025-05-16
+ORD02374,Bengaluru,,Metformin-500mg,974,217.69,2025-06-01
+ORD01250,Tirupati,Diabetes,Metformin-500mg,814,209.9,2025-05-22
+ORD00905,Warangal,Cardiac,Amlodipine-5mg,903,217.39,2025-05-22
+ORD01280,Tirupati,Antibiotics,Amoxicillin-500,558,145.53,2025-05-08
+ORD02030,Guntur,Diabetes,Metformin-500mg,1116,232.21,2025-06-11
+ORD02447,Nellore,Diabetes,Metformin-500mg,1196,229.29,2025-06-16
+ORD01608,hyderabad,Pain Relief,Paracetamol-650,776,200.2,2025-06-21
+ORD01484,Bengaluru,Cardiac,Amlodipine-5mg,1052,245.83,2025-05-10
+ORD01937,Visakhapatnam,Vitamins,Vitamin-D3,1238,270.03,2025-06-07
+ORD01995,Visakhapatnam,Vitamins,Vitamin-D3,1087,262.55,2025-06-03
+ORD00707,Hyderabad,,Paracetamol-650,940,252.75,2025-05-10
+ORD01023,Visakhapatnam,Respiratory,Salbutamol-Inhaler,946,157.91,2025-05-10
+ORD00746,Hyderabad,Respiratory,Salbutamol-Inhaler,1294,305.63,2025-05-10
+ORD01909,Visakhapatnam,Antibiotics,Amoxicillin-500,548,,2025-06-12
+ORD01488,Bengaluru,Pain Relief,Paracetamol-650,1152,299.9,2025-05-20
+ORD00514,Karimnagar,Diabetes,Metformin-500mg,1243,322.29,2025-04-05
+ORD00082,hyderabad,,Salbutamol-Inhaler,1483,,2025-04-08
+ORD02261,Karimnagar,Diabetes,Metformin-500mg,1130,275.4,2025-06-07
+ORD01309,Tirupati,Respiratory,Salbutamol-Inhaler,794,133.89,2025-05-21
+ORD00915,Warangal,Vitamins,Vitamin-D3,1205,287.65,2025-05-24
+ORD02349,Bengaluru,Vitamins,Vitamin-D3,758,158.65,2025-06-12
+ORD01895,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1022,196.18,2025-06-18
+ORD00151,Warangal,Cardiac,Amlodipine-5mg,1008,221.51,2025-04-19
+ORD00775,Hyderabad,Respiratory,Salbutamol-Inhaler,730,123.74,2025-05-14
+ORD00330,Visakhapatnam,Vitamins,Vitamin-D3,1001,213.99,2025-04-24
+ORD00007,Hyderabad,Respiratory,Salbutamol-Inhaler,723,112.76,2025-04-08
+ORD00944,Vijayawada,Respiratory,Salbutamol-Inhaler,1095,239.64,2025-05-06
+ORD02376,Bengaluru,Diabetes,Metformin-500mg,888,243.35,2025-06-12
+ORD00735,Hyderabad,Antibiotics,Amoxicillin-500,932,200.6,2025-05-18
+ORD00910,Warangal,Diabetes,Metformin-500mg,1149,220.22,2025-05-02
+ORD00469,Tirupati,Cardiac,Amlodipine-5mg,1042,179.04,2025-04-21
+ORD00182,Vijayawada,Vitamins,Vitamin-D3,659,105.84,2025-04-14
+ORD00165,Warangal,Pain Relief,Paracetamol-650,1042,,2025-04-26
+ORD00452,Tirupati,Pain Relief,Paracetamol-650,897,150.55,2025-04-21
+ORD00491,Karimnagar,Respiratory,Salbutamol-Inhaler,1277,337.29,2025-04-16
+ORD01457,Bengaluru,Antibiotics,Amoxicillin-500,1082,262.17,2025-05-27
+ORD01144,Guntur,Cardiac,Amlodipine-5mg,964,,2025-05-11
+ORD01312,Karimnagar,Cardiac,Amlodipine-5mg,1318,243.98,2025-05-11
+ORD01770,Warangal,Cardiac,Amlodipine-5mg,862,152.5,2025-06-08
+ORD01112,Visakhapatnam,Cardiac,Amlodipine-5mg,1322,362.96,2025-05-28
+ORD02429,Nellore,Antibiotics,Amoxicillin-500,617,120.49,2025-06-26
+ORD01369,Karimnagar,Respiratory,Salbutamol-Inhaler,1099,190.1,2025-05-25
+ORD01560,Nellore,Cardiac,Amlodipine-5mg,1134,262.84,2025-05-01
+ORD02156,Tirupati,Vitamins,Vitamin-D3,1029,173.06,2025-06-08
+ORD01799,Vijayawada,Antibiotics,Amoxicillin-500,1027,187.66,2025-06-11
+ORD02026,Guntur,Respiratory,Salbutamol-Inhaler,1028,282.05,2025-06-07
+ORD01930,Visakhapatnam,Vitamins,Vitamin-D3,949,229.65,2025-06-22
+ORD01805,Vijayawada,Antibiotics,Amoxicillin-500,705,190.76,2025-06-07
+ORD01869,Vijayawada,Pain Relief,Paracetamol-650,1443,384.11,2025-06-01
+ORD00328,Visakhapatnam,Antibiotics,Amoxicillin-500,1056,257.24,2025-04-19
+ORD00443,Tirupati,Diabetes,Metformin-500mg,1091,176.59,2025-04-22
+ORD01660,Hyderabad,Respiratory,Salbutamol-Inhaler,750,189.02,2025-06-15
+ORD02139,Tirupati,Diabetes,Metformin-500mg,1195,279.45,2025-06-13
+ORD00833,Warangal,Antibiotics,Amoxicillin-500,1253,261.97,2025-05-08
+ORD02414,Nellore,Respiratory,Salbutamol-Inhaler,911,146.08,2025-06-11
+ORD01974,Visakhapatnam,Diabetes,Metformin-500mg,1067,,2025-06-20
+ORD01367,Karimnagar,Respiratory,Salbutamol-Inhaler,640,123.0,2025-05-05
+ORD00087,Hyderabad,Cardiac,Amlodipine-5mg,944,225.57,2025-04-02
+ORD02489,Nellore,Antibiotics,Amoxicillin-500,1308,,2025-06-08
+ORD00778,Hyderabad,Antibiotics,Amoxicillin-500,995,263.43,2025-05-14
+ORD01559,Nellore,Vitamins,Vitamin-D3,972,166.28,2025-05-19
+ORD00055,Hyderabad,Respiratory,Salbutamol-Inhaler,858,,2025-04-09
+ORD01957,Visakhapatnam,Vitamins,Vitamin-D3,1027,229.18,2025-06-08
+ORD01288,Tirupati,Antibiotics,Amoxicillin-500,1037,208.63,2025-05-15
+ORD01865,Vijayawada,,Salbutamol-Inhaler,660,147.3,2025-06-18
+ORD01641,Hyderabad,Pain Relief,Paracetamol-650,1232,218.2,2025-06-13
+ORD01246,Tirupati,Vitamins,Vitamin-D3,1264,230.15,2025-05-23
+ORD00114,Warangal,Cardiac,Amlodipine-5mg,946,170.05,2025-04-01
+ORD02390,Bengaluru,Cardiac,Amlodipine-5mg,994,207.71,2025-06-08
+ORD00988,Vijayawada,Cardiac,Amlodipine-5mg,740,165.49,2025-05-03
+ORD01966,Visakhapatnam,Vitamins,Vitamin-D3,1198,282.38,2025-06-25
+ORD01638,Hyderabad,Cardiac,Amlodipine-5mg,1184,323.7,2025-06-28
+ORD01010,Vijayawada,Respiratory,Salbutamol-Inhaler,710,114.83,2025-05-06
+ORD01199,Guntur,,Paracetamol-650,1053,231.39,2025-05-28
+ORD00590,Bengaluru,Diabetes,Metformin-500mg,1003,220.57,2025-04-21
+ORD00769,hyderabad,Respiratory,Salbutamol-Inhaler,796,182.85,2025-05-21
+ORD00018,Hyderabad,Vitamins,Vitamin-D3,779,205.55,2025-04-04
+ORD01043,Visakhapatnam,Vitamins,Vitamin-D3,1300,216.86,2025-05-26
+ORD02090,Guntur,Pain Relief,Paracetamol-650,1225,190.74,2025-06-28
+ORD00286,Visakhapatnam,Respiratory,Salbutamol-Inhaler,983,188.49,2025-04-19
+ORD00429,Tirupati,Diabetes,Metformin-500mg,723,133.95,2025-04-02
+ORD02005,Visakhapatnam,Vitamins,Vitamin-D3,1235,332.37,2025-06-03
+ORD02338,Bengaluru,Cardiac,Amlodipine-5mg,1270,243.39,2025-06-07
+ORD00670,Nellore,Respiratory,Salbutamol-Inhaler,1244,263.67,2025-04-12
+ORD00032,Hyderabad,Diabetes,Metformin-500mg,632,108.46,2025-04-02
+ORD01342,Karimnagar,,Amoxicillin-500,822,124.76,2025-05-14
+ORD00723,Hyderabad,Antibiotics,Amoxicillin-500,1136,312.42,2025-05-10
+ORD00952,Vijayawada,Cardiac,Amlodipine-5mg,831,148.67,2025-05-05
+ORD01840,Vijayawada,Vitamins,Vitamin-D3,813,153.73,2025-06-13
+ORD00215,Vijayawada,Cardiac,Amlodipine-5mg,925,171.55,2025-04-08
+ORD01866,Vijayawada,Diabetes,Metformin-500mg,949,227.93,2025-06-22
+ORD01165,Guntur,Pain Relief,Paracetamol-650,1003,179.53,2025-05-24
+ORD00327,Visakhapatnam,,Salbutamol-Inhaler,976,256.04,2025-04-19
+ORD00561,Bengaluru,Antibiotics,Amoxicillin-500,1301,272.51,2025-04-01
+ORD01384,Karimnagar,Diabetes,Metformin-500mg,1439,401.19,2025-05-03
+ORD01087,Visakhapatnam,Diabetes,Metformin-500mg,818,126.64,2025-05-21
+ORD01998,Visakhapatnam,Respiratory,Salbutamol-Inhaler,913,223.78,2025-06-17
+ORD00342,Visakhapatnam,,Salbutamol-Inhaler,1426,380.61,2025-04-11
+ORD00148,Warangal,Antibiotics,Amoxicillin-500,904,194.57,2025-04-16
+ORD02296,Karimnagar,Diabetes,Metformin-500mg,753,130.15,2025-06-11
+ORD02044,Guntur,Cardiac,Amlodipine-5mg,751,202.0,2025-06-17
+ORD01108,Visakhapatnam,,Vitamin-D3,894,,2025-05-16
+ORD00849,Warangal,Pain Relief,Paracetamol-650,1456,303.35,2025-05-02
+ORD00967,Vijayawada,Diabetes,Metformin-500mg,500,82.98,2025-05-23
+ORD01073,Visakhapatnam,Diabetes,Metformin-500mg,934,221.09,2025-05-26
+ORD00156,Warangal,Pain Relief,Paracetamol-650,1239,280.45,2025-04-27
+ORD02348,Bengaluru,Vitamins,Vitamin-D3,690,130.09,2025-06-24
+ORD01673,Hyderabad ,Vitamins,Vitamin-D3,1146,173.28,2025-06-09
+ORD01003,Vijayawada,Pain Relief,Paracetamol-650,1119,303.94,2025-05-09
+ORD01925,Visakhapatnam,Cardiac,Amlodipine-5mg,667,177.07,2025-06-10
+ORD01862,Vijayawada,Cardiac,Amlodipine-5mg,1356,224.6,2025-06-15
+ORD01929,Visakhapatnam,Diabetes,Metformin-500mg,1233,312.23,2025-06-26
+ORD02255,Karimnagar,Diabetes,Metformin-500mg,905,227.64,2025-06-18
+ORD02401,Bengaluru,Antibiotics,Amoxicillin-500,651,174.91,2025-06-06
+ORD01204,Guntur,Respiratory,Salbutamol-Inhaler,847,204.16,2025-05-26
+ORD01702,Hyderabad,Diabetes,Metformin-500mg,917,235.9,2025-06-15
+ORD02394,Bengaluru,Pain Relief,Paracetamol-650,867,194.23,2025-06-06
+ORD01453,Bengaluru,Pain Relief,Paracetamol-650,994,266.57,2025-05-27
+ORD02011,Guntur,,Vitamin-D3,1100,300.28,2025-06-09
+ORD02451,Nellore,Vitamins,Vitamin-D3,938,224.53,2025-06-19
+ORD00876,Warangal,Antibiotics,Amoxicillin-500,1033,184.57,2025-05-24
+ORD02289,Karimnagar,Vitamins,Vitamin-D3,845,195.39,2025-06-06
+ORD00939,Vijayawada,Vitamins,Vitamin-D3,921,,2025-05-25
+ORD02291,Karimnagar,Cardiac,Amlodipine-5mg,1053,276.07,2025-06-24
+ORD00347,Visakhapatnam,Pain Relief,Paracetamol-650,1174,272.88,2025-04-18
+ORD02128,Guntur,Antibiotics,Amoxicillin-500,652,180.75,2025-06-28
+ORD02208,Karimnagar,Cardiac,Amlodipine-5mg,708,,2025-06-02
+ORD02400,Bengaluru,Antibiotics,Amoxicillin-500,781,181.06,2025-06-18
+ORD00386,Guntur,Respiratory,Salbutamol-Inhaler,804,138.18,2025-04-18
+ORD01648,Hyderabad,Cardiac,Amlodipine-5mg,819,182.71,2025-06-26
+ORD02240,Karimnagar,,Vitamin-D3,794,171.71,2025-06-09
+ORD00244,Vijayawada,Respiratory,Salbutamol-Inhaler,513,133.73,2025-04-26
+ORD02010,Guntur,Respiratory,Salbutamol-Inhaler,1102,219.95,2025-06-14
+ORD00937,Vijayawada,Cardiac,Amlodipine-5mg,1080,244.16,2025-05-26
+ORD02191,Tirupati,,Salbutamol-Inhaler,933,,2025-06-04
+ORD00313,Visakhapatnam,Vitamins,Vitamin-D3,1206,265.52,2025-04-10
+ORD02488,Nellore,Antibiotics,Amoxicillin-500,858,,2025-06-20
+ORD01901,Visakhapatnam,Diabetes,Metformin-500mg,664,112.15,2025-06-16
+ORD01333,Karimnagar,Respiratory,Salbutamol-Inhaler,1221,230.51,2025-05-12
+ORD00969,Vijayawada,Pain Relief,Paracetamol-650,758,211.01,2025-05-04
+ORD00661,Nellore,,Amoxicillin-500,1169,239.66,2025-04-28
+ORD00936,Vijayawada,Antibiotics,Amoxicillin-500,895,222.12,2025-05-16
+ORD00371,Guntur,Diabetes,Metformin-500mg,893,225.0,2025-04-24
+ORD00567,Bengaluru,Diabetes,Metformin-500mg,1079,258.16,2025-04-06
+ORD01863,Vijayawada,Pain Relief,Paracetamol-650,555,152.97,2025-06-17
+ORD00825,Warangal,Vitamins,Vitamin-D3,1121,283.91,2025-05-23
+ORD00983,Vijayawada,Cardiac,Amlodipine-5mg,915,254.51,2025-05-26
+ORD02059,Guntur,Pain Relief,Paracetamol-650,983,211.02,2025-06-19
+ORD01533,Nellore,Vitamins,Vitamin-D3,885,186.43,2025-05-01
+ORD02193,Tirupati,Respiratory,Salbutamol-Inhaler,902,219.57,2025-06-22
+ORD01779,Warangal,Vitamins,Vitamin-D3,932,225.71,2025-06-23
+ORD00814,Hyderabad,Diabetes,Metformin-500mg,1043,273.21,2025-05-23
+ORD01431,Bengaluru,,Amoxicillin-500,1129,263.31,2025-05-13
+ORD00779,Hyderabad,Pain Relief,Paracetamol-650,1237,224.9,2025-05-27
+ORD01321,Karimnagar,Respiratory,Salbutamol-Inhaler,1231,299.63,2025-05-03
+ORD01585,Hyderabad,Cardiac,Amlodipine-5mg,743,125.16,2025-06-15
+ORD01053,Visakhapatnam,Antibiotics,Amoxicillin-500,1055,173.01,2025-05-19
+ORD02408,Bangalore,Vitamins,Vitamin-D3,1227,227.01,2025-06-24
+ORD01014,Visakhapatnam,Respiratory,Salbutamol-Inhaler,724,151.26,2025-05-15
+ORD01402,Bengaluru,Cardiac,Amlodipine-5mg,692,,2025-05-25
+ORD02155,Tirupati,Respiratory,Salbutamol-Inhaler,669,119.1,2025-06-19
+ORD02115,Guntur,Vitamins,Vitamin-D3,919,181.04,2025-06-19
+ORD01829,Vijayawada,Diabetes,Metformin-500mg,998,237.21,2025-06-25
+ORD00127,Warangal,Respiratory,Salbutamol-Inhaler,1137,268.1,2025-04-11
+ORD00888,Warangal,,Amoxicillin-500,1266,322.41,2025-05-18
+ORD02085,Guntur,,Paracetamol-650,1257,285.52,2025-06-03
+ORD01348,Karimnagar,Pain Relief,Paracetamol-650,1093,221.82,2025-05-11
+ORD01008,Vijayawada,Pain Relief,Paracetamol-650,756,143.79,2025-05-04
+ORD00356,Guntur,Vitamins,Vitamin-D3,1139,244.26,2025-04-01
+ORD01004,Vijayawada,,Paracetamol-650,693,140.74,2025-05-23
+ORD00683,Nellore,Antibiotics,Amoxicillin-500,1119,259.65,2025-04-21
+ORD00828,Warangal,Cardiac,Amlodipine-5mg,942,246.77,2025-05-13
+ORD01554,Nellore,Vitamins,Vitamin-D3,1449,247.33,2025-05-11
+ORD00985,Vijayawada,Vitamins,Vitamin-D3,856,168.83,2025-05-26
+ORD01234,Tirupati,Cardiac,Amlodipine-5mg,712,,2025-05-05
+ORD02165,Tirupati,Vitamins,Vitamin-D3,1001,280.1,2025-06-23
+ORD00141,Warangal,Vitamins,Vitamin-D3,999,175.72,2025-04-19
+ORD00218,Vijayawada,Diabetes,Metformin-500mg,1054,176.95,2025-04-05
+ORD02092,Guntur,Antibiotics,Amoxicillin-500,1221,272.48,2025-06-01
+ORD01725,Warangal,Diabetes,Metformin-500mg,711,,2025-06-06
+ORD02264,Karimnagar,Respiratory,Salbutamol-Inhaler,1028,220.1,2025-06-04
+ORD01773,WARANGAL,Pain Relief,Paracetamol-650,1455,381.33,2025-06-18
+ORD01515,Nellore,Respiratory,Salbutamol-Inhaler,923,193.5,2025-05-17
+ORD00023,Hyderabad,Antibiotics,Amoxicillin-500,877,193.04,2025-04-22
+ORD00712,Hyderabad,Cardiac,Amlodipine-5mg,1094,192.84,2025-05-27
+ORD01158,Guntur,Pain Relief,Paracetamol-650,1145,279.61,2025-05-02
+ORD01531,nellore,Respiratory,Salbutamol-Inhaler,1170,221.29,2025-05-27
+ORD00872,WARANGAL,Vitamins,Vitamin-D3,1001,155.72,2025-05-18
+ORD02462,Nellore,Respiratory,Salbutamol-Inhaler,877,147.31,2025-06-05
+ORD00011,Hyderabad ,Respiratory,Salbutamol-Inhaler,1190,,2025-04-19
+ORD01816,Vijayawada,Pain Relief,Paracetamol-650,1071,179.35,2025-06-14
+ORD02405,Bengaluru,Diabetes,Metformin-500mg,1168,241.47,2025-06-05
+ORD01767,Warangal,Respiratory,Salbutamol-Inhaler,915,,2025-06-20
+ORD01316,Karimnagar,Cardiac,Amlodipine-5mg,790,210.58,2025-05-12
+ORD00755,Hyderabad,Vitamins,Vitamin-D3,1123,213.56,2025-05-25
+ORD00627,Bengaluru,Diabetes,Metformin-500mg,828,142.25,2025-04-03
+ORD01801,Vijayawada,Diabetes,Metformin-500mg,841,181.15,2025-06-06
+ORD01526,Nellore,Cardiac,Amlodipine-5mg,1266,231.28,2025-05-22
+ORD00130,Warangal,Vitamins,Vitamin-D3,936,236.82,2025-04-05
+ORD00844,Warangal,Pain Relief,Paracetamol-650,1387,274.72,2025-05-06
+ORD00324,Visakhapatnam,Pain Relief,Paracetamol-650,1413,379.92,2025-04-08
+ORD01765,WARANGAL,Respiratory,Salbutamol-Inhaler,1033,246.72,2025-06-21
+ORD01510,Nellore,,Vitamin-D3,817,147.89,2025-05-15
+ORD01285,Tirupati,Vitamins,Vitamin-D3,966,242.35,2025-05-27
+ORD02470,Nellore,Cardiac,Amlodipine-5mg,1057,161.69,2025-06-19
+ORD00015,Hyderabad,Cardiac,Amlodipine-5mg,1067,254.44,2025-04-15
+ORD00948,Vijayawada,Diabetes,Metformin-500mg,1128,243.02,2025-05-23
+ORD00216,Vijayawada,Pain Relief,Paracetamol-650,1331,352.72,2025-04-12
+ORD02309,Bengaluru,Diabetes,Metformin-500mg,1250,208.71,2025-06-04
+ORD02021,Guntur,Vitamins,Vitamin-D3,607,146.93,2025-06-19
+ORD01183,Guntur,Pain Relief,Paracetamol-650,1029,202.39,2025-05-04
+ORD01721,Warangal,Respiratory,Salbutamol-Inhaler,1205,185.22,2025-06-23
+ORD01628,Hyderabad,Antibiotics,Amoxicillin-500,983,259.85,2025-06-10
+ORD00865,Warangal,Antibiotics,Amoxicillin-500,1029,246.55,2025-05-12
+ORD00517,Karimnagar,Respiratory,Salbutamol-Inhaler,988,257.53,2025-04-20
+ORD00598,bangalore,Respiratory,Salbutamol-Inhaler,1272,,2025-04-19
+ORD00196,Vijayawada,Cardiac,Amlodipine-5mg,788,,2025-04-27
+ORD01278,Tirupati,Cardiac,Amlodipine-5mg,913,206.98,2025-05-25
+ORD00289,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1019,228.09,2025-04-18
+ORD00951,Vijayawada,Pain Relief,Paracetamol-650,1213,,2025-05-27
+ORD02399,bangalore,Vitamins,Vitamin-D3,918,172.53,2025-06-17
+ORD01902,Visakhapatnam,Pain Relief,Paracetamol-650,1141,232.64,2025-06-28
+ORD02430,Nellore,Pain Relief,Paracetamol-650,943,192.46,2025-06-14
+ORD01121,Guntur,,Paracetamol-650,1120,305.09,2025-05-20
+ORD00057,hyderabad,Vitamins,Vitamin-D3,1048,,2025-04-14
+ORD00550,Bengaluru,Antibiotics,Amoxicillin-500,911,237.18,2025-04-16
+ORD00157,Warangal,Pain Relief,Paracetamol-650,646,120.39,2025-04-08
+ORD00420,Tirupati,Cardiac,Amlodipine-5mg,981,186.71,2025-04-08
+ORD00923,Vijayawada,Cardiac,Amlodipine-5mg,723,122.36,2025-05-04
+ORD01711,Warangal,Pain Relief,Paracetamol-650,1157,199.19,2025-06-19
+ORD00478,Karimnagar,Cardiac,Amlodipine-5mg,1161,218.61,2025-04-01
+ORD01675,Hyderabad,Antibiotics,Amoxicillin-500,856,234.34,2025-06-07
+ORD01719,Warangal,Pain Relief,Paracetamol-650,861,210.12,2025-06-02
+ORD01524,Nellore,Diabetes,Metformin-500mg,1005,,2025-05-02
+ORD01472,Bengaluru,Pain Relief,Paracetamol-650,1060,229.64,2025-05-22
+ORD00554,Bengaluru,Cardiac,Amlodipine-5mg,1159,293.15,2025-04-18
+ORD01203,Guntur,Antibiotics,Amoxicillin-500,1161,261.11,2025-05-15
+ORD00391,Guntur,Vitamins,Vitamin-D3,750,189.02,2025-04-18
+ORD00579,Bengaluru,Respiratory,Salbutamol-Inhaler,901,203.55,2025-04-05
+ORD02361,Bengaluru,Vitamins,Vitamin-D3,1344,204.21,2025-06-22
+ORD01713,Warangal,Diabetes,Metformin-500mg,719,159.41,2025-06-07
+ORD02313,Bengaluru,Vitamins,Vitamin-D3,1055,276.95,2025-06-10
+ORD00821,Warangal,Antibiotics,Amoxicillin-500,1051,239.09,2025-05-10
+ORD02440,Nellore,Pain Relief,Paracetamol-650,669,139.4,2025-06-21
+ORD01007,Vijayawada,Cardiac,Amlodipine-5mg,1165,317.24,2025-05-18
+ORD01249,Tirupati,Vitamins,Vitamin-D3,959,231.88,2025-05-14
+ORD02303,Bengaluru,Vitamins,Vitamin-D3,1383,,2025-06-04
+ORD00665,Nellore,Pain Relief,Paracetamol-650,1076,213.48,2025-04-05
+ORD02260,Karimnagar,Respiratory,Salbutamol-Inhaler,799,199.67,2025-06-16
+ORD00143,Warangal,,Paracetamol-650,960,229.59,2025-04-16
+ORD02220,Karimnagar,Cardiac,Amlodipine-5mg,962,164.6,2025-06-07
+ORD01903,Visakhapatnam,Antibiotics,Amoxicillin-500,759,201.53,2025-06-12
+ORD00422,Tirupati,Cardiac,Amlodipine-5mg,954,163.42,2025-04-24
+ORD00800,Hyderabad,Diabetes,Metformin-500mg,754,,2025-05-07
+ORD02004,Visakhapatnam,Pain Relief,Paracetamol-650,933,,2025-06-24
+ORD00616,bangalore,Pain Relief,Paracetamol-650,1073,283.92,2025-04-17
+ORD01319,Karimnagar,Vitamins,Vitamin-D3,951,221.67,2025-05-14
+ORD00296,Visakhapatnam,Diabetes,Metformin-500mg,970,196.62,2025-04-10
+ORD00402,Guntur,Diabetes,Metformin-500mg,1079,301.52,2025-04-28
+ORD00089,Hyderabad,Pain Relief,Paracetamol-650,1041,286.17,2025-04-14
+ORD02088,Guntur,Diabetes,Metformin-500mg,853,132.37,2025-06-27
+ORD01499,nellore,Pain Relief,Paracetamol-650,784,128.37,2025-05-20
+ORD00132,Warangal,Vitamins,Vitamin-D3,961,162.16,2025-04-26
+ORD01640,Hyderabad,Vitamins,Vitamin-D3,860,226.92,2025-06-01
+ORD01629,Hyderabad,Respiratory,Salbutamol-Inhaler,858,147.59,2025-06-04
+ORD01739,Warangal,Vitamins,Vitamin-D3,896,,2025-06-10
+ORD01403,Bengaluru,Diabetes,Metformin-500mg,973,251.28,2025-05-27
+ORD02096,Guntur,Antibiotics,Amoxicillin-500,1087,200.22,2025-06-02
+ORD02212,Karimnagar,,Salbutamol-Inhaler,950,164.39,2025-06-11
+ORD01189,Guntur,Antibiotics,Amoxicillin-500,783,165.16,2025-05-28
+ORD00725,Hyderabad,Respiratory,Salbutamol-Inhaler,1368,327.86,2025-05-19
+ORD01315,Karimnagar,Antibiotics,Amoxicillin-500,1100,240.64,2025-05-20
+ORD01843,Vijayawada,Cardiac,Amlodipine-5mg,892,219.59,2025-06-14
+ORD00270,Vijayawada,,Vitamin-D3,1172,261.57,2025-04-04
+ORD01856,Vijayawada,Pain Relief,Paracetamol-650,1178,,2025-06-21
+ORD02111,Guntur,Vitamins,Vitamin-D3,821,178.33,2025-06-09
+ORD01373,Karimnagar,Cardiac,Amlodipine-5mg,778,199.19,2025-05-06
+ORD00918,Vijayawada,Antibiotics,Amoxicillin-500,841,218.2,2025-05-26
+ORD02172,Tirupati,Vitamins,Vitamin-D3,811,156.51,2025-06-27
+ORD01320,Karimnagar,Vitamins,Vitamin-D3,1445,302.75,2025-05-10
+ORD02453,Nellore,Diabetes,Metformin-500mg,1292,346.58,2025-06-04
+ORD01954,Visakhapatnam,Pain Relief,Paracetamol-650,1080,165.55,2025-06-10
+ORD00588,Bengaluru,Diabetes,Metformin-500mg,803,153.89,2025-04-18
+ORD01661,Hyderabad,Diabetes,Metformin-500mg,1427,320.94,2025-06-14
+ORD01806,Vijayawada,Pain Relief,Paracetamol-650,1059,267.03,2025-06-17
+ORD00376,Guntur,Cardiac,Amlodipine-5mg,835,201.75,2025-04-03
+ORD00334,Visakhapatnam,,Amoxicillin-500,1311,352.21,2025-04-14
+ORD01868,Vijayawada,Pain Relief,Paracetamol-650,707,184.94,2025-06-10
+ORD02397,Bengaluru,Respiratory,Salbutamol-Inhaler,1089,298.28,2025-06-20
+ORD01119,Guntur,Respiratory,Salbutamol-Inhaler,1094,176.85,2025-05-20
+ORD01443,Bangalore,,Metformin-500mg,1514,340.63,2025-05-17
+ORD01616,Hyderabad,Respiratory,Salbutamol-Inhaler,1437,237.59,2025-06-16
+ORD00911,Warangal,Cardiac,Amlodipine-5mg,846,182.05,2025-05-27
+ORD00777,Hyderabad ,Diabetes,Metformin-500mg,1016,253.49,2025-05-01
+ORD01819,Vijayawada,Cardiac,Amlodipine-5mg,1220,300.21,2025-06-24
+ORD00329,Visakhapatnam,Diabetes,Metformin-500mg,708,169.23,2025-04-21
+ORD01343,Karimnagar,Antibiotics,Amoxicillin-500,983,184.44,2025-05-05
+ORD00321,Visakhapatnam,Cardiac,Amlodipine-5mg,633,,2025-04-03
+ORD02076,Guntur,,Metformin-500mg,781,,2025-06-04
+ORD00013,Hyderabad,Diabetes,Metformin-500mg,985,219.63,2025-04-13
+ORD00898,Warangal,Diabetes,Metformin-500mg,861,228.97,2025-05-01
+ORD00172,Warangal,Pain Relief,Paracetamol-650,1192,189.2,2025-04-24
+ORD00261,Vijayawada,Pain Relief,Paracetamol-650,1224,323.48,2025-04-15
+ORD01944,Visakhapatnam,,Paracetamol-650,900,164.65,2025-06-05
+ORD00690,Nellore,Vitamins,Vitamin-D3,829,,2025-04-05
+ORD00902,Warangal,Vitamins,Vitamin-D3,513,97.28,2025-05-01
+ORD00259,Vijayawada,Pain Relief,Paracetamol-650,1156,194.57,2025-04-28
+ORD00845,Warangal,Antibiotics,Amoxicillin-500,1118,179.97,2025-05-14
+ORD02350,Bengaluru,Antibiotics,Amoxicillin-500,500,99.97,2025-06-04
+ORD00139,Warangal,Diabetes,Metformin-500mg,1031,216.25,2025-04-10
+ORD01574,Hyderabad,Diabetes,Metformin-500mg,1048,229.98,2025-06-18
+ORD00320,Visakhapatnam,Diabetes,Metformin-500mg,1175,215.2,2025-04-12
+ORD00654,Nellore,Antibiotics,Amoxicillin-500,522,78.96,2025-04-22
+ORD01978,Visakhapatnam,Vitamins,Vitamin-D3,1221,,2025-06-13
+ORD01892,Vijayawada,Diabetes,Metformin-500mg,1340,348.15,2025-06-24
+ORD00559,Bangalore,Vitamins,Vitamin-D3,871,152.83,2025-04-07
+ORD00140,WARANGAL,Vitamins,Vitamin-D3,1283,283.62,2025-04-14
+ORD00113,Warangal,Antibiotics,Amoxicillin-500,792,180.37,2025-04-01
+ORD00532,Karimnagar,Cardiac,Amlodipine-5mg,1097,207.49,2025-04-20
+ORD00225,Vijayawada,,Vitamin-D3,853,210.82,2025-04-22
+ORD00724,Hyderabad ,,Amoxicillin-500,931,141.62,2025-05-07
+ORD02368,Bengaluru,Cardiac,Amlodipine-5mg,838,192.38,2025-06-28
+ORD02181,Tirupati,Diabetes,Metformin-500mg,863,196.03,2025-06-24
+ORD01434,Bengaluru,Respiratory,Salbutamol-Inhaler,637,129.09,2025-05-17
+ORD00326,Visakhapatnam,Pain Relief,Paracetamol-650,1146,186.59,2025-04-07
+ORD01324,Karimnagar,Cardiac,Amlodipine-5mg,959,263.8,2025-05-16
+ORD02023,Guntur,Antibiotics,Amoxicillin-500,897,188.5,2025-06-03
+ORD01459,Bengaluru,Cardiac,Amlodipine-5mg,1033,258.36,2025-05-03
+ORD02266,Karimnagar,Cardiac,Amlodipine-5mg,916,218.49,2025-06-24
+ORD02369,Bengaluru,Vitamins,Vitamin-D3,909,227.77,2025-06-15
+ORD00715,Hyderabad,Pain Relief,Paracetamol-650,1022,227.44,2025-05-23
+ORD00847,WARANGAL,Respiratory,Salbutamol-Inhaler,1147,294.25,2025-05-24
+ORD00194,Vijayawada,Antibiotics,Amoxicillin-500,708,147.52,2025-04-20
+ORD02009,Guntur,Pain Relief,Paracetamol-650,585,,2025-06-05
+ORD00574,Bengaluru,Vitamins,Vitamin-D3,600,112.44,2025-04-26
+ORD00947,Vijayawada,Cardiac,Amlodipine-5mg,1111,279.13,2025-05-07
+ORD00504,Karimnagar,Vitamins,Vitamin-D3,759,114.73,2025-04-01
+ORD01630,Hyderabad,Diabetes,Metformin-500mg,1011,239.24,2025-06-06
+ORD02308,Bengaluru,Antibiotics,Amoxicillin-500,1305,305.21,2025-06-01
+ORD01873,Vijayawada,Respiratory,Salbutamol-Inhaler,1473,273.84,2025-06-22
+ORD00646,Nellore,Respiratory,Salbutamol-Inhaler,1050,190.16,2025-04-13
+ORD00004,Hyderabad,Diabetes,Metformin-500mg,696,167.57,2025-04-11
+ORD02022,Guntur,Pain Relief,Paracetamol-650,810,215.28,2025-06-05
+ORD00468,Tirupati,Antibiotics,Amoxicillin-500,936,167.28,2025-04-24
+ORD01346,Karimnagar,Diabetes,Metformin-500mg,816,142.41,2025-05-04
+ORD00006,Hyderabad,Cardiac,Amlodipine-5mg,1049,290.05,2025-04-20
+ORD01247,Tirupati,Vitamins,Vitamin-D3,1300,219.99,2025-05-08
+ORD00920,Vijayawada,Respiratory,Salbutamol-Inhaler,1142,238.99,2025-05-10
+ORD00548,bangalore,Vitamins,Vitamin-D3,739,178.15,2025-04-22
+ORD00229,Vijayawada,Diabetes,Metformin-500mg,1131,215.24,2025-04-02
+ORD01064,Visakhapatnam,Pain Relief,Paracetamol-650,1049,237.16,2025-05-02
+ORD00543,Bengaluru,Diabetes,Metformin-500mg,1234,194.51,2025-04-19
+ORD00243,Vijayawada,Cardiac,Amlodipine-5mg,1194,332.24,2025-04-10
+ORD00899,Warangal,,Paracetamol-650,1056,223.01,2025-05-16
+ORD01830,Vijayawada,Antibiotics,Amoxicillin-500,1148,310.3,2025-06-07
+ORD01161,Guntur,Antibiotics,Amoxicillin-500,742,116.83,2025-05-14
+ORD01912,Visakhapatnam,Diabetes,Metformin-500mg,901,212.67,2025-06-08
+ORD02134,Guntur,Vitamins,Vitamin-D3,1039,166.3,2025-06-13
+ORD02377,Bengaluru,Pain Relief,Paracetamol-650,1200,192.35,2025-06-06
+ORD01908,Visakhapatnam,,Metformin-500mg,1237,260.37,2025-06-16
+ORD00843,Warangal,Antibiotics,Amoxicillin-500,923,140.15,2025-05-22
+ORD01374,Karimnagar,Vitamins,Vitamin-D3,1005,187.6,2025-05-22
+ORD02151,Tirupati,Pain Relief,Paracetamol-650,914,201.44,2025-06-17
+ORD01861,Vijayawada,Antibiotics,Amoxicillin-500,977,200.72,2025-06-27
+ORD01527,Nellore,Antibiotics,Amoxicillin-500,1050,194.45,2025-05-03
+ORD01606,Hyderabad,Cardiac,Amlodipine-5mg,824,,2025-06-20
+ORD00277,Visakhapatnam,Pain Relief,Paracetamol-650,1155,226.45,2025-04-23
+ORD00662,Nellore,Vitamins,Vitamin-D3,1176,295.02,2025-04-11
+ORD02107,Guntur,Antibiotics,Amoxicillin-500,1369,231.26,2025-06-15
+ORD02160,Tirupati,Antibiotics,Amoxicillin-500,1046,221.78,2025-06-12
+ORD02406,Bengaluru,Respiratory,Salbutamol-Inhaler,799,,2025-06-21
+ORD01939,Visakhapatnam,Diabetes,Metformin-500mg,745,171.12,2025-06-10
+ORD00315,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1033,287.32,2025-04-18
+ORD01467,Bengaluru,Cardiac,Amlodipine-5mg,1245,288.91,2025-05-12
+ORD01344,Karimnagar,Vitamins,Vitamin-D3,787,170.35,2025-05-23
+ORD01926,Visakhapatnam,Cardiac,Amlodipine-5mg,679,132.66,2025-06-16
+ORD00692,Nellore,Cardiac,Amlodipine-5mg,1140,314.71,2025-04-15
+ORD01542,Nellore,Cardiac,Amlodipine-5mg,836,158.0,2025-05-28
+ORD00613,Bengaluru,Antibiotics,Amoxicillin-500,864,145.37,2025-04-28
+ORD00425,Tirupati,Vitamins,Vitamin-D3,1195,235.2,2025-04-09
+ORD01578,Hyderabad,Antibiotics,Amoxicillin-500,1087,169.52,2025-06-02
+ORD00595,Bengaluru,Cardiac,Amlodipine-5mg,924,211.46,2025-04-27
+ORD00880,Warangal,,Vitamin-D3,760,174.51,2025-05-01
+ORD02034,Guntur,Cardiac,Amlodipine-5mg,1037,,2025-06-17
+ORD00623,Bengaluru,Cardiac,Amlodipine-5mg,1185,198.5,2025-04-06
+ORD02056,Guntur,Diabetes,Metformin-500mg,1026,169.95,2025-06-16
+ORD01494,Nellore,Vitamins,Vitamin-D3,952,198.09,2025-05-09
+ORD01695,hyderabad,Respiratory,Salbutamol-Inhaler,989,221.92,2025-06-21
+ORD00228,Vijayawada,Diabetes,Metformin-500mg,1243,196.65,2025-04-02
+ORD01806,Vijayawada,Pain Relief,Paracetamol-650,1059,267.03,2025-06-17
+ORD01170,Guntur,Cardiac,Amlodipine-5mg,1344,346.87,2025-05-15
+ORD00109,Warangal,Diabetes,Metformin-500mg,961,251.54,2025-04-21
+ORD01775,Warangal,Pain Relief,Paracetamol-650,1043,,2025-06-13
+ORD00067,Hyderabad,Pain Relief,Paracetamol-650,908,217.37,2025-04-25
+ORD01418,Bengaluru,Pain Relief,Paracetamol-650,626,97.16,2025-05-20
+ORD01428,Bengaluru,Pain Relief,Paracetamol-650,1116,235.37,2025-05-06
+ORD00025,hyderabad,Respiratory,Salbutamol-Inhaler,1251,283.35,2025-04-02
+ORD01236,Tirupati,Vitamins,Vitamin-D3,1095,230.74,2025-05-20
+ORD02112,Guntur,Respiratory,Salbutamol-Inhaler,1016,230.91,2025-06-08
+ORD00145,Warangal,Antibiotics,Amoxicillin-500,998,249.27,2025-04-21
+ORD00537,Bengaluru,Pain Relief,Paracetamol-650,1051,227.56,2025-04-08
+ORD00812,Hyderabad,Antibiotics,Amoxicillin-500,734,117.59,2025-05-03
+ORD01810,Vijayawada,,Metformin-500mg,1247,345.1,2025-06-07
+ORD01498,Nellore,Antibiotics,Amoxicillin-500,1293,321.97,2025-05-23
+ORD00086,Hyderabad,Pain Relief,Paracetamol-650,882,240.25,2025-04-08
+ORD01255,Tirupati,,Amoxicillin-500,1215,310.88,2025-05-25
+ORD02109,Guntur,Respiratory,Salbutamol-Inhaler,1144,244.14,2025-06-18
+ORD02454,Nellore,Vitamins,Vitamin-D3,1426,293.08,2025-06-10
+ORD01899,Visakhapatnam,Respiratory,Salbutamol-Inhaler,601,115.45,2025-06-05
+ORD01740,Warangal,Cardiac,Amlodipine-5mg,938,155.52,2025-06-22
+ORD00485,Karimnagar,Cardiac,Amlodipine-5mg,570,144.81,2025-04-25
+ORD01655,hyderabad,Antibiotics,Amoxicillin-500,950,146.96,2025-06-16
+ORD02272,Karimnagar,Respiratory,Salbutamol-Inhaler,876,131.41,2025-06-18
+ORD02435,Nellore,Cardiac,Amlodipine-5mg,1054,267.94,2025-06-08
+ORD00739,Hyderabad,Respiratory,Salbutamol-Inhaler,1090,279.92,2025-05-27
+ORD01846,Vijayawada,Respiratory,Salbutamol-Inhaler,1349,311.41,2025-06-02
+ORD02234,Karimnagar,Antibiotics,Amoxicillin-500,1098,272.45,2025-06-19
+ORD00247,Vijayawada,Pain Relief,Paracetamol-650,1318,287.77,2025-04-11
+ORD01818,Vijayawada,Vitamins,Vitamin-D3,814,,2025-06-25
+ORD00363,Guntur,Pain Relief,Paracetamol-650,949,179.71,2025-04-13
+ORD00750,Hyderabad,Respiratory,Salbutamol-Inhaler,1111,217.98,2025-05-09
+ORD01858,Vijayawada,Antibiotics,Amoxicillin-500,878,178.0,2025-06-15
+ORD01647,Hyderabad,Pain Relief,Paracetamol-650,754,115.94,2025-06-14
+ORD01027,Visakhapatnam,,Vitamin-D3,762,121.54,2025-05-16
+ORD01031,Visakhapatnam,Diabetes,Metformin-500mg,1268,261.56,2025-05-16
+ORD01950,Visakhapatnam,Pain Relief,Paracetamol-650,1099,252.76,2025-06-02
+ORD01336,Karimnagar,Respiratory,Salbutamol-Inhaler,1162,239.01,2025-05-15
+ORD02103,Guntur,Respiratory,Salbutamol-Inhaler,725,112.79,2025-06-24
+ORD01742,Warangal,Pain Relief,Paracetamol-650,1193,181.67,2025-06-12
+ORD00666,Nellore,Antibiotics,Amoxicillin-500,1301,311.18,2025-04-18
+ORD00365,Guntur,Vitamins,Vitamin-D3,952,262.65,2025-04-03
+ORD02244,Karimnagar,Antibiotics,Amoxicillin-500,916,196.66,2025-06-09
+ORD01240,Tirupati,Antibiotics,Amoxicillin-500,682,149.93,2025-05-10
+ORD00078,Hyderabad,Vitamins,Vitamin-D3,922,219.7,2025-04-05
+ORD00028,Hyderabad,Vitamins,Vitamin-D3,897,184.81,2025-04-22
+ORD00474,Tirupati,Cardiac,Amlodipine-5mg,752,146.22,2025-04-03
+ORD00526,Karimnagar,Pain Relief,Paracetamol-650,1086,265.66,2025-04-05
+ORD00726,Hyderabad,Diabetes,Metformin-500mg,1050,170.37,2025-05-19
+ORD00056,Hyderabad,,Metformin-500mg,1192,268.77,2025-04-12
+ORD00639,Nellore,Vitamins,Vitamin-D3,912,239.22,2025-04-06
+ORD00303,Visakhapatnam,Pain Relief,Paracetamol-650,1140,254.57,2025-04-01
+ORD00719,Hyderabad,Vitamins,Vitamin-D3,1224,240.56,2025-05-06
+ORD02217,Karimnagar,Respiratory,Salbutamol-Inhaler,1101,229.74,2025-06-20
+ORD01953,Visakhapatnam,Cardiac,Amlodipine-5mg,916,172.15,2025-06-24
+ORD00625,Bengaluru,Cardiac,Amlodipine-5mg,1233,316.6,2025-04-16
+ORD00008,Hyderabad,Cardiac,Amlodipine-5mg,854,170.3,2025-04-12
+ORD01281,Tirupati,Pain Relief,Paracetamol-650,958,178.99,2025-05-02
+ORD00804,Hyderabad,Cardiac,Amlodipine-5mg,993,237.64,2025-05-02
+ORD01050,Visakhapatnam,Vitamins,Vitamin-D3,745,133.47,2025-05-21
+ORD00337,Visakhapatnam,Respiratory,Salbutamol-Inhaler,978,194.13,2025-04-08
+ORD01597,Hyderabad,Pain Relief,Paracetamol-650,1054,207.25,2025-06-19
+ORD00048,Hyderabad,,Salbutamol-Inhaler,1012,228.43,2025-04-26
+ORD02197,Tirupati,Respiratory,Salbutamol-Inhaler,993,233.94,2025-06-06
+ORD00107,Warangal,Vitamins,Vitamin-D3,1275,294.93,2025-04-18
+ORD00350,Visakhapatnam,Pain Relief,Paracetamol-650,698,133.44,2025-04-25
+ORD01080,Visakhapatnam,Cardiac,Amlodipine-5mg,946,162.44,2025-05-10
+ORD00239,Vijayawada,Pain Relief,Paracetamol-650,1183,294.8,2025-04-21
+ORD00214,Vijayawada,Vitamins,Vitamin-D3,996,211.63,2025-04-17
+ORD01145,Guntur,Pain Relief,Paracetamol-650,1114,184.73,2025-05-02
+ORD02324,Bengaluru,,Vitamin-D3,826,216.68,2025-06-27
+ORD01837,Vijayawada,Diabetes,Metformin-500mg,1175,268.64,2025-06-03
+ORD00794,Hyderabad,Vitamins,Vitamin-D3,885,148.37,2025-05-11
+ORD01097,Visakhapatnam,Pain Relief,Paracetamol-650,923,227.93,2025-05-22
+ORD01754,WARANGAL,Pain Relief,Paracetamol-650,1319,357.3,2025-06-05
+ORD01906,Visakhapatnam,Diabetes,Metformin-500mg,1151,187.11,2025-06-18
+ORD01815,Vijayawada,Antibiotics,Amoxicillin-500,940,219.16,2025-06-04
+ORD02380,Bengaluru,Vitamins,Vitamin-D3,1178,260.19,2025-06-06
+ORD00346,Visakhapatnam,Cardiac,Amlodipine-5mg,890,184.07,2025-04-20
+ORD00524,Karimnagar,Antibiotics,Amoxicillin-500,1098,191.9,2025-04-23
+ORD00233,Vijayawada,Vitamins,Vitamin-D3,811,226.56,2025-04-11
+ORD00645,Nellore,Antibiotics,Amoxicillin-500,988,225.2,2025-04-02
+ORD02001,Visakhapatnam,Diabetes,Metformin-500mg,704,132.76,2025-06-09
+ORD01079,Visakhapatnam,Cardiac,Amlodipine-5mg,1347,308.81,2025-05-17
+ORD01429,Bengaluru,Vitamins,Vitamin-D3,1397,,2025-05-11
+ORD00534,Karimnagar,Pain Relief,Paracetamol-650,1286,226.11,2025-04-07
+ORD02216,Karimnagar,,Amlodipine-5mg,839,218.89,2025-06-25
+ORD00604,Bengaluru,Respiratory,Salbutamol-Inhaler,1014,216.15,2025-04-05
+ORD01490,Bengaluru,Diabetes,Metformin-500mg,1014,163.7,2025-05-18
+ORD01938,Visakhapatnam,Cardiac,Amlodipine-5mg,771,161.48,2025-06-23
+ORD01427,Bangalore,Cardiac,Amlodipine-5mg,973,196.45,2025-05-12
+ORD01075,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1140,,2025-05-03
+ORD02285,Karimnagar,Vitamins,Vitamin-D3,717,120.15,2025-06-05
+ORD00061,Hyderabad,Respiratory,Salbutamol-Inhaler,877,207.36,2025-04-19
+ORD02024,Guntur,Pain Relief,Paracetamol-650,1227,246.19,2025-06-12
+ORD00093,Hyderabad,Pain Relief,Paracetamol-650,1075,190.89,2025-04-23
+ORD00667,Nellore,Pain Relief,Paracetamol-650,1081,,2025-04-14
+ORD01793,Vijayawada,Vitamins,Vitamin-D3,1096,266.61,2025-06-09
+ORD02293,Karimnagar,,Amoxicillin-500,963,223.43,2025-06-12
+ORD00281,Visakhapatnam,Diabetes,Metformin-500mg,958,232.64,2025-04-16
+ORD01720,Warangal,Diabetes,Metformin-500mg,1034,257.69,2025-06-25
+ORD01814,Vijayawada,Vitamins,Vitamin-D3,1184,237.64,2025-06-20
+ORD00360,Guntur,Diabetes,Metformin-500mg,1181,227.18,2025-04-19
+ORD01883,Vijayawada,Pain Relief,Paracetamol-650,958,240.96,2025-06-13
+ORD01544,Nellore,Diabetes,Metformin-500mg,1278,215.24,2025-05-23
+ORD01398,Bengaluru,Vitamins,Vitamin-D3,924,155.79,2025-05-02
+ORD01880,Vijayawada,Vitamins,Vitamin-D3,993,,2025-06-04
+ORD00848,Warangal,Antibiotics,Amoxicillin-500,1052,189.76,2025-05-17
+ORD01207,Guntur,Respiratory,Salbutamol-Inhaler,1183,279.98,2025-05-25
+ORD02246,Karimnagar,Vitamins,Vitamin-D3,1097,171.19,2025-06-04
+ORD00761,Hyderabad,Pain Relief,Paracetamol-650,1257,265.15,2025-05-16
+ORD00111,Warangal,Diabetes,Metformin-500mg,1314,209.3,2025-04-19
+ORD01776,Warangal,Vitamins,Vitamin-D3,947,256.22,2025-06-04
+ORD00043,Hyderabad,Antibiotics,Amoxicillin-500,909,247.3,2025-04-05
+ORD01771,Warangal,Diabetes,Metformin-500mg,1244,204.58,2025-06-06
+ORD00126,Warangal,Pain Relief,Paracetamol-650,937,,2025-04-24
+ORD00205,Vijayawada,Respiratory,Salbutamol-Inhaler,732,141.06,2025-04-12
+ORD01474,Bengaluru,Pain Relief,Paracetamol-650,1199,247.42,2025-05-11
+ORD00053,Hyderabad,Cardiac,Amlodipine-5mg,1089,278.95,2025-04-08
+ORD01798,Vijayawada,Cardiac,Amlodipine-5mg,1243,302.79,2025-06-21
+ORD00546,bangalore,Pain Relief,Paracetamol-650,1054,218.48,2025-04-22
+ORD00069,Hyderabad,Diabetes,Metformin-500mg,1088,182.06,2025-04-11
+ORD01834,Vijayawada,,Paracetamol-650,1205,200.04,2025-06-28
+ORD02035,Guntur,Cardiac,Amlodipine-5mg,950,203.84,2025-06-06
+ORD02243,Karimnagar,Pain Relief,Paracetamol-650,1145,208.82,2025-06-21
+ORD01991,Visakhapatnam,Vitamins,Vitamin-D3,1264,241.95,2025-06-26
+ORD01425,Bengaluru,Respiratory,Salbutamol-Inhaler,1182,,2025-05-21
+ORD00184,Vijayawada,Pain Relief,Paracetamol-650,1234,343.02,2025-04-05
+ORD00138,Warangal,Diabetes,Metformin-500mg,840,134.62,2025-04-19
+ORD00900,Warangal,Vitamins,Vitamin-D3,992,254.71,2025-05-01
+ORD00797,Hyderabad,Respiratory,Salbutamol-Inhaler,1104,286.26,2025-05-06
+ORD00133,Warangal,Respiratory,Salbutamol-Inhaler,837,196.26,2025-04-13
+ORD00081,Hyderabad,Pain Relief,Paracetamol-650,913,186.99,2025-04-02
+ORD01587,Hyderabad ,Cardiac,Amlodipine-5mg,1365,,2025-06-07
+ORD02202,Tirupati,Vitamins,Vitamin-D3,1006,248.21,2025-06-19
+ORD00759,hyderabad,Respiratory,Salbutamol-Inhaler,1074,179.47,2025-05-20
+ORD00542,Bengaluru,Respiratory,Salbutamol-Inhaler,1322,341.92,2025-04-26
+ORD01020,Visakhapatnam,,Metformin-500mg,1483,272.92,2025-05-20
+ORD02237,Karimnagar,Cardiac,Amlodipine-5mg,1184,249.82,2025-06-19
+ORD00984,Vijayawada,Pain Relief,Paracetamol-650,752,122.58,2025-05-25
+ORD02277,Karimnagar,,Amlodipine-5mg,1064,211.9,2025-06-27
+ORD00166,Warangal,Vitamins,Vitamin-D3,763,,2025-04-16
+ORD00249,Vijayawada,Antibiotics,Amoxicillin-500,919,,2025-04-04
+ORD01332,Karimnagar,Antibiotics,Amoxicillin-500,1013,260.69,2025-05-02
+ORD00447,Tirupati,Cardiac,Amlodipine-5mg,865,221.14,2025-04-26
+ORD01852,Vijayawada,Diabetes,Metformin-500mg,926,200.86,2025-06-24
+ORD00859,Warangal,,Salbutamol-Inhaler,1154,295.04,2025-05-07
+ORD01359,Karimnagar,Cardiac,Amlodipine-5mg,757,207.28,2025-05-05
+ORD01942,Visakhapatnam,Pain Relief,Paracetamol-650,834,198.87,2025-06-21
+ORD00098,Hyderabad,Cardiac,Amlodipine-5mg,1561,380.52,2025-04-23
+ORD01871,Vijayawada,Antibiotics,Amoxicillin-500,1074,218.4,2025-06-08
+ORD00806,Hyderabad,Diabetes,Metformin-500mg,962,168.38,2025-05-04
+ORD00738,Hyderabad,Pain Relief,Paracetamol-650,1077,220.85,2025-05-01
+ORD02015,Guntur,Antibiotics,Amoxicillin-500,969,,2025-06-10
+ORD01968,Visakhapatnam,Antibiotics,Amoxicillin-500,1129,229.84,2025-06-22
+ORD02072,Guntur,Cardiac,Amlodipine-5mg,1259,242.12,2025-06-17
+ORD00103,Warangal,Respiratory,Salbutamol-Inhaler,1212,311.33,2025-04-02
+ORD00435,Tirupati,Vitamins,Vitamin-D3,766,145.52,2025-04-02
+ORD00075,hyderabad,Pain Relief,Paracetamol-650,736,,2025-04-12
+ORD00578,Bengaluru,Cardiac,Amlodipine-5mg,921,160.54,2025-04-14
+ORD01927,Visakhapatnam,Diabetes,Metformin-500mg,500,134.8,2025-06-13
+ORD02014,Guntur,,Vitamin-D3,1133,178.75,2025-06-16
+ORD01231,Tirupati,Respiratory,Salbutamol-Inhaler,1124,283.59,2025-05-01
+ORD00919,Vijayawada,Respiratory,Salbutamol-Inhaler,1078,,2025-05-12
+ORD01327,Karimnagar,Vitamins,Vitamin-D3,1354,358.06,2025-05-06
+ORD01647,Hyderabad,Pain Relief,Paracetamol-650,754,115.94,2025-06-14
+ORD02334,Bengaluru,Cardiac,Amlodipine-5mg,879,226.65,2025-06-16
+ORD02292,Karimnagar,Vitamins,Vitamin-D3,700,158.31,2025-06-15
+ORD01849,Vijayawada,Pain Relief,Paracetamol-650,802,213.94,2025-06-01
+ORD00763,Hyderabad,Pain Relief,Paracetamol-650,1051,185.36,2025-05-15
+ORD02159,Tirupati,Respiratory,Salbutamol-Inhaler,809,190.07,2025-06-17
+ORD00990,Vijayawada,Antibiotics,Amoxicillin-500,791,171.65,2025-05-21
+ORD00389,Guntur,Diabetes,Metformin-500mg,774,161.35,2025-04-04
+ORD00236,Vijayawada,Cardiac,Amlodipine-5mg,1105,176.53,2025-04-22
+ORD02214,Karimnagar,Vitamins,Vitamin-D3,1234,226.34,2025-06-12
+ORD00268,Vijayawada,Pain Relief,Paracetamol-650,1226,207.64,2025-04-11
+ORD01330,Karimnagar,Diabetes,Metformin-500mg,957,247.03,2025-05-16
+ORD01905,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1281,245.72,2025-06-19
+ORD00118,Warangal,Pain Relief,Paracetamol-650,1095,280.06,2025-04-11
+ORD00438,Tirupati,Antibiotics,Amoxicillin-500,1085,171.53,2025-04-28
+ORD00674,Nellore,Vitamins,Vitamin-D3,1212,332.52,2025-04-14
+ORD00250,Vijayawada,Antibiotics,Amoxicillin-500,902,153.24,2025-04-12
+ORD02173,Tirupati,Vitamins,Vitamin-D3,746,190.08,2025-06-14
+ORD01575,Hyderabad,Pain Relief,Paracetamol-650,1322,317.82,2025-06-15
+ORD00651,Nellore,Respiratory,Salbutamol-Inhaler,821,183.26,2025-04-15
+ORD00095,Hyderabad,Pain Relief,Paracetamol-650,860,,2025-04-10
+ORD01980,Visakhapatnam,Antibiotics,Amoxicillin-500,1091,189.44,2025-06-19
+ORD00034,Hyderabad,Antibiotics,Amoxicillin-500,1400,330.46,2025-04-02
+ORD02224,Karimnagar,Antibiotics,Amoxicillin-500,930,232.69,2025-06-02
+ORD02179,Tirupati,Diabetes,Metformin-500mg,526,101.72,2025-06-16
+ORD02332,Bengaluru,Diabetes,Metformin-500mg,799,127.48,2025-06-03
+ORD00449,Tirupati,,Amlodipine-5mg,1128,289.69,2025-04-06
+ORD01470,Bengaluru,Diabetes,Metformin-500mg,1049,161.37,2025-05-09
+ORD01796,Vijayawada,Cardiac,Amlodipine-5mg,1135,217.3,2025-06-03
+ORD00717,Hyderabad,Cardiac,Amlodipine-5mg,1478,240.36,2025-05-17
+ORD02025,Guntur,Cardiac,Amlodipine-5mg,864,129.94,2025-06-26
+ORD02221,Karimnagar,Pain Relief,Paracetamol-650,1342,262.6,2025-06-04
+ORD00001,Hyderabad,Vitamins,Vitamin-D3,1251,227.48,2025-04-03
+ORD00457,Tirupati,Diabetes,Metformin-500mg,500,100.25,2025-04-08
+ORD01102,Visakhapatnam,Pain Relief,Paracetamol-650,855,225.17,2025-05-23
+ORD01109,Visakhapatnam,Antibiotics,Amoxicillin-500,921,178.6,2025-05-05
+ORD01964,Visakhapatnam,Pain Relief,Paracetamol-650,528,129.54,2025-06-11
+ORD00083,Hyderabad,Diabetes,Metformin-500mg,1148,207.8,2025-04-15
+ORD01482,Bengaluru,,Salbutamol-Inhaler,882,225.56,2025-05-02
+ORD02326,Bengaluru,Antibiotics,Amoxicillin-500,1004,271.24,2025-06-23
+ORD00677,Nellore,Respiratory,Salbutamol-Inhaler,996,207.7,2025-04-08
+ORD01589,Hyderabad,Respiratory,Salbutamol-Inhaler,1405,348.56,2025-06-25
+ORD02171,Tirupati,Antibiotics,Amoxicillin-500,976,205.9,2025-06-27
+ORD01047,Visakhapatnam,Vitamins,Vitamin-D3,1061,253.63,2025-05-16
+ORD01461,Bengaluru,Respiratory,Salbutamol-Inhaler,1116,199.57,2025-05-26
+ORD00771,Hyderabad,Antibiotics,Amoxicillin-500,1136,236.99,2025-05-07
+ORD01894,Visakhapatnam,Pain Relief,Paracetamol-650,1164,205.19,2025-06-15
+ORD01669,Hyderabad,Antibiotics,Amoxicillin-500,1069,203.85,2025-06-17
+ORD01887,Vijayawada,Pain Relief,Paracetamol-650,786,213.97,2025-06-22
+ORD01948,Visakhapatnam,Cardiac,Amlodipine-5mg,1168,259.43,2025-06-16
+ORD01617,Hyderabad,Vitamins,Vitamin-D3,1097,190.21,2025-06-25
+ORD00518,Karimnagar,Cardiac,Amlodipine-5mg,1166,246.48,2025-04-17
+ORD00823,Warangal,Cardiac,Amlodipine-5mg,1022,230.46,2025-05-22
+ORD00405,Guntur,Cardiac,Amlodipine-5mg,1018,,2025-04-11
+ORD00385,Guntur,Vitamins,Vitamin-D3,1123,180.52,2025-04-18
+ORD02065,Guntur,Vitamins,Vitamin-D3,934,188.88,2025-06-27
+ORD02118,Guntur,Vitamins,Vitamin-D3,638,118.16,2025-06-20
+ORD00105,Warangal,Antibiotics,Amoxicillin-500,1024,258.86,2025-04-15
+ORD01634,Hyderabad,Pain Relief,Paracetamol-650,1156,212.93,2025-06-04
+ORD02433,Nellore,Respiratory,Salbutamol-Inhaler,1100,206.19,2025-06-04
+ORD00689,Nellore,Pain Relief,Paracetamol-650,829,210.56,2025-04-21
+ORD00795,Hyderabad,Pain Relief,Paracetamol-650,1043,257.14,2025-05-11
+ORD00827,Warangal,,Metformin-500mg,1043,278.63,2025-05-12
+ORD01878,Vijayawada,Antibiotics,Amoxicillin-500,658,113.11,2025-06-10
+ORD01241,Tirupati,Pain Relief,Paracetamol-650,953,202.52,2025-05-07
+ORD00063,Hyderabad,Antibiotics,Amoxicillin-500,861,178.6,2025-04-26
+ORD01306,Tirupati,Vitamins,Vitamin-D3,776,199.1,2025-05-27
+ORD00853,WARANGAL,Diabetes,Metformin-500mg,988,149.29,2025-05-15
+ORD02342,Bengaluru,Cardiac,Amlodipine-5mg,966,244.59,2025-06-08
+ORD00177,Warangal,,Amoxicillin-500,1364,313.4,2025-04-27
+ORD01263,Tirupati,Vitamins,Vitamin-D3,1241,190.29,2025-05-08
+ORD00224,Vijayawada,,Amoxicillin-500,944,238.11,2025-04-02
+ORD00146,Warangal,,Vitamin-D3,1335,207.09,2025-04-05
+ORD01089,Visakhapatnam,,Vitamin-D3,840,207.1,2025-05-17
+ORD00374,Guntur,Respiratory,Salbutamol-Inhaler,758,168.87,2025-04-06
+ORD01825,Vijayawada,Cardiac,Amlodipine-5mg,803,188.32,2025-06-27
+ORD02153,Tirupati,Antibiotics,Amoxicillin-500,1114,291.34,2025-06-12
+ORD01143,Guntur,Diabetes,Metformin-500mg,1024,282.7,2025-05-15
+ORD02441,Nellore,Pain Relief,Paracetamol-650,1023,202.16,2025-06-12
+ORD02208,Karimnagar,Cardiac,Amlodipine-5mg,708,,2025-06-02
+ORD01275,Tirupati,Vitamins,Vitamin-D3,989,230.91,2025-05-08
+ORD01266,Tirupati,Vitamins,Vitamin-D3,1012,194.63,2025-05-20
+ORD02426,Nellore,Cardiac,Amlodipine-5mg,960,179.38,2025-06-06
+ORD02032,Guntur,Cardiac,Amlodipine-5mg,919,152.65,2025-06-11
+ORD00010,Hyderabad,Pain Relief,Paracetamol-650,727,144.91,2025-04-22
+ORD00450,Tirupati,Respiratory,Salbutamol-Inhaler,1227,218.3,2025-04-02
+ORD01945,Visakhapatnam,Vitamins,Vitamin-D3,978,,2025-06-18
+ORD01839,Vijayawada,Pain Relief,Paracetamol-650,1073,280.56,2025-06-14
+ORD00709,Hyderabad,Diabetes,Metformin-500mg,1206,,2025-05-18
+ORD00256,Vijayawada,Diabetes,Metformin-500mg,1142,290.76,2025-04-02
+ORD00883,Warangal,Diabetes,Metformin-500mg,1254,194.23,2025-05-21
+ORD01618,Hyderabad,Antibiotics,Amoxicillin-500,909,220.41,2025-06-27
+ORD00390,Guntur,Diabetes,Metformin-500mg,1729,306.52,2025-04-20
+ORD01277,Tirupati,Vitamins,Vitamin-D3,1252,208.54,2025-05-10
+ORD02444,Nellore,Vitamins,Vitamin-D3,909,137.19,2025-06-01
+ORD01582,Hyderabad,Respiratory,Salbutamol-Inhaler,1300,326.86,2025-06-09
+ORD00909,Warangal,Antibiotics,Amoxicillin-500,1172,318.89,2025-05-24
+ORD00925,Vijayawada,Diabetes,Metformin-500mg,1334,369.29,2025-05-10
+ORD00752,Hyderabad,Diabetes,Metformin-500mg,708,120.16,2025-05-13
+ORD01972,Visakhapatnam,,Amoxicillin-500,1149,251.6,2025-06-03
+ORD00461,Tirupati,Cardiac,Amlodipine-5mg,992,267.17,2025-04-26
+ORD01748,Warangal,Cardiac,Amlodipine-5mg,1085,274.69,2025-06-18
+ORD02031,Guntur,Cardiac,Amlodipine-5mg,1209,212.44,2025-06-11
+ORD01225,Guntur,Antibiotics,Amoxicillin-500,872,174.85,2025-05-06
+ORD01169,Guntur,Vitamins,Vitamin-D3,1177,214.18,2025-05-04
+ORD00959,Vijayawada,Antibiotics,Amoxicillin-500,1140,274.46,2025-05-27
+ORD00502,Karimnagar,Vitamins,Vitamin-D3,944,152.69,2025-04-07
+ORD01947,Visakhapatnam,Pain Relief,Paracetamol-650,971,253.64,2025-06-07
+ORD01728,Warangal,Pain Relief,Paracetamol-650,1168,292.61,2025-06-14
+ORD00740,Hyderabad,Diabetes,Metformin-500mg,1162,204.46,2025-05-04
+ORD00041,Hyderabad,Respiratory,Salbutamol-Inhaler,1124,178.65,2025-04-18
+ORD00869,Warangal,Vitamins,Vitamin-D3,913,,2025-05-01
+ORD00732,Hyderabad,Cardiac,Amlodipine-5mg,610,116.82,2025-05-05
+ORD00540,Bengaluru,Cardiac,Amlodipine-5mg,848,221.12,2025-04-15
+ORD01202,Guntur,Diabetes,Metformin-500mg,712,148.06,2025-05-11
+ORD01340,Karimnagar,Vitamins,Vitamin-D3,579,140.62,2025-05-17
+ORD00698,Nellore,Pain Relief,Paracetamol-650,947,225.94,2025-04-02
+ORD01672,Hyderabad,Cardiac,Amlodipine-5mg,1236,327.68,2025-06-05
+ORD02131,Guntur,Diabetes,Metformin-500mg,1072,260.08,2025-06-20
+ORD02120,Guntur,Pain Relief,Paracetamol-650,1528,319.53,2025-06-19
+ORD01372,Karimnagar,Pain Relief,Paracetamol-650,810,137.89,2025-05-16
+ORD01146,Guntur,Vitamins,Vitamin-D3,830,148.73,2025-05-01
+ORD01032,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1170,289.24,2025-05-20
+ORD00373,Guntur,Respiratory,Salbutamol-Inhaler,820,140.52,2025-04-06
+ORD00668,Nellore,Pain Relief,Paracetamol-650,896,150.06,2025-04-11
+ORD01432,Bengaluru,Cardiac,Amlodipine-5mg,1190,323.37,2025-05-02
+ORD02229,Karimnagar,Respiratory,Salbutamol-Inhaler,799,123.89,2025-06-23
+ORD00358,Guntur,Vitamins,Vitamin-D3,1241,343.32,2025-04-16
+ORD00968,Vijayawada,Antibiotics,Amoxicillin-500,659,149.71,2025-05-12
+ORD00784,Hyderabad,,Amlodipine-5mg,810,201.36,2025-05-04
+ORD00736,Hyderabad,Diabetes,Metformin-500mg,1049,223.88,2025-05-24
+ORD01354,Karimnagar,Diabetes,Metformin-500mg,1280,289.23,2025-05-04
+ORD01036,Visakhapatnam,Antibiotics,Amoxicillin-500,1024,218.19,2025-05-04
+ORD00971,Vijayawada,Cardiac,Amlodipine-5mg,1119,171.74,2025-05-10
+ORD01977,Visakhapatnam,Pain Relief,Paracetamol-650,1146,241.86,2025-06-04
+ORD00471,Tirupati,Respiratory,Salbutamol-Inhaler,996,149.57,2025-04-14
+ORD00656,Nellore,Diabetes,Metformin-500mg,928,253.46,2025-04-07
+ORD02402,Bengaluru,Diabetes,Metformin-500mg,1100,293.01,2025-06-25
+ORD01910,Visakhapatnam,,Paracetamol-650,1201,315.6,2025-06-19
+ORD02379,Bengaluru,Respiratory,Salbutamol-Inhaler,1163,261.15,2025-06-03
+ORD01397,Bengaluru,,Amoxicillin-500,1439,261.21,2025-05-23
+ORD01537,Nellore,Respiratory,Salbutamol-Inhaler,693,154.89,2025-05-19
+ORD02339,Bengaluru,Respiratory,Salbutamol-Inhaler,1155,295.98,2025-06-16
+ORD02227,Karimnagar,Cardiac,Amlodipine-5mg,791,130.63,2025-06-25
+ORD01550,Nellore,Vitamins,Vitamin-D3,1422,317.4,2025-05-26
+ORD01329,Karimnagar,Diabetes,Metformin-500mg,508,104.12,2025-05-22
+ORD01257,Tirupati,Cardiac,Amlodipine-5mg,1089,204.85,2025-05-19
+ORD02269,Karimnagar,Cardiac,Amlodipine-5mg,1131,257.62,2025-06-16
+ORD01426,Bengaluru,Cardiac,Amlodipine-5mg,1106,,2025-05-28
+ORD01465,Bengaluru,Pain Relief,Paracetamol-650,1291,263.09,2025-05-14
+ORD01556,nellore,Pain Relief,Paracetamol-650,960,259.11,2025-05-03
+ORD02321,Bengaluru,Vitamins,Vitamin-D3,1050,212.78,2025-06-28
+ORD01251,Tirupati,Pain Relief,Paracetamol-650,726,179.92,2025-05-19
+ORD01700,Hyderabad,Vitamins,Vitamin-D3,1144,297.75,2025-06-19
+ORD01253,Tirupati,Respiratory,Salbutamol-Inhaler,1129,241.52,2025-05-24
+ORD02474,Nellore,Vitamins,Vitamin-D3,1272,215.9,2025-06-23
+ORD02367,Bengaluru,,Metformin-500mg,1076,,2025-06-17
+ORD01237,Tirupati,Diabetes,Metformin-500mg,920,253.74,2025-05-12
+ORD00886,Warangal,Cardiac,Amlodipine-5mg,1258,220.38,2025-05-16
+ORD00080,Hyderabad,Pain Relief,Paracetamol-650,907,157.48,2025-04-11
+ORD01173,Guntur,,Vitamin-D3,809,224.1,2025-05-07
+ORD00815,Hyderabad,,Vitamin-D3,807,155.12,2025-05-16
+ORD01853,Vijayawada,Cardiac,Amlodipine-5mg,972,223.51,2025-06-10
+ORD02054,Guntur,Respiratory,Salbutamol-Inhaler,852,151.65,2025-06-03
+ORD00672,Nellore,Diabetes,Metformin-500mg,828,186.29,2025-04-10
+ORD02232,Karimnagar,Vitamins,Vitamin-D3,1183,191.76,2025-06-09
+ORD02490,Nellore,Diabetes,Metformin-500mg,1131,188.25,2025-06-11
+ORD00058,Hyderabad,Cardiac,Amlodipine-5mg,791,172.11,2025-04-24
+ORD00134,Warangal,Respiratory,Salbutamol-Inhaler,1260,291.67,2025-04-20
+ORD01141,Guntur,Pain Relief,Paracetamol-650,1062,261.3,2025-05-19
+ORD00934,Vijayawada,Cardiac,Amlodipine-5mg,1282,216.24,2025-05-11
+ORD00929,Vijayawada,Diabetes,Metformin-500mg,1072,188.07,2025-05-17
+ORD00824,Warangal,Diabetes,Metformin-500mg,1107,231.24,2025-05-07
+ORD01433,Bengaluru,Diabetes,Metformin-500mg,1337,319.38,2025-05-03
+ORD01393,Bengaluru,Pain Relief,Paracetamol-650,776,170.49,2025-05-17
+ORD01532,Nellore,Pain Relief,Paracetamol-650,1195,194.17,2025-05-22
+ORD01215,Guntur,Vitamins,Vitamin-D3,1292,230.11,2025-05-21
+ORD00505,Karimnagar,Diabetes,Metformin-500mg,994,188.57,2025-04-13
+ORD00953,Vijayawada,Diabetes,Metformin-500mg,1060,254.19,2025-05-25
+ORD00348,Visakhapatnam,Pain Relief,Paracetamol-650,965,198.93,2025-04-20
+ORD01997,Visakhapatnam,Respiratory,Salbutamol-Inhaler,914,234.24,2025-06-16
+ORD00387,Guntur,Antibiotics,Amoxicillin-500,1074,269.32,2025-04-02
+ORD01025,Visakhapatnam,Respiratory,Salbutamol-Inhaler,1021,186.11,2025-05-16
+ORD01959,Visakhapatnam,Antibiotics,Amoxicillin-500,906,208.46,2025-06-20
+ORD01385,Karimnagar,Antibiotics,Amoxicillin-500,905,244.54,2025-05-17
+ORD00895,Warangal,Respiratory,Salbutamol-Inhaler,719,167.48,2025-05-28
+ORD00829,Warangal,Vitamins,Vitamin-D3,918,183.24,2025-05-07
+ORD02483,Nellore,Respiratory,Salbutamol-Inhaler,941,149.23,2025-06-07
+ORD00476,Karimnagar,Cardiac,Amlodipine-5mg,846,163.31,2025-04-24
+ORD01684,Hyderabad,Antibiotics,Amoxicillin-500,844,199.95,2025-06-07
+ORD02185,Tirupati,Diabetes,Metformin-500mg,1143,177.24,2025-06-27
+ORD01269,Tirupati,Vitamins,Vitamin-D3,901,228.48,2025-05-28
+ORD02133,Guntur,Antibiotics,Amoxicillin-500,982,212.1,2025-06-05
+ORD00653,Nellore,Pain Relief,Paracetamol-650,571,135.9,2025-04-17
+ORD00173,Warangal,Respiratory,Salbutamol-Inhaler,1096,247.96,2025-04-12
+ORD00039,Hyderabad,Diabetes,Metformin-500mg,989,231.34,2025-04-01
+ORD01289,Tirupati,Vitamins,Vitamin-D3,1063,255.62,2025-05-24
+ORD00714,Hyderabad,Cardiac,Amlodipine-5mg,795,215.39,2025-05-03
+ORD00091,Hyderabad,Pain Relief,Paracetamol-650,635,144.16,2025-04-09
+ORD01206,Guntur,,Amoxicillin-500,1064,172.81,2025-05-06
+ORD02196,Tirupati,Vitamins,Vitamin-D3,1153,317.83,2025-06-27
+ORD01828,Vijayawada,,Paracetamol-650,1245,279.77,2025-06-14
+ORD01156,Guntur,Cardiac,Amlodipine-5mg,1013,211.75,2025-05-20
+ORD01325,Karimnagar,Pain Relief,Paracetamol-650,500,132.73,2025-05-27
+ORD00217,Vijayawada,Diabetes,Metformin-500mg,937,167.9,2025-04-11
+ORD00511,Karimnagar,Respiratory,Salbutamol-Inhaler,865,203.45,2025-04-13
+ORD01681,Hyderabad,Antibiotics,Amoxicillin-500,1049,233.87,2025-06-04
+ORD00500,Karimnagar,Pain Relief,Paracetamol-650,1220,283.78,2025-04-15
+ORD02105,Guntur,Pain Relief,Paracetamol-650,738,195.97,2025-06-20
+ORD01857,Vijayawada,Cardiac,Amlodipine-5mg,1081,217.91,2025-06-21
+ORD01389,Bengaluru,Vitamins,Vitamin-D3,1071,222.84,2025-05-04
+ORD01520,Nellore,Antibiotics,Amoxicillin-500,1471,254.11,2025-05-19
+ORD02314,Bengaluru,Pain Relief,Paracetamol-650,1125,284.59,2025-06-17
+ORD01541,Nellore,Antibiotics,Amoxicillin-500,1180,214.92,2025-05-02
+ORD01218,Guntur,Cardiac,Amlodipine-5mg,1010,206.87,2025-05-22
+ORD01417,Bengaluru,Antibiotics,Amoxicillin-500,734,142.68,2025-05-28
+ORD02138,Tirupati,Pain Relief,Paracetamol-650,1121,205.3,2025-06-16
+ORD01677,Hyderabad,,Vitamin-D3,1013,206.77,2025-06-10
+ORD01198,Guntur,Pain Relief,Paracetamol-650,1069,168.33,2025-05-14
+ORD01543,Nellore,Antibiotics,Amoxicillin-500,985,203.98,2025-05-01
+ORD00954,Vijayawada,Pain Relief,Paracetamol-650,1064,165.48,2025-05-02
+ORD00751,Hyderabad,,Amlodipine-5mg,710,188.68,2025-05-09
+ORD00235,Vijayawada,Respiratory,Salbutamol-Inhaler,695,186.61,2025-04-26
+ORD00733,Hyderabad,Cardiac,Amlodipine-5mg,681,188.12,2025-05-14
+ORD00219,Vijayawada,Vitamins,Vitamin-D3,728,194.93,2025-04-24
+ORD01157,Guntur,Vitamins,Vitamin-D3,1321,231.4,2025-05-14
+ORD02184,Tirupati,Vitamins,Vitamin-D3,504,120.52,2025-06-02
+ORD01210,Guntur,Pain Relief,Paracetamol-650,1064,212.32,2025-05-01
+ORD01066,Visakhapatnam,Vitamins,Vitamin-D3,1015,225.39,2025-05-19
+ORD01063,Visakhapatnam,Pain Relief,Paracetamol-650,914,244.32,2025-05-01
+ORD01168,Guntur,Respiratory,Salbutamol-Inhaler,1011,157.42,2025-05-09
+ORD01493,bangalore,Diabetes,Metformin-500mg,915,175.23,2025-05-14
+ORD02101,Guntur,Diabetes,Metformin-500mg,807,136.3,2025-06-03
+ORD00885,Warangal,Antibiotics,Amoxicillin-500,781,171.95,2025-05-09
+ORD00144,Warangal,Respiratory,Salbutamol-Inhaler,1255,314.81,2025-04-07
+ORD00655,Nellore,Vitamins,Vitamin-D3,1034,280.3,2025-04-09
+ORD00851,Warangal,Respiratory,Salbutamol-Inhaler,919,149.59,2025-05-24
+ORD00718,Hyderabad,Vitamins,Vitamin-D3,826,150.61,2025-05-14
+ORD02420,Nellore,Antibiotics,Amoxicillin-500,1221,202.19,2025-06-27
+ORD00265,Vijayawada,Respiratory,Salbutamol-Inhaler,1212,302.24,2025-04-04
+ORD00076,Hyderabad,Respiratory,Salbutamol-Inhaler,1219,302.25,2025-04-24
+ORD00396,Guntur,Vitamins,Vitamin-D3,635,129.44,2025-04-03
+ORD02383,Bengaluru,Pain Relief,Paracetamol-650,910,153.27,2025-06-06
+ORD02384,Bengaluru,Diabetes,Metformin-500mg,1022,163.29,2025-06-27
+ORD00397,Guntur,Pain Relief,Paracetamol-650,839,227.98,2025-04-01
+ORD01366,Karimnagar,Vitamins,Vitamin-D3,1275,353.69,2025-05-21
+ORD02121,Guntur,Pain Relief,Paracetamol-650,1025,210.74,2025-06-13
+ORD01904,Visakhapatnam,Respiratory,Salbutamol-Inhaler,869,179.08,2025-06-18
+ORD00596,Bengaluru,Vitamins,Vitamin-D3,1294,199.28,2025-04-26
+ORD01297,Tirupati,Antibiotics,Amoxicillin-500,699,113.44,2025-05-23
+ORD01822,Vijayawada,,Amlodipine-5mg,1279,330.13,2025-06-02
+ORD00873,Warangal,Diabetes,Metformin-500mg,991,,2025-05-20
+ORD01549,Nellore,Antibiotics,Amoxicillin-500,1108,241.83,2025-05-21
+ORD00037,Hyderabad,,Metformin-500mg,607,136.0,2025-04-22
+ORD02145,Tirupati,Diabetes,Metformin-500mg,938,234.94,2025-06-25
+ORD02168,Tirupati,Diabetes,Metformin-500mg,895,182.84,2025-06-09
+ORD00978,Vijayawada,Respiratory,Salbutamol-Inhaler,746,159.88,2025-05-10
+ORD01572,Hyderabad,Diabetes,Metformin-500mg,1063,196.83,2025-06-12
+ORD01123,Guntur,Cardiac,Amlodipine-5mg,894,,2025-05-18
+ORD01893,Visakhapatnam,Diabetes,Metformin-500mg,937,251.91,2025-06-06
+ORD00676,Nellore,Vitamins,Vitamin-D3,867,160.2,2025-04-28
+ORD00729,Hyderabad,Cardiac,Amlodipine-5mg,860,,2025-05-25
+ORD00413,Tirupati,Antibiotics,Amoxicillin-500,1074,251.32,2025-04-13
+ORD01517,Nellore,Antibiotics,Amoxicillin-500,997,276.39,2025-05-16
+ORD01650,Hyderabad,Respiratory,Salbutamol-Inhaler,1070,222.77,2025-06-25
+ORD00826,Warangal,Respiratory,Salbutamol-Inhaler,882,245.85,2025-05-28
+ORD00617,Bengaluru,Vitamins,Vitamin-D3,1182,217.76,2025-04-12
+ORD00115,Warangal,Vitamins,Vitamin-D3,1113,277.36,2025-04-09
+ORD00418,Tirupati,Pain Relief,Paracetamol-650,1017,245.34,2025-04-17
+ORD01626,Hyderabad,Antibiotics,Amoxicillin-500,746,161.19,2025-06-25
+ORD02477,Nellore,Vitamins,Vitamin-D3,1314,356.37,2025-06-02
+ORD00090,Hyderabad,Diabetes,Metformin-500mg,915,224.53,2025-04-18
+ORD02083,Guntur,Cardiac,Amlodipine-5mg,1015,235.55,2025-06-16
+ORD00754,Hyderabad,Antibiotics,Amoxicillin-500,932,179.7,2025-05-18
+ORD01631,Hyderabad,Cardiac,Amlodipine-5mg,953,253.29,2025-06-27
+ORD00012,Hyderabad,Vitamins,Vitamin-D3,711,135.74,2025-04-15
+ORD00285,Visakhapatnam,Antibiotics,Amoxicillin-500,1116,262.12,2025-04-25
+ORD01067,Visakhapatnam,Vitamins,Vitamin-D3,771,197.51,2025-05-14
+ORD01192,Guntur,Respiratory,Salbutamol-Inhaler,1020,198.06,2025-05-25
+ORD01441,Bengaluru,Pain Relief,Paracetamol-650,1373,,2025-05-24
+ORD02386,Bengaluru,Antibiotics,Amoxicillin-500,976,189.56,2025-06-15
+ORD02385,Bengaluru,Antibiotics,Amoxicillin-500,880,203.87,2025-06-19
+ORD02304,Bengaluru,Pain Relief,Paracetamol-650,890,162.75,2025-06-24
+ORD01569,Nellore,Cardiac,Amlodipine-5mg,1164,285.65,2025-05-08
+ORD02188,Tirupati,Respiratory,Salbutamol-Inhaler,1372,233.87,2025-06-08
+ORD01688,Hyderabad,Antibiotics,Amoxicillin-500,1199,192.04,2025-06-21
+ORD00852,Warangal,Diabetes,Metformin-500mg,1135,278.6,2025-05-23
+ORD00896,Warangal,Diabetes,Metformin-500mg,785,126.57,2025-05-19
+ORD00497,Karimnagar,Pain Relief,Paracetamol-650,980,257.48,2025-04-10
+ORD01783,Warangal,Vitamins,Vitamin-D3,1046,239.5,2025-06-28
+ORD00336,Visakhapatnam,Diabetes,Metformin-500mg,1033,169.32,2025-04-09
+ORD00516,Karimnagar,Diabetes,Metformin-500mg,1363,267.4,2025-04-11
+ORD01349,Karimnagar,Pain Relief,Paracetamol-650,763,178.32,2025-05-12
+ORD01016,Visakhapatnam,Vitamins,Vitamin-D3,1155,318.85,2025-05-22
+ORD01006,Vijayawada,,Paracetamol-650,1197,290.92,2025-05-20
+ORD01782,Warangal,Diabetes,Metformin-500mg,1143,255.8,2025-06-05
+ORD01786,Vijayawada,Antibiotics,Amoxicillin-500,1161,230.65,2025-06-17
+ORD02071,Guntur,Cardiac,Amlodipine-5mg,997,271.68,2025-06-16
+ORD00357,Guntur,Pain Relief,Paracetamol-650,862,219.4,2025-04-28
+ORD02427,Nellore,Pain Relief,Paracetamol-650,826,231.02,2025-06-20

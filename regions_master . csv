@@ -1,0 +1,11 @@
+region_name,state,is_active
+Hyderabad,Telangana,True
+Warangal,Telangana,True
+Vijayawada,Andhra Pradesh,True
+Visakhapatnam,Andhra Pradesh,True
+Guntur,Andhra Pradesh,True
+Tirupati,Andhra Pradesh,True
+Karimnagar,Telangana,True
+Bengaluru,Karnataka,True
+Nellore,Andhra Pradesh,True
+Kurnool,Andhra Pradesh,False

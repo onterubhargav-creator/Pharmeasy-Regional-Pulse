@@ -2,7 +2,7 @@
 
 ## How to run end-to-end (3 commands)
 1. pip install -r requirements.txt
-2. python clean_data.py && python build_db.py
+2. python generate_dataset.py && python clean_data.py && python build_db.py
 3. streamlit run app.py
 
 ## Pipeline
